@@ -44,6 +44,7 @@
 
   * Torches
   * Archery slots
+  * Noticeboard
 
 == Moat ==
 
