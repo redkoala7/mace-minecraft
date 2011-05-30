@@ -45,7 +45,7 @@
 
 == Moat ==
 
-  * Allow lava or water
+
 
 == Draw Bridges ==
 
