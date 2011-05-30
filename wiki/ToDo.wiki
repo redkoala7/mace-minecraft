@@ -1,7 +1,4 @@
 #summary Planned and possible features
-#labels ToDo
-
-= ToDo =
 
 == General ==
 
