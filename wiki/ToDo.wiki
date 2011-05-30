@@ -17,7 +17,7 @@
   * Ores
   * Dungeons
   * Cobwebs
-  * Multiple levels
+  * Nicer connections between levels
 
 == Plots ==
 
