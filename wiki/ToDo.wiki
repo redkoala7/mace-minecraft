@@ -33,7 +33,6 @@
     * Noticeboards
     * (lots more)
   * Flowers on paths
-  * Stone slabs
   * Street lights
   * Districts
   * Torches
