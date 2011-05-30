@@ -2,9 +2,7 @@
 
 == General ==
 
-  * Generate random city name
   * User interface to allow for customising the city
-  * Target .net framework v2
   * Ruined mode
   * Rail system
   * Set world time
