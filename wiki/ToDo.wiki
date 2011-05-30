@@ -53,7 +53,6 @@
 
 == Guard Towers ==
 
-  * Cobwebs
   * Beds
   * Chests with armour/weapons
 
