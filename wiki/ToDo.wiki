@@ -1,0 +1,67 @@
+#summary Planned and possible features
+#labels ToDo
+
+= ToDo =
+
+== General ==
+
+  * User interface to allow for customising the city
+  * Target .net framework v2
+  * Ruined mode
+  * Rail system
+  * Set world time
+
+== Chunks ==
+
+  * Copy Paste to improve speed
+
+== Sewers ==
+
+  * Sporadic red light torches
+  * Ores
+  * Dungeons
+  * Cobwebs
+  * Multiple levels
+
+== Plots ==
+
+  * More buildings
+    * Warehouse
+    * Blacksmith
+    * Sewer entrance
+    * King's vegetables
+    * Food store
+    * Tavern
+    * Brothel
+    * Barracks
+    * Noticeboards
+    * (lots more)
+  * Flowers on paths
+  * Stone slabs
+  * Street lights
+  * Districts
+  * Torches
+
+== Walls ==
+
+  * Torches
+  * Archery slots
+
+== Moat ==
+
+  * Allow lava or water
+
+== Draw Bridges ==
+
+  * Murder holes
+
+== Guard Towers ==
+
+  * Cobwebs
+  * Beds
+  * Chests with armour/weapons
+
+== Farms ==
+
+  * Mushroom farms
+  * Cactus farms
