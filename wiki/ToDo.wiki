@@ -31,6 +31,7 @@
     * Brothel
     * Barracks
     * Noticeboards
+    * Graveyards
     * (lots more)
   * Flowers on paths
   * Street lights
