@@ -16,6 +16,7 @@
   * Sporadic red light torches
   * Ores
   * Dungeons
+  * Chest of torches
   * Cobwebs
   * Nicer connections between levels
 
