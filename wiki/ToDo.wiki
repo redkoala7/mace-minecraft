@@ -9,14 +9,13 @@
 
 == Chunks ==
 
-  * Copy Paste to improve speed
+  * Use CopyChunk in next version of Substrate
 
 == Sewers ==
 
   * Sporadic red light torches
   * Ores
   * Dungeons
-  * Chest of torches
   * Cobwebs
   * Nicer connections between levels
 
