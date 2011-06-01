@@ -9,7 +9,7 @@
 
 == Chunks ==
 
-  * Use CopyChunk in next version of Substrate
+  * Use Copy Chunk in next version of Substrate
 
 == Sewers ==
 
