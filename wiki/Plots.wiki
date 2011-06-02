@@ -14,7 +14,7 @@ The list of buildings is almost endless, but I'll be focussing on buildings that
   * Warehouse (storage)
   * Blacksmith (crafting)
   * Bakery (food)
-  * King's vegetables (renewable food)
+  * King's vegetable farm (renewable food)
 
 I will probably make some buildings that are purely for aesthetics:
 
