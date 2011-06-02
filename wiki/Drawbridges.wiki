@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This page refers to the four drawbridges hat allow entrance/exit to the city.
+This page refers to the four drawbridges that allow entrance/exit to the city.
 
 = Planned features =
 
