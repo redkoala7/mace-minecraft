@@ -11,53 +11,8 @@
 
   * Use Copy Chunk in next version of Substrate
 
-== Sewers ==
+== Sections ==
 
-  * Sporadic red light torches
-  * Ores
-  * Dungeons
-  * Cobwebs
-  * Nicer connections between levels
+For more planned features, please see the pages dedicated to the sections of the city:
 
-== Plots ==
-
-  * More buildings
-    * Warehouse
-    * Blacksmith
-    * Sewer entrance
-    * King's vegetables
-    * Food store
-    * Tavern
-    * Brothel
-    * Barracks
-    * Noticeboards
-    * Graveyards
-    * (lots more)
-  * Flowers on paths
-  * Street lights
-  * Districts
-  * Torches
-
-== Walls ==
-
-  * Torches
-  * Archery slots
-  * Noticeboard
-
-== Moat ==
-
-
-
-== Draw Bridges ==
-
-  * Murder holes
-
-== Guard Towers ==
-
-  * Beds
-  * Chests with armour/weapons
-
-== Farms ==
-
-  * Mushroom farms
-  * Cactus farms
+[Sewers], [Plots], [Walls], [Moat], [Drawbridges], GuardTowers and [Farms].
