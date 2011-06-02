@@ -1,0 +1,11 @@
+#summary Explanation and planned features
+
+= Introduction =
+
+This page refers to the farms outside the city walls. The farms provide a renewable source of food and sugar canes for the player.
+
+= Planned features =
+
+  * Mushroom farms
+  * Orchards
+  * Cactus farms
