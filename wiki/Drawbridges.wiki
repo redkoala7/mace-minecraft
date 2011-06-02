@@ -1,0 +1,10 @@
+#summary Explanation and planned features
+
+= Introduction =
+
+This page refers to the four drawbridges hat allow entrance/exit to the city.
+
+= Planned features =
+
+  * Murder holes
+  * Drawbridge can be wooden when the moat is water
