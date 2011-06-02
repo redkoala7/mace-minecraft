@@ -1,0 +1,10 @@
+#summary Explanation and planned features
+
+= Introduction =
+
+This page refers to the four guard towers at the corners of the city walls.
+
+= Planned features =
+
+  * Beds
+  * Archery slots
