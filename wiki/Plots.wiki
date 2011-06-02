@@ -8,7 +8,7 @@ The plots are the buildings within the city.
 
 I'm planning to make lots of buildings manually in !MineCraft, then export them to files. The city generator will then select random files to make the city.
 
-The list of buildings is almost endless, but I'll be focussing on buildings that have a purpose.
+The list of buildings is almost endless, but I'll be focussing on buildings that have a purpose, such as:
 
   * House (sleeping)
   * Warehouse (storage)
@@ -20,6 +20,8 @@ I will probably make some buildings that are purely for aesthetics:
 
   * Graveyard
   * Tavern
+  * Park
+  * Fountain
   * Brothel
 
 Some buildings aren't needed:
