@@ -2,6 +2,8 @@
 
 = Introduction =
 
+The sewer is the large network of tunnels below the city.
+
 The main aims of the sewer are:
 
   * To provide a way for the player to obtain ores.
