@@ -1,0 +1,18 @@
+#summary Sewers - Explanation and planned features
+
+= Introduction =
+
+The main aims of the sewer are:
+
+* To provide a way for the player to obtain ores.
+* To provide a challenge for the player, within the city walls.
+
+= Planned features =
+
+  * Sporadic red light torches
+  * Ores
+  * Dungeons
+  * Cobwebs
+  * Nicer connections between levels
+
+Eventually each level of the sewer should be more dangerous as it goes deeper underground.
