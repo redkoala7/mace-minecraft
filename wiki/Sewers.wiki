@@ -4,8 +4,8 @@
 
 The main aims of the sewer are:
 
-* To provide a way for the player to obtain ores.
-* To provide a challenge for the player, within the city walls.
+  * To provide a way for the player to obtain ores.
+  * To provide a challenge for the player, within the city walls.
 
 = Planned features =
 
