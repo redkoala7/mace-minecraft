@@ -14,5 +14,4 @@ The main aims of the sewer are:
   * Dungeons
   * Cobwebs
   * Nicer connections between levels
-
-Eventually each level of the sewer should be more dangerous as it goes deeper underground.
+  * Each level of the sewer should be more dangerous as it goes deeper underground.
