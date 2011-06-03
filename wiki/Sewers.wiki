@@ -1,4 +1,4 @@
-#summary Sewers - Explanation and planned features
+#summary Explanation and planned features
 
 = Introduction =
 
