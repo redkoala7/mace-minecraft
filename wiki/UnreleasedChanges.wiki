@@ -5,3 +5,4 @@
   * The sewer layout now has loops and more tunnels on each level (it's still empty though)
   * Plots are now different sizes
   * Plots are no longer in a rigid grid layout. They look more natural now
+  * Plots will now be rotated randomly
