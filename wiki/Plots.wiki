@@ -1,4 +1,4 @@
-#summary Plots - Explanation and planned features
+#summary Explanation and planned features
 
 = Introduction =
 
