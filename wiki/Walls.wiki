@@ -7,6 +7,6 @@ The walls referred to here are the large city walls that go all around the city.
 = Planned features =
 
   * Archery slots
-  * Noticeboard
-  * Decorations at the gates
+  * ~~Noticeboard~~
+  * Decorations at the gates (aka city emblems)
   * Torches
