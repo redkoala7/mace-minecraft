@@ -1,11 +1,3 @@
 #summary I use this page to keep track of changes in between versions
 
-  * Added murder holes above the drawbridges
-  * Added some more words to the city name generator
-  * The sewer layout now has loops and more tunnels on each level (it's still empty though)
-  * Plots are now different sizes
-  * Plots are no longer in a rigid grid layout. They look more natural now
-  * Plots will now be rotated randomly
-  * Added archery slots to the guard towers
-  * Added noticeboard
-  * Added cactus farms
+Nothing yet...
