@@ -6,5 +6,5 @@ This page refers to the four drawbridges that allow entrance/exit to the city.
 
 = Planned features =
 
-  * Murder holes
+  * ~~Murder holes~~
   * ~~Drawbridge can be wooden when the moat is water~~
