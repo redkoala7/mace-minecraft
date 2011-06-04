@@ -6,3 +6,4 @@
   * Plots are now different sizes
   * Plots are no longer in a rigid grid layout. They look more natural now
   * Plots will now be rotated randomly
+  * Added archery slots to the guard towers
