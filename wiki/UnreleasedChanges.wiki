@@ -8,3 +8,4 @@
   * Plots will now be rotated randomly
   * Added archery slots to the guard towers
   * Added noticeboard
+  * Added cactus farms
