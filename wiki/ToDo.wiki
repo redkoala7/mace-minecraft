@@ -1,5 +1,7 @@
 #summary Planned and possible features
 
+For changes that are done, but not released yet, please see the UnreleasedChanges page.
+
 == General ==
 
   * User interface to allow for customising the city
