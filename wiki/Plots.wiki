@@ -18,6 +18,7 @@ The list of buildings is almost endless, but I'll be focussing on buildings that
 
 I will probably make some buildings that are purely for aesthetics:
 
+  * City square
   * Graveyard
   * Tavern
   * Park
