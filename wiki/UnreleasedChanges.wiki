@@ -1,5 +1,6 @@
 #summary I use this page to keep track of changes in between versions
 
+  * Water moats now have wooden drawbridges (lava ones continue to have stone bridges)
   * Added some more words to the city name generator
   * The sewer layout now has loops and more tunnels on each level (it's still empty though)
   * Plots are now different sizes
