@@ -5,7 +5,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 == General ==
 
   * User interface to allow for customising the city
-  * Ruined mode
   * Rail system
   * Set world time
 
