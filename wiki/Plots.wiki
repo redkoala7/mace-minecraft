@@ -22,6 +22,7 @@ I will probably make some buildings that are purely for aesthetics:
   * Graveyard
   * Tavern
   * Park
+  * City hall
   * Fountain
   * Brothel
 
