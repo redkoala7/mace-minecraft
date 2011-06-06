@@ -1,4 +1,4 @@
 #summary I use this page to keep track of changes in between versions
 
   * The interface is done. It allows for switching off sections (moat, guard towers, farms, etc) along with setting the moat liquid and city size.
-  * City name data is now stored in two text files: !CityStartingWords.txt and !CityEndingWords.txt. The city name is made by combing a random word from the first file with a random word from the second file. Feel free to add more words or suggest words to me and I'll add them to the official version.
+  * City name data is now stored in two text files: !CityStartingWords.txt and !CityEndingWords.txt. The city name is made by combining a random word from the first file with a random word from the second file. Feel free to add more words or suggest words to me and I'll add them to the official version.
