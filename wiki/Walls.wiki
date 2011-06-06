@@ -8,4 +8,8 @@ The walls referred to here are the large city walls that go all around the city.
 
   * Archery slots
   * Decorations at the gates (aka city emblems)
+    * Cross
+    * England flag
+    * Sword
+    * Shield
   * Torches
