@@ -6,4 +6,4 @@ This page refers to the four drawbridges that allow entrance/exit to the city.
 
 = Planned features =
 
- * None yet...
+ * Try adding ropes, to see how they look
