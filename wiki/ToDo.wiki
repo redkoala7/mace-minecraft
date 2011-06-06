@@ -7,13 +7,11 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * User interface to allow for customising the city
   * Rail system
   * Set world time
-  * ~~Move city names to text files~~
   * Allow the user to specify a random seed for city generation
   * Figure out why everything breaks at 24+ plots
   * Option to include/exclude chests
   * Possible to make a nicer connection between the city terrain and the natural terrain?
   * Allow for including/excluding paths and buildings separately
-  * ~~Make a random class to hold all the random methods~~
 
 == Chunks ==
 
