@@ -8,4 +8,3 @@ This page refers to the farms outside the city walls. The farms provide a renewa
 
   * Mushroom farms
   * Orchards
-  * ~~Cactus farms~~
