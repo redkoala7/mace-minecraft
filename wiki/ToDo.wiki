@@ -7,6 +7,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * User interface to allow for customising the city
   * Rail system
   * Set world time
+  * Move city names to text files
+  * Allow the user to specify a random seed for city generation
 
 == Chunks ==
 
