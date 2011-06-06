@@ -6,5 +6,4 @@ This page refers to the large moat that is outside of the city walls.
 
 = Planned features =
 
-  * ~~Allow the user to choose between a water or lava moat.~~
   * Cactus moat
