@@ -18,4 +18,4 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
 For more planned features, please see the pages dedicated to the sections of the city:
 
-[Sewers], [Plots], [Walls], [Moat], [Drawbridges], GuardTowers and [Farms].
+[Sewers], [Buildings], [Walls], [Moat], [Drawbridges], GuardTowers and [Farms].
