@@ -32,5 +32,6 @@ Some buildings aren't needed:
 
 Other possible ideas for the future are:
 
+  * Streets
   * Splitting the city into districts
   * Street lanterns
