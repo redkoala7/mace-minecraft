@@ -8,7 +8,7 @@ This page refers to the farms outside the city walls. The farms provide a renewa
 
   * Mushroom farms
   * Orchards
-  * Larger farms
-  * Only show fences on orchards/sugarcane farms sometimes
+  * ~~Larger farms~~
+  * ~~Only show fences on orchards/sugarcane farms sometimes~~
   * Barns and farm houses
-  * Sometimes have hedges instead of fences
+  * ~~Sometimes have hedges instead of fences~~
