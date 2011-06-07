@@ -4,3 +4,4 @@
   * Fences now appear about 50% of the time on sugarcane farms
   * Some farms will now have hedges instead of fences
   * Maximum size of a farm has been increased from 14 to 24 blocks
+  * Added several million squiggly brackets to the code
