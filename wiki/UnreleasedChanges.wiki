@@ -4,7 +4,7 @@
   * Added three city emblems
   * Added cactus moats
   * Added several million squiggly brackets to the code
-  * The range of city names is now massively increased, thanks to SoNick
+  * The range of city names is now massively increased, thanks to !SoNick
   * Right-clicking the city picture on the main screen will show fifty random city names
   * Thanks to Curufea for these suggestions:
     * Fences now appear about 50% of the time on sugarcane farms
