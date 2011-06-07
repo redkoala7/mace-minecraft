@@ -2,6 +2,7 @@
 
   * Water moat is now one block higher, so the player and mobs can get out easier.
   * Added three city emblems
+  * Added cactus moats
   * Added several million squiggly brackets to the code
   * Thanks to Curufea for these suggestions:
     * Fences now appear about 50% of the time on sugarcane farms
