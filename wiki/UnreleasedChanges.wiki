@@ -1,6 +1,6 @@
 #summary I use this page to keep track of changes in between versions
 
-  * Water moat is now one block higher, so the player and mobs can get out easier.
+  * Water moat is now one block higher, so the player and mobs can get out easily
   * Added three city emblems
   * Added cactus moats
   * Added several million squiggly brackets to the code
