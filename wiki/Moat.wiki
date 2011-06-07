@@ -7,4 +7,3 @@ This page refers to the large moat that is outside of the city walls.
 = Planned features =
 
   * Cactus moat
-  * Option to make the moat go down to bedrock
