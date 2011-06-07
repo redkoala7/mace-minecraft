@@ -1,3 +1,6 @@
 #summary I use this page to keep track of changes in between versions
 
-  * Nothing yet...
+  * Water moat is now one block higher, so the player and mobs can get out easier.
+  * Fences now appear about 50% of the time on sugarcane farms
+  * Some farms will now have hedges instead of fences
+  * Maximum size of a farm has been increased from 14 to 24 blocks
