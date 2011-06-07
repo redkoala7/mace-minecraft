@@ -9,3 +9,5 @@ This page refers to the farms outside the city walls. The farms provide a renewa
   * Mushroom farms
   * Orchards
   * Barns and farm houses
+  * Farms orientated the other way
+  * Putting the door on a random side
