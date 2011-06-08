@@ -4,15 +4,15 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
 == General ==
 
-  * User interface to allow for customising the city
-  * Rail system
-  * Set world time
+  * Set world time (day/night)
   * Allow the user to specify a random seed for city generation
   * Figure out why everything breaks at 24+ plots
   * Option to include/exclude chests
   * Possible to make a nicer connection between the city terrain and the natural terrain?
   * Allow for including/excluding paths and buildings separately
   * Use Copy Chunk
+  * Possible to set the world edited time of the files? (so it appears at the top of the list)
+  * Rail system
   * Door helper functions
   * Rotation should work with doors, signs, chests, etc
 
