@@ -13,6 +13,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Possible to make a nicer connection between the city terrain and the natural terrain?
   * Allow for including/excluding paths and buildings separately
   * Use Copy Chunk
+  * Door helper functions
+  * Rotation should work with doors, signs, chests, etc
 
 == Sections ==
 
