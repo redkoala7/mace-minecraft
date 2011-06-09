@@ -4,7 +4,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
 == General ==
 
-  * Set world time (day/night)
   * Allow the user to specify a random seed for city generation
   * Figure out why everything breaks at 24+ plots
   * Option to include/exclude chests
