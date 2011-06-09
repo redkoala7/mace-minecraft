@@ -11,6 +11,7 @@ These changes are done and will be in V1.3:
   * Fixed the city saplings being unstackable with regular saplings. Thanks to Golgrinn for the bug report
   * The range of city names is now massively increased, thanks to !SoNick
   * It's now possible to have paths without buildings, or vice-versa, if you like
+  * Added light sources to the inside/outside/top of the walls and guard towers
   * Initial time is now random
   * Right-clicking the city picture on the main screen will show fifty random city names
   * Thanks to Curufea for these suggestions:
