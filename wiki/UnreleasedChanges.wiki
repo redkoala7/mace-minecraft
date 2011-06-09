@@ -1,5 +1,7 @@
 #summary I use this page to keep track of changes in between versions
 
+These changes are done and will be in V1.3:
+
   * Added three city emblems
   * Added cactus moats
   * Added a new room to the bottom half of the guard towers, with beds
