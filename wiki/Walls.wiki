@@ -6,6 +6,5 @@ The walls referred to here are the large city walls that go all around the city.
 
 = Planned features =
 
-  * Archery slots
   * More city emblems
   * Make city emblems selectable + optional
