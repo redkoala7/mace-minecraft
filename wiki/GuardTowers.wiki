@@ -7,3 +7,4 @@ This page refers to the four guard towers at the corners of the city walls.
 = Planned features =
 
   * Doors from the guard towers to the city
+  * Different designs
