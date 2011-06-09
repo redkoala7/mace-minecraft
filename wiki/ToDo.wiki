@@ -11,6 +11,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Possible to make a nicer connection between the city terrain and the natural terrain?
   * Allow for including/excluding paths and buildings separately
   * Use Copy Chunk
+  * Credits page
+  * Possible to set biomes?
   * Possible to set the world edited time of the files? (so it appears at the top of the list)
   * Rail system
   * Door helper functions
