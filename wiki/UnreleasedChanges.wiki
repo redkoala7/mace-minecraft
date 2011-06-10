@@ -15,6 +15,7 @@ These changes are done and will be in V1.3:
   * Initial time is now random
   * City saplings are now a random type.
   * Added fire beacons above the guard towers
+  * Added orchards
   * Right-clicking the city picture on the main screen will show fifty random city names
   * Thanks to Curufea for these suggestions:
     * Fences now appear about 50% of the time on sugarcane farms
