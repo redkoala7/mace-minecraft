@@ -7,7 +7,6 @@ This page refers to the farms outside the city walls. The farms provide a renewa
 = Planned features =
 
   * Mushroom farms
-  * Ponds
   * Barns and farm houses
   * Farms orientated the other way
   * Putting the door on a random side
