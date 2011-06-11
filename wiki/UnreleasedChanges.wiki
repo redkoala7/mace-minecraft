@@ -18,6 +18,7 @@ These changes are done and will be in V1.3:
   * Added orchards
   * Added small hills and ponds in amongst the farms
   * There's now slightly less empty land between the farms and the natural world
+  * Some noticeboard messages will now only occur once for each world
   * Right-clicking the city picture on the main screen will show fifty random city names
   * Thanks to Curufea for these suggestions:
     * Fences now appear about 50% of the time on sugarcane farms
