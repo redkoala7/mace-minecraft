@@ -2,7 +2,7 @@
 
 These changes are done and will be in V1.3:
 
-  * Added three city emblems
+  * Added three city emblems (by default Mace will choose a random one, but you can specify if you prefer, or just not have one)
   * Added cactus moats
   * Added a new room to the bottom half of the guard towers, with beds
   * Added several million squiggly brackets to the code
