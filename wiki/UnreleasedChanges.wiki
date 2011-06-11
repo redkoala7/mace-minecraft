@@ -16,6 +16,7 @@ These changes are done and will be in V1.3:
   * City saplings are now a random type.
   * Added fire beacons above the guard towers
   * Added orchards
+  * Added small hills and ponds in amongst the farms
   * There's now slightly less empty land between the farms and the natural world
   * Right-clicking the city picture on the main screen will show fifty random city names
   * Thanks to Curufea for these suggestions:
