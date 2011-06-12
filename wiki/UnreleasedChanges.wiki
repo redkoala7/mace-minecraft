@@ -1,5 +1,5 @@
 #summary I use this page to keep track of changes in between versions
 
-These changes will be in V1.4
+The main focus of V1.4.0 will be the city buildings and their layout. Changes done so far:
 
  * Nothing yet...
