@@ -1,27 +1,5 @@
 #summary I use this page to keep track of changes in between versions
 
-These changes are done and will be in V1.3:
+These changes will be in V1.4
 
-  * Added three city emblems (by default Mace will choose a random one, but you can specify if you prefer, or just not have one)
-  * Added cactus moats
-  * Added a new room to the bottom half of the guard towers, with beds and doors to the city.
-  * Added several million squiggly brackets to the code
-  * Water moat is now one block higher, so the player and mobs can get out easily
-  * Crenels now have a new design. Thanks to Golgrinn for the design and suggestion
-  * Fixed the city saplings being unstackable with regular saplings. Thanks to Golgrinn for the bug report
-  * The range of city names is now massively increased, thanks to !SoNick
-  * It's now possible to have paths without buildings, or vice-versa, if you like
-  * Added light sources to the inside/outside/top of the walls and guard towers
-  * Initial time is now random
-  * City saplings are now a random type.
-  * Added fire beacons above the guard towers
-  * Added orchards
-  * Added small hills and ponds in amongst the farms
-  * There's now slightly less empty land between the farms and the natural world
-  * Some noticeboard messages will now only occur once for each world
-  * Right-clicking the city picture on the main screen will show fifty random city names
-  * Thanks to Curufea for these suggestions:
-    * Fences now appear about 50% of the time on sugarcane farms
-    * Some farms will now have hedges instead of fences
-    * Maximum size of a farm has been increased from 14 to 24 blocks
-    * New moat option: drop to bedrock
+ * Nothing yet...
