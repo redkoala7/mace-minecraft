@@ -6,16 +6,4 @@ The sewer is the large network of tunnels below the city.
 
 = Planned features =
 
-The main aims of the sewer are:
-
-  * To provide a way for the player to obtain ores.
-  * To provide a challenge for the player, within the city walls.
-
-Other planned features are:
-
-  * Sporadic red light torches
-  * Ores
-  * Dungeons
-  * Cobwebs
-  * Nicer connections between levels
-  * Each level of the sewer should be more dangerous as it goes deeper underground.
+I'm currently trying to figure out what to do with the underground. Ideally I would like it to contains ores and dangers, with more valuable ores and greater dangers as the player descends. I need to figure an underground design that is different to MCDungeon and normal !MineCraft.
