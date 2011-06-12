@@ -4,7 +4,7 @@ These changes are done and will be in V1.3:
 
   * Added three city emblems (by default Mace will choose a random one, but you can specify if you prefer, or just not have one)
   * Added cactus moats
-  * Added a new room to the bottom half of the guard towers, with beds
+  * Added a new room to the bottom half of the guard towers, with beds and doors to the city.
   * Added several million squiggly brackets to the code
   * Water moat is now one block higher, so the player and mobs can get out easily
   * Crenels now have a new design. Thanks to Golgrinn for the design and suggestion
