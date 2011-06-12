@@ -26,4 +26,4 @@ These things might be too ambitious or just not possible.
 
 For more planned features, please see the pages dedicated to the sections of the city:
 
-[Sewers], [Buildings], [Walls], [Moat], [Drawbridges], GuardTowers and [Farms].
+[Sewers], [Buildings], NoticeBoard, [Walls], [Moat], [Drawbridges], GuardTowers and [Farms].
