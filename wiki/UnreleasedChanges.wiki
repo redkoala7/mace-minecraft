@@ -2,4 +2,4 @@
 
 The main focus of V1.4.0 will be the city buildings and their layout. Changes done so far:
 
- * Nothing yet...
+ * Made a few simple buildings: crafting hut, graveyard, statue, nice house, poor house
