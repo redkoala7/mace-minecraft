@@ -12,7 +12,6 @@ Some buildings are done already. Here are some more buildings that I would like 
 
   * More types of houses
   * Bakery
-  * King's vegetables
   * Park
   * Brothel
   * City hall
