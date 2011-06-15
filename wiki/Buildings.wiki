@@ -11,13 +11,10 @@ Mace will include a !MineCraft world that contains lots of different buildings. 
 Some buildings are done already. Here are some more buildings that I would like to add:
 
   * More types of houses
-  * Warehouse
   * Bakery
   * King's vegetables
   * Park
-  * Fountain
   * Brothel
-  * City square
   * City hall
   * Tavern
   * Others...
