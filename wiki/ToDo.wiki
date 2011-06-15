@@ -5,8 +5,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 == General ==
 
   * Allow the user to specify a random seed for city generation
-  * Figure out why everything breaks at 24+ plots
-  * Option to include/exclude chests
+  * Option to include/exclude chests (and make valuable materials into common materials)
   * Use Copy Chunk
   * Credits page
   * Rail system
