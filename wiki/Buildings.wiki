@@ -22,6 +22,8 @@ Some buildings need random elements, which are:
   * Gravestone sign maker
   * Statue placard maker
   * House name/number
+  * Rotation to the nearest paths
+  * Importing chests and other entities
 
 = Other planned features =
 
