@@ -6,8 +6,6 @@ This refers to the buildings within the city.
 
 = Planned features for buildings =
 
-Mace will include a !MineCraft world that contains lots of different buildings. These buildings will be extracted from that world and placed within the generated city, with various elements modified to create more variety.
-
 Some buildings are done already. Here are some more buildings that I would like to add:
 
   * More types of houses
@@ -27,8 +25,8 @@ Some buildings need random elements, which are:
 
 = Other planned features =
 
+  * The amount of buildings need to be determine by random weighted chance. For example, there should be more houses and trees, but less graveyards and statues.
   * Would be nice to have underground areas in some buildings (wine cellars, basements, etc)
   * Streets (ideally with names)
-  * Streets should be different widths
   * Splitting the city into districts (probably based on rich/poor)
   * Street lanterns
