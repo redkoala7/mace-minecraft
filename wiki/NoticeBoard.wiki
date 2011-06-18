@@ -9,3 +9,4 @@ The noticeboard is the signs located near the spawn point, with various messages
   * More messages
   * Allow for the noticeboard without the wall
   * Messages should reference buildings within the city
+  * Move the noticeboard to the city square
