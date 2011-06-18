@@ -5,4 +5,5 @@ The main focus of V1.4.0 will be the city buildings and their layout. Changes do
  * The city is now randomly divided into rectangles by paths
  * Random buildings are imported into the city
  * Made a few simple buildings: several houses, crafting hut, graveyard, warehouse, statue, tavern, fountain, trees, greenhouse, bakery
- * Added main roads going through the city, which link the north/south entrance and then east/west entrance.
+ * Added main roads going through the city, which link the north/south entrance and then east/west entrance
+ * Removed the sewer. I want to focus development time on the city
