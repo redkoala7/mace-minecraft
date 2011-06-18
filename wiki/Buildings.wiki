@@ -11,6 +11,7 @@ Some buildings are done already. Here are some more buildings that I would like 
   * More types of houses
   * Park
   * Brothel
+  * Churches
   * City hall
   * Ruined buildings
   * Others...
