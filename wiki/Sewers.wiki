@@ -2,8 +2,4 @@
 
 = Introduction =
 
-The sewer is the large network of tunnels below the city.
-
-= Planned features =
-
-I'm currently trying to figure out what to do with the underground. Ideally I would like it to contains ores and dangers, with more valuable ores and greater dangers as the player descends. I need to figure an underground design that is different to MCDungeon and normal !MineCraft.
+The sewer was a simple network of tunnels under the city, which would eventually be more complex and contain different ores. However, this was going to take up too much development time and didn't align with the purpose of Mace, which is to make a randomly generated city.
