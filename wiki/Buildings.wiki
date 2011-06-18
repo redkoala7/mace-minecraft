@@ -12,7 +12,7 @@ Some buildings are done already. Here are some more buildings that I would like 
   * Park
   * Brothel
   * City hall
-  * Tavern
+  * Ruined buildings
   * Others...
 
 Some buildings need random elements, which are:
