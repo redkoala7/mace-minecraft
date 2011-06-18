@@ -12,4 +12,4 @@ This page refers to the farms outside the city walls. The farms provide a renewa
   * Farms orientated the other way
   * Putting the door on a random side
   * Random flowers inbetween farms
-  * Slight variations in elevations inbetween farms
+  * Slight variations in elevations between farms
