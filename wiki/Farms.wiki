@@ -11,5 +11,4 @@ This page refers to the farms outside the city walls. The farms provide a renewa
   * Add a glass roof to the crop farms, to stop spiders climbing in
   * Farms orientated the other way
   * Putting the door on a random side
-  * Random flowers inbetween farms
   * Slight variations in elevations between farms
