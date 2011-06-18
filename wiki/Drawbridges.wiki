@@ -6,4 +6,4 @@ This page refers to the four drawbridges that allow entrance to the city. It als
 
 = Planned features =
 
- * Link to the main roads
+ * None yet
