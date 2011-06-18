@@ -27,6 +27,7 @@ Some buildings need random elements, which are:
 
 = Other planned features =
 
+  * Would be nice to have underground areas in some buildings (wine cellars, basements, etc)
   * Streets (ideally with names)
   * Streets should be different widths
   * Splitting the city into districts (probably based on rich/poor)
