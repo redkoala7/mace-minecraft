@@ -22,6 +22,7 @@ Some buildings are done already. Here are some more buildings that I would like 
 = Other planned features =
 
   * Would be nice to have underground areas in some buildings (wine cellars, basements, etc)
+  * Buildings with multiple stories
   * Street names
   * Splitting the city into districts (probably based on rich/poor)
   * Street lanterns
