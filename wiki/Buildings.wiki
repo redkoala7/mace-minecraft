@@ -4,11 +4,10 @@
 
 This refers to the buildings within the city.
 
-= Planned features for buildings =
+= Planned buildings =
 
 Some buildings are done already. Here are some more buildings that I would like to add:
 
-  * More types of houses
   * Park
   * Brothel
   * Churches
@@ -18,16 +17,12 @@ Some buildings are done already. Here are some more buildings that I would like 
 
 Some buildings need random elements, which are:
 
-  * Gravestone sign maker
-  * Statue placard maker
-  * House name/number
-  * Rotation to the nearest paths
-  * Importing chests and other entities
+  * Signs
+  * Rotation (ideally to the nearest path)
 
 = Other planned features =
 
-  * The amount of buildings need to be determine by random weighted chance. For example, there should be more houses and trees, but less graveyards and statues.
   * Would be nice to have underground areas in some buildings (wine cellars, basements, etc)
-  * Streets (ideally with names)
+  * Street names
   * Splitting the city into districts (probably based on rich/poor)
   * Street lanterns
