@@ -4,7 +4,8 @@ The main focus of V1.4.0 will be the city buildings and their layout. Changes do
 
  * The city is now randomly divided into rectangles by paths
  * Random buildings are imported into the city. They are chosen by weighted randomness (so more houses and trees, rather than statues and graveyards)
- * Buildings are stored in the Mace world (in the Resources folder), which can be edited in !MineCraft. Building data is stored in buildings.xml, which means it is possible to add and remove buildings.
+ * Buildings are stored in the Mace world (in the Resources folder), which can be edited in !MineCraft
+ * Building data is stored in buildings.xml, which means it is possible to add and remove buildings
  * Made about fifteen buildings
  * Added main roads going through the city, which link the north/south entrance and the east/west entrance
  * Removed the sewer. I want to focus development time on the city
