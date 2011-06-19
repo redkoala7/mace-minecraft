@@ -9,7 +9,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Use Copy Chunk
   * Credits page
   * Rail system
-  * Rotation should work with doors, signs, chests, etc
   * Allow for putting the city in an existing world
 
 == Possible Features ==
