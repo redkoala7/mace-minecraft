@@ -15,7 +15,7 @@ Some buildings are done already. Here are some more buildings that I would like 
   * Ruined buildings
   * Others...
 
-Some buildings need random elements, which are:
+== Planned random elements ==
 
   * Signs
   * Rotation (ideally to the nearest path)
