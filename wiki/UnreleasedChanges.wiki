@@ -9,6 +9,7 @@ The main focus of V1.4.0 will be the city buildings and their layout. Changes do
  * Made about twenty buildings
  * Added main roads going through the city, which link the north/south entrance and the east/west entrance
  * Removed the sewer. I want to focus development time on the city
+ * Wheat farms are now covered in glass, to stop spiders destroying them. Thanks to Curufea for letting me know about that.
  * City size now aligns with chunk size, to make the edges a little better
  * Flowers and grass will now randomly appear amongst the farms and in the city
  * Outside light sources will now be fires or torches. This can be specified before generating
