@@ -7,3 +7,4 @@ The walls referred to here are the large city walls that go all around the city.
 = Planned features =
 
   * More city emblems
+  * Move city emblem data to files
