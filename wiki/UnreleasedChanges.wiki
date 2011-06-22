@@ -15,4 +15,4 @@ The main focus of V1.4.0 will be the city buildings and their layout. Changes do
  * Outside light sources will now be fires or torches. This can be specified before generating
  * Beacons are now optional
  * Wrote name generators for the taverns, brothels and churches
- * Added a new city emblem
+ * Added two city emblems
