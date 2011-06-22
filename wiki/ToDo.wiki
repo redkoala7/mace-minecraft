@@ -8,7 +8,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Option to include/exclude chests (and make valuable materials into common materials)
   * Use Copy Chunk
   * Credits page
-  * Rail system
   * Allow for putting the city in an existing world
 
 == Possible Features ==
