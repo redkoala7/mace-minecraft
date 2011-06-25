@@ -7,7 +7,7 @@ The main focus of V1.4.0 will be the city buildings and their layout. Changes do
  * Buildings are stored in the Mace world (in the Resources folder), which can be edited in !MineCraft
  * Building data is stored in buildings.xml, which means it is possible to add and remove buildings
  * Made about twenty buildings
- * Added main roads going through the city, which link the north/south entrance and the east/west entrance. They have street lights
+ * Added main roads going through the city, which link the north/south entrance and the east/west entrance. They are slightly wider and have street lights
  * Removed the sewer. I want to focus development time on the city
  * Wheat farms are now covered in glass, to stop spiders destroying them. Thanks to Curufea for letting me know about that.
  * City size now aligns with chunk size, to make the edges a little better
