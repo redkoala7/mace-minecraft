@@ -1,0 +1,10 @@
+#summary Explanation and planned features
+
+== Introduction ==
+
+This page refers to the paths within the city
+
+== Planned features ==
+
+  * Street names
+  * Different types of paths, depending on the district type
