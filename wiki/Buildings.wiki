@@ -21,4 +21,3 @@ Some buildings are done already. Here are some more buildings that I would like 
 
   * Street names
   * Splitting the city into districts (probably based on rich/poor)
-  * Street lanterns
