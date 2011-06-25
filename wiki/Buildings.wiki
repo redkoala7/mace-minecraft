@@ -14,7 +14,7 @@ Some buildings are done already. Here are some more buildings that I would like 
 
 = Planned random elements =
 
-  * Signs (bakery, houses, graveyard, library, greenhouse, warehouse, statue, crafting hut)
+  * Signs (houses, graveyard, greenhouse, warehouse, statue, crafting hut)
   * Rotation (ideally to the nearest path)
 
 = Other planned features =
