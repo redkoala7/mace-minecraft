@@ -6,4 +6,4 @@ This page refers to the large moat that is outside of the city walls.
 
 = Planned features =
 
-  * Nothing yet...
+  * Add a spike moat when MineCraft v1.7 is released
