@@ -14,6 +14,6 @@ The main focus of V1.4.0 will be the city buildings and their layout. Changes do
  * Flowers and grass will now randomly appear amongst the farms and in the city
  * Outside light sources will now be fires or torches. This can be specified before generating
  * Beacons are now optional
- * Wrote name generators for the taverns, brothels, bakery, library, statue and churches
+ * Wrote name generators for the taverns, brothels, gravestones, bakery, library, statue and churches
  * Added two city emblems
  * Added mushroom farms
