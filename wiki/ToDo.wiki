@@ -6,7 +6,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
   * Allow the user to specify a random seed for city generation
   * Option to include/exclude chests (and make valuable materials into common materials)
-  * Use Copy Chunk
   * Credits page
   * Allow for putting the city in an existing world
 
@@ -23,4 +22,4 @@ These things might be too ambitious or just not possible.
 
 For more planned features, please see the pages dedicated to the sections of the city:
 
-[Buildings], NoticeBoard, [Walls], [Moat], [Drawbridges], GuardTowers and [Farms].
+[Paths], [Buildings], NoticeBoard, [Walls], [Moat], [Drawbridges], GuardTowers and [Farms].
