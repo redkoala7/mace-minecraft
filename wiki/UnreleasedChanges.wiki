@@ -1,3 +1,5 @@
 #summary I use this page to keep track of changes in between versions
 
-V1.4.0 has just been released, so there are currently no unreleased changes.
+These changes are done and will be in V1.5.0:
+
+* Added a new building: market
