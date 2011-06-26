@@ -1,3 +1,3 @@
 #summary I use this page to keep track of changes in between versions
 
-V1.4.0 has just been recently, so there are currently no unreleased changes.
+V1.4.0 has just been released, so there are currently no unreleased changes.
