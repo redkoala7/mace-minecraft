@@ -1,20 +1,3 @@
 #summary I use this page to keep track of changes in between versions
 
-The main focus of V1.4.0 will be the city buildings and their layout. Changes done so far:
-
- * Rewrote the path layout code, to divide the city into rectangles
- * Random buildings are imported into the city. They are chosen by weighted randomness (so more houses and trees, rather than statues and graveyards)
- * Buildings are stored in the Mace world (in the Resources folder), which can be edited in !MineCraft
- * Building data is stored in buildings.xml, which means it is possible to add and remove buildings, or change how frequently they appear
- * Made about twenty buildings
- * Added main roads going through the city, which link the north/south entrance and the east/west entrance. They are slightly wider and have street lights
- * Removed the sewer. I want to focus development time on the city
- * Wheat farms are now covered in glass, to stop spiders destroying them. Thanks to Curufea for letting me know about that.
- * Added flowers/grass between buildings and farms
- * Outside light sources will now be fires or torches. This can be specified before generating
- * Beacons are now optional
- * Wrote name generators for the taverns, brothels, gravestones, bakery, library, statue and churches
- * Added two city emblems
- * Added mushroom farms
- * Added street names
- * City size now aligns with chunk size, to make the edges a little better
+V1.4.0 has just been recently, so there are currently no unreleased changes.
