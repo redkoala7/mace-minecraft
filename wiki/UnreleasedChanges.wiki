@@ -5,6 +5,7 @@ I am aiming to have these things in V1.5.0:
  * Rotating buildings to the nearest path.
  * Unique signs by city/instance.
  * More buildings (rich house with pool, ruined house)
+ * Stop the mini city farms being destroyed by naughty pigs
  * Other stuff...
 
 These changes are done and will be in V1.5.0:
