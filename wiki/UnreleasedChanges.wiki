@@ -1,5 +1,16 @@
 #summary I use this page to keep track of changes in between versions
 
+I am aiming to have these things in V1.5.0:
+
+ * Rotating buildings to the nearest path.
+ * Unique signs by city/instance.
+ * More buildings (rich house with pool, ruined house)
+ * Other stuff...
+
 These changes are done and will be in V1.5.0:
 
  * Added a new building: market
+ * Each "very rare" building will now appear a maximum of once per quarter of the city. Each "rare" building will now appear a maximum of twice per quarter of the city.
+ * Greenhouses are now "rare" frequency, rather than "average". Thanks to Sammmiii for this suggestion.
+ * Streets names are now all unique.
+ * Mace will now automatically work out the height of imported buildings. The starting Y axis is set to 63 (ground level) by default, which can be overwriten by adding <source_start_y>7</source_start_y> (change 7 to be the lowest point of your building) to the relevent section of the buildings.xml file.
