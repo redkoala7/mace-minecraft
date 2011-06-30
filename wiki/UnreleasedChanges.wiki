@@ -4,7 +4,7 @@ I am aiming to have these things in V1.5.0:
 
  * Rotating buildings to the nearest path.
  * Block rotation: doors, buttons, sign posts, pumpkins, beds, trapdoors
- * More buildings (rich house with pool, ruined house, shrine)
+ * More buildings (baths, normal library, ruined house, shrine)
  * Other stuff...
 
 These changes are done and will be in V1.5.0:
