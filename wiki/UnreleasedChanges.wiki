@@ -4,7 +4,6 @@ I am aiming to have these things in V1.5.0:
 
  * Rotating buildings to the nearest path.
  * Importing portraits (if I can figure out how to do that)
- * Block rotation: buttons, sign posts (rotation for other blocks is done)
  * More buildings (baths, normal library, ruined house, shrine)
  * Other stuff...
 
