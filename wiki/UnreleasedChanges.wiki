@@ -3,7 +3,8 @@
 I am aiming to have these things in V1.5.0:
 
  * Rotating buildings to the nearest path.
- * Block rotation: doors, buttons, sign posts, pumpkins, beds, trapdoors
+ * Importing portraits (if I can figure out how to do that)
+ * Block rotation: doors, buttons, sign posts, pumpkins, beds, trapdoors (rotation for other blocks is done)
  * More buildings (baths, normal library, ruined house, shrine)
  * Other stuff...
 
