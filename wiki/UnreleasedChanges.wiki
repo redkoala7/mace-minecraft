@@ -4,12 +4,12 @@ I am aiming to have these things in V1.5.0:
 
  * Rotating buildings to the nearest path.
  * Block rotation: doors, buttons, sign posts, pumpkins, beds, trapdoors
- * More buildings (rich house with pool, ruined house)
+ * More buildings (rich house with pool, ruined house, shrine)
  * Other stuff...
 
 These changes are done and will be in V1.5.0:
 
- * Added a new building: market
+ * Added a new building: market, house with a garden roof
  * "Very rare" buildings will not spawn within 50 blocks of the same type of building. "Rare" buildings will not spawn within 25 blocks of the same type of building.
  * Greenhouses are now "rare" frequency, rather than "average". Thanks to Sammmiii for this suggestion.
  * Streets names are now all unique.
