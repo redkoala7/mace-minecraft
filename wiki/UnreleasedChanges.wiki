@@ -1,4 +1,5 @@
 #summary I use this page to keep track of changes in between versions
+#labels Featured
 
 I am aiming to have these things in V1.5.0:
 
