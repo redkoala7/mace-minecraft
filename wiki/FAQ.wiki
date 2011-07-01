@@ -7,7 +7,7 @@
 	Mace is a tool for !MineCraft, which creates a new world with a random city at the spawn point. You can then use the city for exploring, expanding, destruction, creation, modification or whatever you would like.
 
 *When will Mace be finished?*
-	My aim with Mace is to generate a random complete city, so from that perspective it is done. However, there are many more features that I would like to add. Eventually I'll declare it as finished, then move on to something else.
+	My aim with Mace is to randomly generate a complete city, so from that perspective it is done. However, there are many more features that I would like to add. Eventually I'll declare it as finished, then move on to something else.
 
 *I would like to make my own world generator. How did you make Mace?*
 	Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate library], which handles all the world editing. I tell Substrate what to do and then it handles all the complicated stuff.
