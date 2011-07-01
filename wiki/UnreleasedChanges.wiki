@@ -2,10 +2,11 @@
 
 I am aiming to have these things in V1.5.0:
 
- * Rotating buildings to the nearest path.
+ * Rotating buildings to the nearest path (in progress)
  * Importing portraits (if I can figure out how to do that)
  * More buildings (baths, normal library, ruined house)
  * Add items to the chests
+ * Create a FAQ (in progress)
  * Other stuff...
 
 These changes are done and will be in V1.5.0:
