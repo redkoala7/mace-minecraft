@@ -5,10 +5,8 @@ I am aiming to have these things in V1.5.0:
 
  * Rotating buildings to the nearest path (in progress)
  * Importing portraits (if I can figure out how to do that)
- * More buildings (baths, normal library, ruined house)
- * Add items to the chests
+ * More buildings (normal library, ruined house)
  * Generate signs more dynamically
- * Create a FAQ (in progress)
  * Other stuff...
 
 These changes are done and will be in V1.5.0:
@@ -21,3 +19,5 @@ These changes are done and will be in V1.5.0:
  * Building names on signs are now unique. Gravestones are unique within each graveyard.
  * Street signs now have torches on top of them.
  * The mini farms in the city will no longer have naughty pigs ruining them. Thanks to Sammmiii for letting me know about that.
+ * House chests around the city now have some assorted items in them. Thanks to Ghostdancer for pointing out how empty they all were
+ * Added a Frequently Asked Questions (FAQ) page to the wiki
