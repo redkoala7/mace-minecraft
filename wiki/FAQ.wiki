@@ -10,7 +10,9 @@
 	My aim with Mace is to generate a random complete city, so from that perspective it is done. However, there are many more features that I would like to add. Eventually I'll declare it as finished, then move on to something else.
 
 *I would like to make my own world generator. How did you make Mace?*
-	Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate library], which handles all the world editing. I tell Substrate what to do and then it handles all the complicated stuff. Mace is written in C#, but Substrate will work with other languages, such as VB. Substrate provides many examples in the C# language.
+	Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate library], which handles all the world editing. I tell Substrate what to do and then it handles all the complicated stuff.
+
+	Mace is written in C#, but Substrate will work with other languages, such as VB. Substrate provides many examples in the C# language.
 
 *When will the next version of Mace be released?*
 	I don't know. The amount of free time I have available is unpredictable, so it is hard for me to estimate when the next version will be done.
@@ -85,13 +87,18 @@
 
 *Can I modify the buildings that Mace puts in the city?*
 	Yes. Open the Resources folder, then copy the Mace folder to your MineCraft saves folder, which is located at %appdata%\.minecraft\saves
+
 	You can then edit the buildings in !MineCraft. When you are finished, copy the world back to the resources folder.
 
 *Can I add more buildings for Mace to put inside the cities?*
 	Yes. Follow the steps in the question above, then create your new building(s) in the resource world.
+
 	Make sure your building faces the same direction as all the other buildings. The total area of your building should be square. It's okay to have a rectangular building, but make sure there's an empty area to make the whole plot a square.
+
 	Once you are done, open up buildings.xml from the Resources folder. It can be opened in any text editor, such as NotePad.
+
 	Copy one of the existing buildings, from the {{{<building>}}} tag to the {{{</building>}}} tag. Paste this in the line below. Give your building a name that doesn't exist. Change the size to be the amount of blocks on each side (remember that this includes blocks containing torches), then set the source_x and source_y, which can be found by going to the front-right corner of your building and pressing F3. If your building has an underground area, add/edit a source_start_y tag and set the value to be the lowest point of your building. If you don't know, just set this to be 1. Then finally set the frequency from "very common", "common", "average", "rare" or "very rare".
+
 	Save the file. Close MineCraft. Copy the world back to the Mace resources folder. Then generate a new city!
 		
 *Do Mace buildings have a theme?*
@@ -112,10 +119,10 @@
 == Distribution and Modifying ==
 
 *Can I include Mace in my mod/tool compilation or website?*
-		Yes. You are very welcome to do this. Mace is released under the GNU GPL license, which has terms [http://creativecommons.org/licenses/by-sa/3.0/ roughly similar to this].
+	Yes. You are very welcome to do this. Mace is released under the GNU GPL license, which has terms [http://creativecommons.org/licenses/by-sa/3.0/ roughly similar to this].
 
 *Can I change the code in Mace?*
-		Yes. The entire Mace code and all resources can be found on the downloads page. Mace is written in C# and edited in Visual Studio 2010. Other IDEs are available!
+	Yes. The entire Mace code and all resources can be found on the downloads page. Mace is written in C# and edited in Visual Studio 2010. Other IDEs are available!
 
 *Can I distribute my changes to Mace?*
-		Yes. Mace is released under the GNU GPL license, which has terms [http://creativecommons.org/licenses/by-sa/3.0/ roughly similar to this]. I'm always interested to see what people do with Mace, so it would be nice if you'd let me know.
+	Yes. Mace is released under the GNU GPL license, which has terms [http://creativecommons.org/licenses/by-sa/3.0/ roughly similar to this]. I'm always interested to see what people do with Mace, so it would be nice if you'd let me know.
