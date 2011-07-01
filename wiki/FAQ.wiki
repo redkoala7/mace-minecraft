@@ -86,7 +86,7 @@
 	Yes. Go to the Resources folder, then open buildings.xml. Scroll down and look at the building names. Once you find the building, change the frequency value to "very common", "common", "average", "rare", "very rare" or "exclude". Excluded buildings will not appear on the map.
 
 *Can I modify the buildings that Mace puts in the city?*
-	Yes. Open the Resources folder, then copy the Mace folder to your MineCraft saves folder, which is located at %appdata%\.minecraft\saves
+	Yes. Open the Resources folder, then copy the Mace folder to your !MineCraft saves folder, which is located at %appdata%\.minecraft\saves
 
 	You can then edit the buildings in !MineCraft. When you are finished, copy the world back to the resources folder.
 
@@ -95,7 +95,7 @@
 
 	Make sure your building faces the same direction as all the other buildings. The total area of your building should be square. It's okay to have a rectangular building, but make sure there's an empty area to make the whole plot a square.
 
-	Once you are done, open up buildings.xml from the Resources folder. It can be opened in any text editor, such as NotePad.
+	Once you are done, open up buildings.xml from the Resources folder. It can be opened in any text editor, such as !NotePad.
 
 	Copy one of the existing buildings, from the {{{<building>}}} tag to the {{{</building>}}} tag. Paste this in the line below. Give your building a name that doesn't exist. Change the size to be the amount of blocks on each side (remember that this includes blocks containing torches), then set the source_x and source_y, which can be found by going to the front-right corner of your building and pressing F3. If your building has an underground area, add/edit a source_start_y tag and set the value to be the lowest point of your building. If you don't know, just set this to be 1. Then finally set the frequency from "very common", "common", "average", "rare" or "very rare".
 
