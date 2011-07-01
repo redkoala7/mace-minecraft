@@ -10,7 +10,7 @@
 	My aim with Mace is to generate a random complete city, so from that perspective it is done. However, there are many more features that I would like to add. Eventually I'll declare it as finished, then move on to something else.
 
 *I would like to make my own world generator. How did you make Mace?*
-	Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate library], which handles all the world editing. I tell Substrate what to do and then it handles all the complicated stuff. Mace is written in C#, but Substrate will work with other languages, such as VB.net. Substrate provides many examples and all the code for Mace is available as well.
+	Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate library], which handles all the world editing. I tell Substrate what to do and then it handles all the complicated stuff. Mace is written in C#, but Substrate will work with other languages, such as VB. Substrate provides many examples in the C# language.
 
 *When will the next version of Mace be released?*
 	I don't know. The amount of free time I have available is unpredictable, so it is hard for me to estimate when the next version will be done.
@@ -35,14 +35,14 @@
 *Can Mace generate a city in an existing world?*
 	This is currently not possible and I don't have any immediate plans to do this. However, it is probably possible to move a generated city into an existing world using a tool like [http://www.minecraftforum.net/topic/13807-mcedit-minecraft-world-editor-compatible-with-mc-beta-166/ McEdit].
 
-*Can I use a Mace world on my MineCraft server?*
+*Can I use a Mace world on my !MineCraft server?*
 	Yes. I haven't tried this myself, but several people have reported doing this successfully.
 
 *Can Mace overwrite any of my existing worlds?*
-	No. Mace will keep generating random city names until it finds an unused one.
+	No, so don't worry! Mace will keep generating random city names until it finds an unused one.
 
 *I feel imbalanced with all this construction. Is there any way to bring some destruction to the city?*
-	Yes there is. Please have a look at Commander Keen's tool, called [http://www.minecraftforum.net/topic/269176-teeth-of-time-ruin-your-world-v03-brawler/ Teeth of Time].
+	Yes! Have a look at Commander Keen's tool, called [http://www.minecraftforum.net/topic/269176-teeth-of-time-ruin-your-world-v03-brawler/ Teeth of Time].
 		
 == Problems ==
 
@@ -50,7 +50,7 @@
 	Yes, please let me know in the [http://www.minecraftforum.net/topic/357201-mace-v140-random-city-generator/ Mace topic]. It would help me a great deal if you can provide details about the bug, such as the version of Mace you are using, a screenshot, the generated world, and your !MineCraft version. If you can find steps to reproduce the bug, that would help me as well.
 
 *The terrain difference between the city and the natural terrain is very weird! Why is that?*
-	Mace creates the city part of the world, then MineCraft creates the natural terrain around it. The terrain does not match up because it is created by two separate applications. Fixing this is outside the scope of Mace, but I might write a separate tool to fix this in the future.
+	Mace creates the city part of the world, then !MineCraft creates the natural terrain around it. The terrain does not match up because it is created by two separate applications. Fixing this is outside the scope of Mace, but I might write a separate tool to fix this in the future.
 
 == Suggestions ==
 
@@ -58,10 +58,10 @@
 	Definitely! It might be something I've already got planned, so have a quick look through the ToDo list to see if it's listed.
 
 *Can you include NPCs in Mace?*
-		Mace doesn't interact with !MineCraft, unlike mods, which work from inside MineCraft. So it is not possible for Mace to include NPCs in MineCraft. However, the [http://www.minecraftforum.net/topic/227822-166-millenaire-npc-village-085b-small-fixes/ Millenaire] mod adds NPCs to the game, who will interact with you and build a city. You might like to try that mod instead. Notch has stated that NPCs will be added to the game in the future, so potentially I might be able to add them to the city.
+		Mace doesn't interact with !MineCraft, unlike mods, which work from inside !MineCraft. So it is not possible for Mace to include NPCs in !MineCraft. However, the [http://www.minecraftforum.net/topic/227822-166-millenaire-npc-village-085b-small-fixes/ Millenaire] mod adds NPCs to the game, who will interact with you and build a city. You might like to try that mod instead. Notch has stated that NPCs will be added to the game in the future, so potentially I might be able to add them to the city.
 
 *Is it possible to change the region that the city is in?*
-	Unfortunately the region data is decided by MineCraft at run time, so it is not possible for Mace to change it.
+	Unfortunately the region data is decided by !MineCraft at run time, so it is not possible for Mace to change it.
 
 *Is it possible to specify the type of terrain around the city?*
 	In the future this might be possible, but I'm not focussing on that at the moment.
@@ -70,12 +70,12 @@
 	I would like to add this in the future, but it might be too ambitious.
 
 *All Mace cities are square, any plans to change that?*
-	There's far too many things in the generator that rely on the city being square, so for now it'll stay that way.
+	There's a lot of code in the generator that relies on the city being square, so that's the best way for it to be right now. 
 
 *All Mace buildings are square, any plans to change that?*
 	Currently I don't have any plans to change this. Squares are a lot easier to deal with and rectangular buildings can be created within squares, so I'm happy with the way it works.
 
-*When a new feature is added to MineCraft, will you add it to Mace?*
+*When a new feature is added to !MineCraft, will you add it to Mace?*
 	If I can find a good use for it, then I definitely will!
 
 == Buildings ==
@@ -85,13 +85,13 @@
 
 *Can I modify the buildings that Mace puts in the city?*
 	Yes. Open the Resources folder, then copy the Mace folder to your MineCraft saves folder, which is located at %appdata%\.minecraft\saves
-	You can then edit the buildings in MineCraft. When you are finished, copy the world back to the resources folder.
+	You can then edit the buildings in !MineCraft. When you are finished, copy the world back to the resources folder.
 
 *Can I add more buildings for Mace to put inside the cities?*
 	Yes. Follow the steps in the question above, then create your new building(s) in the resource world.
 	Make sure your building faces the same direction as all the other buildings. The total area of your building should be square. It's okay to have a rectangular building, but make sure there's an empty area to make the whole plot a square.
 	Once you are done, open up buildings.xml from the Resources folder. It can be opened in any text editor, such as NotePad.
-	Copy one of the existing buildings, from the <building> tag to the </building> tag. Paste this in the line below. Give your building a name that doesn't exist. Change the size to be the amount of blocks on each side (remember that this includes blocks containing torches), then set the source_x and source_y, which can be found by going to the front-right corner of your building and pressing F3. If your building has an underground area, add/edit a source_start_y tag and set the value to be the lowest point of your building. If you don't know, just set this to be 1. Then finally set the frequency from "very common", "common", "average", "rare" or "very rare".
+	Copy one of the existing buildings, from the {{{<building>}}} tag to the {{{</building>}}} tag. Paste this in the line below. Give your building a name that doesn't exist. Change the size to be the amount of blocks on each side (remember that this includes blocks containing torches), then set the source_x and source_y, which can be found by going to the front-right corner of your building and pressing F3. If your building has an underground area, add/edit a source_start_y tag and set the value to be the lowest point of your building. If you don't know, just set this to be 1. Then finally set the frequency from "very common", "common", "average", "rare" or "very rare".
 	Save the file. Close MineCraft. Copy the world back to the Mace resources folder. Then generate a new city!
 		
 *Do Mace buildings have a theme?*
