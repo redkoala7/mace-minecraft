@@ -99,10 +99,10 @@
 
 	Copy one of the existing buildings, from the {{{<building>}}} tag to the {{{</building>}}} tag. Paste this in the line below. Give your building a name that doesn't exist. Change the size to be the amount of blocks on each side (remember that this includes blocks containing torches), then set the source_x and source_y, which can be found by going to the front-right corner of your building and pressing F3. If your building has an underground area, add/edit a source_start_y tag and set the value to be the lowest point of your building. If you don't know, just set this to be 1. Then finally set the frequency from "very common", "common", "average", "rare" or "very rare".
 
-	Save the file. Close MineCraft. Copy the world back to the Mace resources folder. Then generate a new city!
+	Save the file. Close !MineCraft. Copy the world back to the Mace resources folder. Then generate a new city!
 		
 *Do Mace buildings have a theme?*
-	My inspiration for buildings is anything you would find in a typical medieval or Dungeons & Dragons city. I also include buildings that make sense for MineCraft, such as a crafting hut.
+	My inspiration for buildings is anything you would find in a typical medieval or Dungeons & Dragons city. I also include buildings that make sense for !MineCraft, such as a crafting hut.
 
 *Are you going to add more buildings to Mace?*
 	Yes, there's several more buildings that I'd like to add.
