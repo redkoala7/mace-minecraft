@@ -3,7 +3,6 @@
 
 I am aiming to have these things in V1.5.0:
 
- * Rotating buildings to the nearest path (in progress)
  * Importing portraits (if I can figure out how to do that)
  * More buildings (normal library, ruined house)
  * Sort house chests (put three bits of paper in the first slot)
@@ -23,3 +22,4 @@ These changes are done and will be in V1.5.0:
  * House chests around the city now have random assorted items in them. Thanks to Ghostdancer for pointing out how empty they all were
  * Added a [FAQ] (Frequently Asked Questions) page to the wiki
  * You can now specify the city/world name, as long as it doesn't already exist. Thanks to Ghostdancer for suggesting this.
+ * Buildings are now rotated to the nearest path
