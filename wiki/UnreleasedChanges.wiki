@@ -21,3 +21,4 @@ These changes are done and will be in V1.5.0:
  * The mini farms in the city will no longer have naughty pigs ruining them. Thanks to Sammmiii for letting me know about that.
  * House chests around the city now have some assorted items in them. Thanks to Ghostdancer for pointing out how empty they all were
  * Added a [FAQ] (Frequently Asked Questions) page to the wiki
+ * You can now specify the city/world name, as long as it doesn't already exist. Thanks to Ghostdancer for suggesting this.
