@@ -6,4 +6,4 @@ This page refers to the four drawbridges that allow entrance to the city. It als
 
 = Planned features =
 
- * None yet
+ * Move to the resources world
