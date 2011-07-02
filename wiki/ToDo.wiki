@@ -6,7 +6,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 == General ==
 
   * Allow the user to specify a random seed for city generation
-  * Allow the user to choose a city name.
   * Option to include/exclude chests (and make valuable materials into common materials)
   * Credits page
   * Allow for putting the city in an existing world
