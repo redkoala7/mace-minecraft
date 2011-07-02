@@ -23,3 +23,4 @@ These changes are done and will be in V1.5.0:
  * Added a [FAQ] (Frequently Asked Questions) page to the wiki
  * You can now specify the city/world name, as long as it doesn't already exist. Thanks to Ghostdancer for suggesting this.
  * Buildings are now rotated to the nearest path
+ * City names will no longer be the same word twice (i.e. Carnivalcarnival)
