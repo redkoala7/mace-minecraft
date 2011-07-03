@@ -3,7 +3,7 @@
 
 These changes are done and will be in V1.5.0:
 
- * Added new buildings: market, house with a garden roof, shrine, baths, ruined buildings, library, mosque
+ * Added nine new buildings: market, house with a garden roof, shrine, baths, library, mosque, swimming pool and two ruined buildings
  * "Very rare" buildings will not spawn within 50 blocks of the same type of building. "Rare" buildings will not spawn within 25 blocks of the same type of building.
  * Greenhouses are now "rare" frequency, rather than "average". Thanks to Sammmiii for this suggestion.
  * Streets names are now all unique.
