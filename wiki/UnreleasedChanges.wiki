@@ -24,3 +24,4 @@ These changes are done and will be in V1.5.0:
  * City names will no longer be the same word twice (i.e. Carnivalcarnival)
  * Street lights have moved to the side of the roads
  * Random sign types are no longer hard-coded. Thanks to Curufea for suggesting this
+ * The project is now compatible with Mono 2.8 Beta 3, so in theory (I can't test this) it should be possible to load the project in that on a Mac or Linux and run it
