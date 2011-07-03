@@ -22,5 +22,6 @@ These changes are done and will be in V1.5.0:
  * House chests around the city now have random assorted items in them. Thanks to Ghostdancer for pointing out how empty they all were
  * Added a [FAQ] (Frequently Asked Questions) page to the wiki
  * You can now specify the city/world name, as long as it doesn't already exist. Thanks to Ghostdancer for suggesting this.
- * Buildings are now rotated to the nearest path
+ * Buildings are rotated to the nearest path
  * City names will no longer be the same word twice (i.e. Carnivalcarnival)
+ * Street lights have moved to the side of the roads
