@@ -25,8 +25,9 @@
 *How do I remove Mace from my computer?*
 	Delete the Mace folder. Mace doesn't edit any other areas of your computer, except for the !MineCraft saves folder.
 
-*Does Mace break when a new version of MineCraft is released?
+*Does Mace break when a new version of MineCraft is released?*
 	No. Mace is a tool, rather than a mod, so consequently it doesn't need updating with every version of MineCraft.
+
 	Mace might break if the world format changes. However, this is an extremely rare thing and Notch would most likely provide an automatic converter, so that shouldn't be a problem.
 
 *Does Mace work on Windows 7? Does it work with 64-bit Windows?*
