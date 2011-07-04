@@ -9,7 +9,6 @@ This refers to the buildings within the city.
 Some buildings are done already. Here are some more buildings that I would like to add:
 
   * City hall
-  * Swimming pool
   * Others...
 
 = Planned random elements =
