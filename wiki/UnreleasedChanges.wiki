@@ -22,4 +22,4 @@ These changes are done and will be in V1.5.0:
  * Coffins are now chests, full of bones and other items. Thanks to infraspace for this suggestion
  * Added/modified/removed some of the random sign text
  * Changed the size properties of the Mace window, so hopefully it won't go all massive on some computers.
- * You can now specify a random seed for the !MineCraft world and a random seed for the city generation
+ * You can now specify a random seed for the !MineCraft world and a random seed for the city generation. The seeds are displayed on the noticeboard. Please note, changing any options in Mace will usually affect the random number generator for the city, so if you share your seed with anyone else, remember to tell them which options you used.
