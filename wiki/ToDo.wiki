@@ -6,7 +6,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 == Planned ==
 
   * Option to include/exclude chests (and make valuable materials into common materials)
-  * Credits page
   * Split the city into districts
   * Combine the church and the graveyard
   * Add a city square
