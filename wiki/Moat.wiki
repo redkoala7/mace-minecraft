@@ -1,9 +1,0 @@
-#summary Explanation and planned features
-
-= Introduction =
-
-This page refers to the large moat that is outside of the city walls.
-
-= Planned features =
-
-  * Add a spike moat when !MineCraft v1.7 is released
