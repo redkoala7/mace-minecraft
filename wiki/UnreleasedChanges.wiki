@@ -21,3 +21,4 @@ These changes are done and will be in V1.5.0:
  * The project is now compatible with Mono 2.6 Beta 3, so in theory (I can't test this) it should be possible to load the project in that on a Mac or Linux and run it
  * Coffins are now chests, full of bones and other items. Thanks to infraspace for this suggestion
  * Added/modified/removed some of the random sign text
+ * Changed the size properties of the Mace window, so hopefully it won't go all massive on some computers.
