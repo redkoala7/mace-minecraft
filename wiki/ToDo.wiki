@@ -18,7 +18,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Move the noticeboard to the city square
   * Different types of city walls
   * More city emblems
-  * Move city emblem data to files
   * Add farming buildings
   * Allow for farms to be orientated the other way
   * Add stairs to some buildings
