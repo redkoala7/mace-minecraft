@@ -7,7 +7,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
   * Option to include/exclude chests (and make valuable materials into common materials)
   * Credits page
-  * Splitting the city into districts
+  * Split the city into districts
   * Combine the church and the graveyard
   * Add a city square
   * Add a city hall
@@ -21,6 +21,9 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Different types of city walls
   * More city emblems
   * Move city emblem data to files
+  * Add farming buildings
+  * Allow for farms to be orientated the other way
+  * Add stairs to some buildings 
 
 == Possible Features ==
 
@@ -28,3 +31,4 @@ These things might be too ambitious or just not possible.
 
   * Multiple cities
   * Allow for putting the city in an existing world
+  * Add a spike moat when the MineCraft adventure update is released
