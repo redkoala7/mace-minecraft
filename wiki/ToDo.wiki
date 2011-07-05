@@ -15,7 +15,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Different types of paths, depending on the district type
   * More noticeboard messages
   * Link the noticeboard messages to the city buildings
-  * Small amount of lava ponds
   * Move the noticeboard to the city square
   * Different types of city walls
   * More city emblems
