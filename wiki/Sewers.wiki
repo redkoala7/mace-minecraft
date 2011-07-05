@@ -1,4 +1,4 @@
-#summary Explanation and planned features
+#summary Gone but not forgotten
 
 = Introduction =
 
