@@ -25,4 +25,4 @@ These changes are done and will be in V1.5.0:
  * You can now specify a random seed for the !MineCraft world and a random seed for the city generation. The seeds are displayed on the noticeboard. Please note, changing any options in Mace will usually affect the random number generator for the city, so if you share your seed with anyone else, remember to tell them which options you used. Also note that seeds are version specific, so using a seed in V1.5 will result in a different city to using it in V1.6.
  * A very small amount of the larger ponds will now be lava, rather than water. Thanks to Lokomo for this suggestion
  * Added a [Credits] page to the wiki
- * City emblem data is now stored in text files in the resources files. You can add/remove/edit them as much as you like.
+ * City emblem data is now stored in text files in the resources folder. You can add/remove/edit them as much as you like.
