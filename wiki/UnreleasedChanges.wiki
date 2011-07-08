@@ -1,8 +1,6 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-The only feature left to add into V1.5 is importing portraits from the source world. This is currently done for non-rotated buildings. I just need to write in the code for rotated buildings and then V1.5 will be released!
-
 These changes are done and will be in V1.5.0:
 
  * Added nine new buildings: market, house with a garden roof, shrine, baths, library, mosque, swimming pool and two ruined buildings
