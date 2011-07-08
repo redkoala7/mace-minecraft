@@ -3,7 +3,7 @@
 
 Thank you to jaquadro for his [http://code.google.com/p/substrate-minecraft/ Substrate library], which is used for creating and editing !MineCraft worlds.
 
-Thank you to everybody in the [http://www.minecraftforum.net/topic/357201-mace-v140-random-city-generator/ forum topic] for their encouragement, suggestions and bug reports. Most notably Commander Keen, Curufea and Golgrinn. Thanks guys!
+Thank you to everybody in the [http://www.minecraftforum.net/topic/357201-mace-v140-random-city-generator/ forum topic] for their encouragement, suggestions and bug reports. Thanks guys!
 
 Thank you to people who have suggested ideas that went into !MineCraft. They are listed in the notes for each version.
 
