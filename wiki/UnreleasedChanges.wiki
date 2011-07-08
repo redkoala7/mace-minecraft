@@ -1,29 +1,4 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-These changes are done and will be in V1.5.0:
-
- * Added nine new buildings: market, house with a garden roof, shrine, baths, library, mosque, swimming pool and two ruined buildings
- * "Very rare" buildings will not spawn within 50 blocks of the same type of building. "Rare" buildings will not spawn within 25 blocks of the same type of building.
- * Greenhouses are now "rare" frequency, rather than "average". Thanks to Sammmiii for this suggestion.
- * Streets names are now all unique.
- * Mace will now automatically work out the height of imported buildings. The starting Y axis is set to 63 (ground level) by default, which can be overwritten by adding {{{<source_start_y>7</source_start_y>}}} (change 7 to be the lowest point of your building) to the relevent section of the buildings.xml file.
- * Building names on signs are now unique. Gravestones are unique within each graveyard.
- * Street signs now have torches on top of them.
- * The mini farms in the city will no longer have naughty pigs ruining them. Thanks to Sammmiii for letting me know about that.
- * House chests around the city now have random assorted items in them. Thanks to Ghostdancer for pointing out how empty they all were
- * Added a [FAQ] (Frequently Asked Questions) page to the wiki
- * You can now specify the city/world name, as long as it doesn't already exist. Thanks to Ghostdancer for suggesting this.
- * Buildings are rotated to the nearest path
- * City names will no longer be the same word twice (i.e. Carnivalcarnival)
- * Street lights have moved to the side of the roads
- * Random sign types are no longer hard-coded. Thanks to Curufea for suggesting this
- * The project is now compatible with Mono 2.6 Beta 3, so in theory (I can't test this) it should be possible to load the project in that on a Mac or Linux and run it
- * Coffins are now chests, full of bones and other items. Thanks to infraspace for this suggestion
- * Added/modified/removed some of the random sign text
- * Changed the size properties of the Mace window, so hopefully it won't go all massive on some computers.
- * You can now specify a random seed for the !MineCraft world and a random seed for the city generation. The seeds are displayed on the noticeboard. Please note, changing any options in Mace will usually affect the random number generator for the city, so if you share your seed with anyone else, remember to tell them which options you used. Also note that seeds are version specific, so using a seed in V1.5 will result in a different city to using it in V1.6.
- * A very small amount of the larger ponds will now be lava, rather than water. Thanks to Lokomo for this suggestion
- * Added a [Credits] page to the wiki
- * City emblem data is now stored in text files in the resources folder. You can add/remove/edit them as much as you like.
- * Portraits are imported from the source world. Thanks to jaquadro for helping me with the code for this
+V1.5 has just been released, so there are no unreleased changes yet.
