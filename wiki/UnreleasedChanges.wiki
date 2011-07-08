@@ -28,3 +28,4 @@ These changes are done and will be in V1.5.0:
  * A very small amount of the larger ponds will now be lava, rather than water. Thanks to Lokomo for this suggestion
  * Added a [Credits] page to the wiki
  * City emblem data is now stored in text files in the resources folder. You can add/remove/edit them as much as you like.
+ * Portraits are imported from the source world. Thanks to jaquadro for helping me with the code for this
