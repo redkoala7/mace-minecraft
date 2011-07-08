@@ -34,7 +34,9 @@
 	Mace is written entirely on Windows 7 (64-bit), so it definitely does!
 
 *I am on Linux/OSX, so can't run Mace. What can I do?*
-	Eventually I would like to distribute Mace to those platforms, but for now I am just providing worlds instead. Check the downloads page to see if worlds are available for the latest version. If not, you are welcome to post in the [http://www.minecraftforum.net/topic/357201-mace-v140-random-city-generator/ Mace topic] and I will create some worlds for you.
+	If you are happy to get your hands dirty compiling code, you can download Mono 2.6 Beta 3 and open the code in that. Then run the project and Mace will appear. I haven't tested this, so can't guarantee that it will work :(
+
+	Alternatively, you could check the downloads page to see if worlds are available for the latest version. If not, you are welcome to post in the [http://www.minecraftforum.net/topic/357201-mace-v140-random-city-generator/ Mace topic] and I will create some worlds for you.
 
 *Do I need to close !MineCraft whilst using Mace?*
 	Mace doesn't interact with !MineCraft, so it's okay if !MineCraft is open or closed.
