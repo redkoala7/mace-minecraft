@@ -21,6 +21,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Different types of city walls
   * More city emblems
   * Add farming buildings
+  * Add bakery items to the bakery (milk, bread, eggs, etc)
   * Allow for farms to be orientated the other way
   * Add stairs to some buildings
   * Add to FAQ: how to use with multiplayer servers
