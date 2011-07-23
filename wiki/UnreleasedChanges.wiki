@@ -7,14 +7,14 @@ This page has the features that will be arriving in V1.6.
 
 == In Progress ==
 
-* Redesigned church
-* Improved Linux compatibility
-* Mineshaft
-* Terrain generator for the ground
-* Ores underground
+ * Redesigned church
+ * Improved Linux compatibility
+ * Mineshaft
+ * Terrain generator for the ground
+ * Ores underground
 
 == Planned ==
 
-* Option to exclude chests and valuable blocks
-* Option to change the city wall material
-* A distr8ct in the middle of the city, with the mineshaft entrance, noticeboard and more
+ * Option to exclude chests and valuable blocks
+ * Option to change the city wall material
+ * A district in the middle of the city, with the mineshaft entrance, noticeboard and more
