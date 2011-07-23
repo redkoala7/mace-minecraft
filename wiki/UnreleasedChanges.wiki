@@ -1,4 +1,20 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-V1.5 has just been released, so there are no unreleased changes yet.
+This page has the features that will be arriving in V1.6.
+
+== Done ==
+
+== In Progress ==
+
+* Redesigned church
+* Improved Linux compatibility
+* Mineshaft
+* Terrain generator for the ground
+* Ores underground
+
+== Planned ==
+
+* Option to exclude chests and valuable blocks
+* Option to change the city wall material
+* A distr8ct in the middle of the city, with the mineshaft entrance, noticeboard and more
