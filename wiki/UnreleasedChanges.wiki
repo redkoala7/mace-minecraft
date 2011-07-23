@@ -1,7 +1,7 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-This page has the features that will be arriving in V1.6.
+This page has the features that will be arriving in the Underground Update (V1.6).
 
 == Done ==
 
