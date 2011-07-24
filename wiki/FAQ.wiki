@@ -123,6 +123,9 @@
 *Is there anything underneath the city?*
 	Currently there is nothing underneath the city. It is just bedrock, then stone, then grass. This might change in the future. Some buildings have underground areas.
 
+*Can I make my own city emblems*
+	Yes! Please see [http://www.minecraftforum.net/topic/357201-mace-v150-random-city-generator/page__view__findpost__p__6347117 Ghostdancer's guide].
+
 == Distribution and Modifying ==
 
 *Can I include Mace in my mod/tool compilation or website?*
