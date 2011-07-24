@@ -7,7 +7,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
   * Option to include/exclude chests (and make valuable materials into common materials)
   * Split the city into districts
-  * Combine the church and the graveyard
   * Add a city square
   * Add a city hall
   * Add a mineshaft below the city
