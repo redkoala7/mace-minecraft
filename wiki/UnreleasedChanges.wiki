@@ -24,6 +24,4 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Option to exclude chests and valuable blocks
  * Option to change the city wall material
  * A district in the middle of the city, with the mineshaft entrance, noticeboard and more
- * Basements
  * Flags on the guard towers
- * Replace the fire in the baths with lava
