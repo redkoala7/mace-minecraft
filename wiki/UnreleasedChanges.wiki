@@ -12,7 +12,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Graveyards are now excluded, because the cathedral has a graveyard.
  * Added a simple house made of stone and bricks
  * Added a tent building
- * Made a whole bunch of small improvements to the existing buildings
+ * Made a whole bunch of small improvements to the existing buildings. Items in the bakery, paintings, basements, longer diving board, lava instead of fire in the baths...
 
 == In Progress ==
 
