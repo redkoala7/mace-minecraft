@@ -11,12 +11,13 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Added a simple house made of stone and bricks
  * Changed one of the wooden houses to be made from bricks
  * Added a tent building
+ * Underground terrain is now stone, dirt, gravel and sand (with occasional sandstone)
 
 == In Progress ==
 
  * Improved Linux compatibility
  * Mineshaft
- * Terrain generator for the ground
+ * Generate ores underground
  * Ores underground
 
 == Planned ==
