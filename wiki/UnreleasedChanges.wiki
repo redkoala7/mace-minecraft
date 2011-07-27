@@ -12,7 +12,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Graveyards are now excluded, because the cathedral has a graveyard.
  * Added a simple house made of stone and bricks
  * Added a tent building
- * Made a whole bunch of small improvements to the existing buildings. Items in the bakery, paintings, basements, longer diving board, lava instead of fire in the baths, random drink names in the tavern...
+ * Made a whole bunch of small improvements to the existing buildings. Items in the bakery, paintings, basements, changing room in the baths, longer diving board, lava instead of fire in the baths, random drink names in the tavern...
 
 == In Progress ==
 
@@ -25,5 +25,4 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Option to change the city wall material
  * A district in the middle of the city, with the mineshaft entrance, noticeboard and more
  * Random library sections
- * Changing rooms in the baths
  * Flags on the guard towers
