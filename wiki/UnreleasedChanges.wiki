@@ -19,12 +19,12 @@ This page has the features that will be arriving in the Underground Update (V1.6
 
  * Improved Linux compatibility
  * Mineshaft
+ * New building: noticeboard area
 
 == Planned ==
 
  * Option to exclude chests and valuable blocks
  * Option to change the city wall material
- * New building: noticeboard area
  * New building: mineshaft entrance (ideally in the center)
  * Flags on the guard towers
  * Fix mob spawners
