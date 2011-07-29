@@ -7,7 +7,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
 
  * Underground terrain is now stone, dirt, gravel and sand (with occasional sandstone).
  * Ores are generated underground.
- * Added a new frequency type: "unique". Each unique building will appear a maximum of once per city. Unique buildings must be at least 50 squares away from another unique building.
+ * Added a new frequency type: "unique". Each unique building will appear a maximum of once per city. Unique buildings must be at least 20 squares away from another unique building.
  * Added a cathedral and a prison. Both have the "unique" frequency.
  * Added a simple house made of stone and bricks.
  * Added a tent building.
