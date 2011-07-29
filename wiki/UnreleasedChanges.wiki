@@ -14,6 +14,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Made a whole bunch of small improvements to the existing buildings. Items in the bakery, paintings, basements, changing room in the baths, longer diving board, lava instead of fire in the baths, random drink names in the tavern, random library sections...
  * Churches are now "very rare" frequency, rather than "rare".
  * Graveyards are now excluded, because the cathedral has a graveyard.
+ * Added help to all of the controls.
 
 == In Progress ==
 
