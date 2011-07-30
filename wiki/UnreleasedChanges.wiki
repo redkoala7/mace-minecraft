@@ -4,8 +4,8 @@
 This page has the features that will be arriving in the Underground Update (V1.6).
 
 == Done ==
-
  * The code is now significantly more compatible with Linux and has been tested successfully in Mono on Ubuntu 11.04. This is all thanks to Surrogard alias Stefan.
+ * Added a mineshaft below the city. The entrance is in the middle of the city.
  * Underground terrain is now stone, dirt, gravel and sand (with occasional sandstone).
  * Ores are generated underground.
  * Added a new frequency type: "unique". Each unique building will appear a maximum of once per city. Unique buildings must be at least 20 squares away from another unique building.
@@ -24,9 +24,6 @@ This page has the features that will be arriving in the Underground Update (V1.6
 
 == In Progress ==
 
- * Mineshaft
-
 == Planned ==
-
  * Option to change the city wall material
  * Flags on the guard towers
