@@ -8,12 +8,9 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Split the city into districts
   * Add a city square
   * Add a city hall
-  * Add a mineshaft below the city
-  * More building signs should have random text
   * Different types of paths, depending on the district type
   * More noticeboard messages
   * Link the noticeboard messages to the city buildings
-  * Move the noticeboard to the city square
   * Add a boathouse when there's a water moat
   * Create a rail system inside the city walls
   * Different types of city walls
