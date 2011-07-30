@@ -5,7 +5,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
 
 == Done ==
 
- * The code is now significantly more compatible with Linux and has been tested successfully in Mono on Ubuntu 11.04. This is all thanks to Surrogard. I don't want to post his e-mail here, due to spambots, but it is inside the code.
+ * The code is now significantly more compatible with Linux and has been tested successfully in Mono on Ubuntu 11.04. This is all thanks to Surrogard alias Stefan.
  * Underground terrain is now stone, dirt, gravel and sand (with occasional sandstone).
  * Ores are generated underground.
  * Added a new frequency type: "unique". Each unique building will appear a maximum of once per city. Unique buildings must be at least 20 squares away from another unique building.
