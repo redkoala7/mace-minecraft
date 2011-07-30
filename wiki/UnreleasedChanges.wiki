@@ -10,6 +10,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Ores are generated underground.
  * Added a new frequency type: "unique". Each unique building will appear a maximum of once per city. Unique buildings must be at least 20 squares away from another unique building.
  * Added a cathedral, prison and large fountain. These all have the "unique" frequency.
+ * Added a castle, which was designed by [http://www.youtube.com/user/TheRealMegaMiner TheMegaMiner]. The castle has the "unique" frequency value.
  * The noticeboard is now a building, that will randomly appear somewhere in most cities. It has the "unique" frequency.
  * Added a simple house made of stone and bricks.
  * Added a tent building.
