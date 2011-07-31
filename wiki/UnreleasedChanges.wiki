@@ -24,8 +24,8 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * I accidentally extinguished all the fires in a previous version, but they are now back to normal.
  * Mob spawners placed in the Mace resource world will now work. Thanks to Ghostdancer for letting me know they were broken.
  * City wall material is now selectable. It will default to a random type.
+ * Guard towers now allow for flags, instead of fire beacons. You can let Mace randomly chose between the two, or pick one yourself.
 
 == In Progress ==
 
 == Planned ==
- * Flags on the guard towers
