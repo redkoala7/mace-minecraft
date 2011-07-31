@@ -26,6 +26,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Added an option to turn valuable blocks in architecture to less valuable blocks.
  * Mob spawners placed in the Mace resource world will now work. Thanks to Ghostdancer for letting me know they were broken.
  * I accidentally extinguished all the fires in a previous version, but they are now back to normal.
+ * Added two new emblems: heart and cobweb
 
 == In Progress ==
 
