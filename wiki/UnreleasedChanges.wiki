@@ -14,6 +14,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Added a simple house made of stone and bricks.
  * Added a tent building.
  * Added an apartment building. Thanks to redjay17 for this suggestion.
+ * A small number of barns will now appear sporadically between the farms.
  * The noticeboard is now a building, that will randomly appear somewhere in most cities. It has the "unique" frequency.
  * Made a whole bunch of small improvements to the existing buildings. Items in the bakery, paintings, basements, changing room in the baths, longer diving board, lava instead of fire in the baths, random drink names in the tavern, random library sections...
  * City wall material is now selectable. It will default to a random type.
