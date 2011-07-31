@@ -25,3 +25,4 @@ These things might be too ambitious or just not possible.
   * Multiple cities
   * Allow for putting the city in an existing world
   * Add a spike moat when the !MineCraft adventure update is released
+  * Investigate adding NPCs when the adventure update is released
