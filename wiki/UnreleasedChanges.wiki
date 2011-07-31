@@ -23,9 +23,9 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Added an option to turn valuable blocks in architecture to less valuable blocks.
  * I accidentally extinguished all the fires in a previous version, but they are now back to normal.
  * Mob spawners placed in the Mace resource world will now work. Thanks to Ghostdancer for letting me know they were broken.
+ * City wall material is now selectable. It will default to a random type.
 
 == In Progress ==
 
 == Planned ==
- * Option to change the city wall material
  * Flags on the guard towers
