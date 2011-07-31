@@ -5,9 +5,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
 == Planned ==
 
-  * Split the city into districts
   * Add a city hall
-  * Different types of paths, depending on the district type
+  * City themes
   * More noticeboard messages
   * Link the noticeboard messages to the city buildings
   * Add a boathouse when there's a water moat
