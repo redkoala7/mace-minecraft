@@ -14,13 +14,11 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * More city emblems
   * Allow for farms to be orientated the other way
   * Add to FAQ: how to use with multiplayer servers
-  * Sometimes have flags on top of the guard towers, rather than fire beacons
 
 == Possible ==
 
 These things might be too ambitious or just not possible.
 
   * Multiple cities
-  * Allow for putting the city in an existing world
   * Add a spike moat when the !MineCraft adventure update is released
   * Investigate adding NPCs when the adventure update is released
