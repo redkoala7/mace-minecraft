@@ -11,7 +11,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Link the noticeboard messages to the city buildings
   * Add a boathouse when there's a water moat
   * Create a rail system inside the city walls
-  * More city emblems
   * Allow for farms to be orientated the other way
   * Add to FAQ: how to use with multiplayer servers
 
