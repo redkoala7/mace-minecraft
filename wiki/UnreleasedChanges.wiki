@@ -29,5 +29,7 @@ This page has the features that will be arriving in the Underground Update (V1.6
  * Added two new emblems: heart and cobweb
 
 == In Progress ==
+  * More noticeboard messages
+  * Link the noticeboard messages to the city buildings
 
 == Planned ==
