@@ -9,8 +9,6 @@
 *When will Mace be finished?*
 	My aim with Mace is to randomly generate a complete city, so from that perspective it is done. However, there are many more features that I would like to add. Eventually I'll declare it as finished, then move on to something else.
 
-	Mace is written in C#, but Substrate will work with other languages, such as VB. Substrate provides many examples in the C# language.
-
 *When will the next version of Mace be released?*
 	I don't know. The amount of free time I have available is unpredictable, so it is hard for me to estimate when the next version will be done.
 
