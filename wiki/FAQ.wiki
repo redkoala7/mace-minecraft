@@ -110,9 +110,6 @@
 *Can I modify the signs that Mace puts on buildings?*
 	Yes. In the Resources folder there are lots of text files, which contain the data for signs. You can remove/add/edit the files as you like. Take note of any comments at the top of the file. Please do not use pipe characters "|" in these files. "~" characters are used to force a new line on the sign text. See the gravestone.txt file for examples of that.
 
-*Is there anything underneath the city?*
-	Currently there is nothing underneath the city. It is just bedrock, then stone, then grass. This might change in the future. Some buildings have underground areas.
-
 *Can I make my own city emblems?*
 	Yes! Please see [http://www.minecraftforum.net/topic/357201-mace-v150-random-city-generator/page__view__findpost__p__6347117 Ghostdancer's guide].
 
