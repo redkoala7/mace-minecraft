@@ -1,32 +1,9 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-This page has the features that will be arriving in the Underground Update (V1.6).
+Nothing yet...
 
 == Done ==
- * The code is now significantly more compatible with Linux and has been tested successfully in Mono on Ubuntu 11.04. Massive thank you to Surrogard for rewriting my code to make it friendly to Windows and Linux.
- * Added a mineshaft below the city. The entrance is in the middle of the city.
- * Underground terrain is now stone, dirt, gravel and sand (with occasional sandstone).
- * Ores are generated underground.
- * Added a new frequency type: "unique". Each unique building will appear a maximum of once per city. Unique buildings must be at least 10 squares away from another unique building.
- * Added a cathedral, archery range, prison, pyramid and large fountain. These all have the "unique" frequency.
- * Added a castle, which was designed by [http://www.youtube.com/user/TheRealMegaMiner TheMegaMiner]. The castle has the "unique" frequency value.
- * Added a simple house made of stone and bricks.
- * Added a tent building.
- * Added an apartment building. Thanks to redjay17 for this suggestion.
- * A small number of barns will now appear sporadically between the farms.
- * The noticeboard is now a building, that will randomly appear somewhere in most cities. It has the "unique" frequency.
- * Made a whole bunch of small improvements to the existing buildings. Items in the bakery, more noticeboard messages, paintings, basements, changing room in the baths, longer diving board, lava instead of fire in the baths, random drink names in the tavern, random library sections...
- * City wall material is now selectable. It will default to a random type.
- * Guard towers now allow for flags, instead of fire beacons. You can let Mace randomly chose between the two, or pick one yourself.
- * Churches are now "very rare" frequency, rather than "rare".
- * Graveyards are now excluded, because the cathedral has a graveyard.
- * Added help to all of the controls in the application.
- * Added an option to make all chests empty.
- * Added an option to turn valuable blocks in architecture to less valuable blocks.
- * Mob spawners placed in the Mace resource world will now work. Thanks to Ghostdancer for letting me know they were broken.
- * I accidentally extinguished all the fires in a previous version, but they are now back to normal.
- * Added two new emblems: heart and cobweb
 
 == In Progress ==
 
