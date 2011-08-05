@@ -5,7 +5,7 @@ The next version will just be a small update to fix bugs.
 
 == Done ==
 
- * Added lots more library sections and tavern combinations. All provided by SoNick - thanks!
+ * Added lots more library sections and tavern combinations. All provided by !SoNick - thanks!
  * Fixed the rail rotation bug
  * Cities without farms now have 8 empty blocks outside, rather than 16
  * Made a couple of minor changes to buildings.
