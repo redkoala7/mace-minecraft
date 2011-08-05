@@ -5,10 +5,10 @@ The next version will just be a small update to fix bugs.
 
 == Done ==
 
- * Portrait bug is fixed
- * Fixed the rail rotation bug
+ * Portrait bug is fixed. Thank you to Ghostdancer for letting me know about that.
+ * Fixed the rail rotation bug. Thank you to Commander Keen for letting me know about that.
  * Added lots more library sections and tavern combinations. All provided by !SoNick - thanks!
- * Cities without farms now have 8 empty blocks outside, rather than 16
+ * Cities without farms now have 8 empty blocks outside, rather than 16. Thank you to Arschkrampi for hassling me into that!
  * Made a couple of minor changes to the buildings.
 
 == In Progress ==
