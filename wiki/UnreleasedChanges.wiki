@@ -1,10 +1,15 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-Nothing yet...
+The next version will just be a small update to fix bugs.
 
 == Done ==
 
+* Fixed the rail rotation bug
+* Cities without farms now have 8 empty blocks outside, rather than 16
+
 == In Progress ==
+
+* Portrait bug
 
 == Planned ==
