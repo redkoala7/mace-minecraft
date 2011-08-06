@@ -16,5 +16,3 @@ The next version will just be a small update to fix bugs.
 == In Progress ==
 
 == Planned ==
-
- * coau14's house
