@@ -12,6 +12,7 @@ The next version will just be a small update to fix bugs.
  * Made a couple of minor changes to the buildings.
  * Added coau14's house
  * Set the application support directory for Mac OSX, but I'm unable to test this and unsure if I've done it correctly.
+ * If an obsidian wall is selected and "Valuable blocks in architecture" is unchecked, the first option will take preference. So consequently the obsidian wall will stay.
 
 == In Progress ==
 
