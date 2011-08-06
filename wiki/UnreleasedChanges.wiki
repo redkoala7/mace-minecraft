@@ -10,9 +10,9 @@ The next version will just be a small update to fix bugs.
  * Added lots more library sections and tavern combinations. All provided by !SoNick - thanks!
  * Cities without farms now have 8 empty blocks outside, rather than 16. Thank you to Arschkrampi for hassling me into that!
  * Made a couple of minor changes to the buildings.
- * Added coau14's house
+ * Added a new compact house, submitted by coau14. Thanks!
  * Set the application support directory for Mac OSX, but I'm unable to test this and unsure if I've done it correctly.
- * If an obsidian wall is selected and "Valuable blocks in architecture" is unchecked, the first option will take preference. So consequently the obsidian wall will stay.
+ * If an obsidian wall is selected and "Valuable blocks in architecture" is unchecked, the first option will take preference. So consequently the obsidian wall will stay. Thanks to Keypadzzz for letting me know about this conflict.
 
 == In Progress ==
 
