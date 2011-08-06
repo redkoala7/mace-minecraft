@@ -1,20 +1,13 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-The next version will just be a small update to fix bugs.
+The next version will be V1.7 - The Improvement Iteration.
 
 == Done ==
-
- * Portrait bug is fixed. Thank you to Ghostdancer for letting me know about that.
- * Fixed the rail rotation bug. Thank you to Commander Keen for letting me know about that.
- * Added lots more library sections and tavern combinations. All provided by !SoNick - thanks!
- * Changed the way the lighting is called, which seems to have reduced the lighting bugs.
- * Cities without farms now have 8 empty blocks outside, rather than 16. Thank you to Arschkrampi for hassling me into that!
- * Made a couple of minor changes to the buildings.
- * Added a new compact house, submitted by coau14. Thanks!
- * Set the application support directory for Mac OSX, but I'm unable to test this, so it might not work.
- * If an obsidian wall is selected and "Valuable blocks in architecture" is unchecked, the first option will take preference. So consequently the obsidian wall will stay. Thanks to Keypadzzz for letting me know about this conflict.
 
 == In Progress ==
 
 == Planned ==
+
+ * Different street lights
+ * Probably other stuff...
