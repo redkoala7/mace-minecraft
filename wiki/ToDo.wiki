@@ -17,6 +17,9 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Different street lights
  * More flowers/grass inside the city
  * Farm terrain should be less flat
+ * Move the guard tower to the resource world
+ * Move the city entrance to the resource world
+ * Improve the city entrance
  * More city emblems
  * Fix the flags-catching-fire bug
  * Move more stuff to XML files
