@@ -5,20 +5,20 @@ Here's a screenshot from each version, from roughly the same location:
 [http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_0_0.zip&can=2&q= V1.0] - Once upon a time...
 [http://iceyboard.no-ip.org/images/mace/v1_0.jpg http://iceyboard.no-ip.org/images/mace/v1_0_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_1_0.zip&can=2&q= V1.1] - Cactus farms, new path layout!
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_1_0.zip&can=2&q= V1.1] - Archery slots!
 [http://iceyboard.no-ip.org/images/mace/v1_1.jpg http://iceyboard.no-ip.org/images/mace/v1_1_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_2_0.zip&can=2&q= V1.2] - This version added the interface, whilst the city stayed the same
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_2_0.zip&can=2&q= V1.2] - Download size reduced by 24 bytes!
 [http://iceyboard.no-ip.org/images/mace/v1_2.jpg http://iceyboard.no-ip.org/images/mace/v1_2_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_3_0.zip&can=2&q= V1.3] - Emblems, fire beacons, orchards, new crenels!
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_3_0.zip&can=2&q= V1.3] - Slightly higher moat!
 [http://iceyboard.no-ip.org/images/mace/v1_3.jpg http://iceyboard.no-ip.org/images/mace/v1_3_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_4_0.zip&can=2&q= V1.4] - Different buildings!
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_4_0.zip&can=2&q= V1.4] - Added a new bakery name!
 [http://iceyboard.no-ip.org/images/mace/v1_4.jpg http://iceyboard.no-ip.org/images/mace/v1_4_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_5_0.zip&can=2&q= V1.5] - More buildings!
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_5_0.zip&can=2&q= V1.5] - Street signs now have torches on them!
 [http://iceyboard.no-ip.org/images/mace/v1_5.jpg http://iceyboard.no-ip.org/images/mace/v1_5_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-code-v1_6_0.zip&can=2&q= V1.6] - Underground terrain, mineshaft!
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-code-v1_6_0.zip&can=2&q= V1.6] - Tents!
 [http://iceyboard.no-ip.org/images/mace/v1_6.jpg http://iceyboard.no-ip.org/images/mace/v1_6_thumb.jpg]
