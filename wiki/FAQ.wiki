@@ -68,7 +68,7 @@
 		
 == Problems ==
 
-*Are there any known issues with Mace*
+*Are there any known issues with Mace?*
 	Yes, please check out the KnownIssues page.
 
 *I spotted a bug. Would you like to know?*
