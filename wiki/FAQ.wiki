@@ -60,8 +60,8 @@
 *Can Mace overwrite any of my existing worlds?*
 	No, so don't worry! Mace will keep generating random city names until it finds an unused one.
 
-*Does Mace change the way MineCraft generates terrain? Will my other worlds have cities in them?*
-	No, Mace doesn't change the behaviour of MineCraft in any way.
+*Does Mace change the way !MineCraft generates terrain? Will my other worlds have cities in them?*
+	No, Mace doesn't change the behaviour of !MineCraft in any way.
 
 *I feel imbalanced with all this construction. Is there any way to bring some destruction to the city?*
 	Yes! Have a look at Commander Keen's tool, called [http://www.minecraftforum.net/topic/269176-teeth-of-time-ruin-your-world-v03-brawler/ Teeth of Time].
