@@ -1,6 +1,15 @@
 #summary Frequently Asked Questions
 #labels Featured
 
+== Contents ==
+
+ * [http://code.google.com/p/mace-minecraft/wiki/FAQ#Overview Overview]
+ * [http://code.google.com/p/mace-minecraft/wiki/FAQ#Installation_and_Running Installation and Running]
+ * [http://code.google.com/p/mace-minecraft/wiki/FAQ#Problems Problems]
+ * [http://code.google.com/p/mace-minecraft/wiki/FAQ#Suggestions Suggestions]
+ * [http://code.google.com/p/mace-minecraft/wiki/FAQ#Buildings Buildings]
+ * [http://code.google.com/p/mace-minecraft/wiki/FAQ#Distribution_and_Modifying Distribution and Modifying]
+
 == Overview ==
 
 *What is Mace?*
