@@ -13,7 +13,7 @@
 == Overview ==
 
 *What is Mace?*
-	Mace is a tool for !MineCraft, which creates a new world with a random city at the spawn point. You can then use the city for exploring, expanding, destruction, creation, modification or whatever you would like.
+	Mace is a tool for !MineCraft, which creates a regular world with a random city at the spawn point. You can then use the city for exploring, expanding, destruction, creation, modification or whatever you would like.
 
 *When will Mace be finished?*
 	My aim with Mace is to randomly generate a complete city, so from that perspective it is done. However, there are many more features that I would like to add. Eventually I'll declare it as finished, then move on to something else.
@@ -21,7 +21,7 @@
 *When will the next version of Mace be released?*
 	I don't know. The amount of free time I have available is unpredictable, so it is hard for me to estimate when the next version will be done.
 
-*Which programming language is Mace writte in?*
+*Which programming language is Mace written in?*
 	Mace is written in [http://en.wikipedia.org/wiki/C_Sharp_(programming_language) C#]. Some of the data files are written in [http://en.wikipedia.org/wiki/XML XML].
 
 *When tools do you use to make Mace?*
@@ -35,8 +35,8 @@
 *How do I remove Mace from my computer?*
 	Delete the Mace folder. Mace doesn't edit any other areas of your computer, except for the !MineCraft saves folder.
 
-*Does Mace break when a new version of !MineCraft is released?*
-	No. Mace is a tool, rather than a mod, so consequently it doesn't need updating with every version of !MineCraft.
+*Will Mace still work when a new version of !MineCraft is released?*
+	Yes. Mace is a tool, rather than a mod, so consequently it doesn't need updating with every version of !MineCraft.
 
 	Mace might break if the world format changes. However, this is an extremely rare thing and Notch would most likely provide an automatic converter, so that shouldn't be a problem.
 
@@ -44,7 +44,7 @@
 	Mace is written entirely on Windows 7 (64-bit), so it definitely does!
 
 *I am on Linux/OSX, so can't run Mace. What can I do?*
-	You could Mono 2.6 Beta 3 (or later) and open the code in that. Then run the project and Mace will appear. I haven't tested this, so can't guarantee that it will work :(
+	You could download Mono 2.6 Beta 3 (or later) and open the code in that. Then run the project and Mace will appear. I haven't tested this, so can't guarantee that it will work :(
 
 	Alternatively, you could check the [http://code.google.com/p/mace-minecraft/downloads/list downloads page] to see if worlds are available for the latest version. If not, you are welcome to post in the [http://www.minecraftforum.net/topic/357201-mace-v140-random-city-generator/ Mace topic] and I will create some worlds for you.
 
@@ -60,10 +60,16 @@
 *Can Mace overwrite any of my existing worlds?*
 	No, so don't worry! Mace will keep generating random city names until it finds an unused one.
 
+*Does Mace change the way MineCraft generates terrain? Will my other worlds have cities in them?*
+	No, Mace doesn't change the behaviour of MineCraft in any way.
+
 *I feel imbalanced with all this construction. Is there any way to bring some destruction to the city?*
 	Yes! Have a look at Commander Keen's tool, called [http://www.minecraftforum.net/topic/269176-teeth-of-time-ruin-your-world-v03-brawler/ Teeth of Time].
 		
 == Problems ==
+
+*Are there any known issues with Mace*
+	Yes, please check out the KnownIssues page.
 
 *I spotted a bug. Would you like to know?*
 	Yes, please let me know in the [http://www.minecraftforum.net/topic/357201-mace-v140-random-city-generator/ Mace topic]. It would help me a great deal if you can provide details about the bug, such as the version of Mace you are using, a screenshot, the generated world, any installed mods, and your !MineCraft version. If you can find steps to reproduce the bug, that would help me as well.
