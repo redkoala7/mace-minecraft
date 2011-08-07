@@ -8,10 +8,10 @@ Here's a screenshot from each version, from roughly the same location:
 [http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_1_0.zip&can=2&q= V1.1] - Archery slots!
 [http://iceyboard.no-ip.org/images/mace/v1_1.jpg http://iceyboard.no-ip.org/images/mace/v1_1_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_2_0.zip&can=2&q= V1.2] - Download size reduced by 24 bytes!
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_2_0.zip&can=2&q= V1.2] - Slightly higher moat!
 [http://iceyboard.no-ip.org/images/mace/v1_2.jpg http://iceyboard.no-ip.org/images/mace/v1_2_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_3_0.zip&can=2&q= V1.3] - Slightly higher moat!
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_3_0.zip&can=2&q= V1.3] - Download size reduced by 24 bytes!
 [http://iceyboard.no-ip.org/images/mace/v1_3.jpg http://iceyboard.no-ip.org/images/mace/v1_3_thumb.jpg]
 
 [http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_4_0.zip&can=2&q= V1.4] - Added a new bakery name!
