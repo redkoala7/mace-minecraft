@@ -1,0 +1,13 @@
+#summary The list of known issues with Mace
+#labels Featured
+
+Nothing is perfect and Mace is no exception! Here's a list of bugs that I'm aware of:
+
+ * Flags will catch fire if the outside lights are made of fire.
+  * This will be fixed in the next version.
+
+ * The code may not work on OSX.
+  * If you get it working, please let me know.
+
+ * Portal blocks are not rotated correctly 50% of the time.
+  * Unfortunately nothing can be done about this.
