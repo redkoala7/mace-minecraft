@@ -80,7 +80,7 @@
 == Suggestions ==
 
 *I have a suggestion, would you like it?*
-	Definitely! It might be something I've already got planned, so have a quick look through the [[ToDo]] list to see if it's listed.
+	Definitely! It might be something I've already got planned, so have a quick look through the [ToDo] list to see if it's listed.
 
 *Can you include NPCs in Mace?*
 	Yes! Ghostdancer has created the [http://www.minecraftforum.net/topic/532831-173-mobs-for-mace-npc-mod/ Mobs for Mace] mod, which allows you to add NPCs to the city.
