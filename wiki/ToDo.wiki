@@ -5,17 +5,34 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
 == Planned ==
 
-  * Add a city hall
-  * City themes
-  * Add a boathouse when there's a water moat
-  * Create a rail system inside the city walls
-  * Allow for farms to be orientated the other way
-  * Add to FAQ: how to use with multiplayer servers
+ * Add a city hall
+ * City themes
+ * Add a boathouse when there's a water moat
+ * More buildings
+ * L-shaped buildings
+ * Mineshaft entrance
+ * Create a rail system inside the city walls
+ * Allow for farms to be orientated the other way
+ * Add to FAQ: how to use with multiplayer servers
+ * Different street lights
+ * More flowers/grass inside the city
+ * Farm terrain should be less flat
+ * More city emblems
+ * Fix the flags-catching-fire bug
+ * Move more stuff to XML files
+ * Add NPC spawners for Ghostdancer's mod
+ * Mineshaft features
+  * Lava pools
+  * Water pools
+  * Safe rooms
+  * Collapsed sections
+  * Braces
+  * Dungeons
 
 == Possible ==
 
 These things might be too ambitious or just not possible.
 
-  * Multiple cities
-  * Add a spike moat when the !MineCraft adventure update is released
-  * Investigate adding NPCs when the adventure update is released
+ * Multiple cities
+ * Better transition between the city and the natural terrain
+ * Add a spike moat when the !MineCraft adventure update is released
