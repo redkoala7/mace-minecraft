@@ -1,5 +1,0 @@
-#summary Gone but not forgotten
-
-= Introduction =
-
-The sewer was a simple network of tunnels under the city, which would eventually be more complex and contain different ores. However, this was going to take up too much development time and didn't align with the purpose of Mace, which is to make a randomly generated city.
