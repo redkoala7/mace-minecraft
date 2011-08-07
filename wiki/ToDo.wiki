@@ -16,6 +16,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Add to FAQ: how to use with multiplayer servers
  * Different street lights
  * More flowers/grass inside the city
+ * Different coloured tents
  * Farm terrain should be less flat
  * Move the guard tower to the resource world
  * Move the city entrance to the resource world
