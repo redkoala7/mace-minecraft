@@ -120,6 +120,9 @@
 *Are you going to add more buildings to Mace?*
 	Yes, there's several more buildings that I'd like to add.
 
+*Could you add skyscrapers to Mace?*
+	I don't have any plans to do this, because they wouldn't fit with the current buildings. I want the buildings to be small and detailed, rather than large and empty.
+
 *Would you like my suggestion for a building?*
 	Suggestions for buildings are always welcome. It might already be planned, in which case it'll be on to the [[ToDo]] list or the [[UnreleasedChanges]].
 
