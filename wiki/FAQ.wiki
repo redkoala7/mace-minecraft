@@ -21,6 +21,9 @@
 *When will the next version of Mace be released?*
 	I don't know. The amount of free time I have available is unpredictable, so it is hard for me to estimate when the next version will be done.
 
+*Which programming language is Mace writte in?*
+	Mace is written in [http://en.wikipedia.org/wiki/C_Sharp_(programming_language) C#]. Some of the data files are written in [http://en.wikipedia.org/wiki/XML XML]
+
 *When tools do you use to make Mace?*
 	The code is written in [http://en.wikipedia.org/wiki/Microsoft_Visual_Studio Microsoft Visual Studio] 2010 Ultimate. I use the [http://code.google.com/p/substrate-minecraft/ Substrate library], which handles all the complicated world editing and creation. I use two mods to make the city buildings, which are [http://www.minecraftforum.net/topic/94310-172-single-player-commands-v210-1-new-update/ Single Player Commands] and [http://www.minecraftforum.net/topic/140684-172-toomanyitems-in-game-invedit-july-1/ TooManyItems]. I use [http://www.minecraftforum.net/topic/153066-cartograph-g-map-your-beta-17/ Cartograph G] to render the world as an image, which is very useful for debugging. I use [http://code.google.com/ Google Code] for project hosting.
 
