@@ -21,11 +21,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Allow anyone to add new farm buildings
  * Add to FAQ: how to use with multiplayer servers
  * Different street lights
- * Enclose the mini farm
  * Add a sign to the guards barracks, so people know what it is
- * More flowers/grass inside the city
- * More brothel names
- * Better house signs
  * Docks district
  * Different coloured tents
  * Farm terrain should be less flat
