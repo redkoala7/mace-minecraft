@@ -5,6 +5,8 @@ The next version will be V1.7 - The Improvement Iteration.
 
 == Done ==
 
+ * Apartment frequency is now "rare" rather than "average"
+
 == In Progress ==
 
 == Planned ==
