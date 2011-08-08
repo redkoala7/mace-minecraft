@@ -6,9 +6,9 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 == Planned ==
 
  * Add a city hall
- * City themes
  * Add a boathouse when there's a water moat
  * More buildings
+  * Wizard's tower
  * L-shaped buildings
  * Mineshaft entrance
  * Create a rail system inside the city walls
@@ -17,12 +17,21 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Allow anyone to add new farm buildings
  * Add to FAQ: how to use with multiplayer servers
  * Different street lights
+ * Enclose the mini farm
  * Generate resources at the same starting level, but make them go down to bedrock
  * More flowers/grass inside the city
+ * Reduce frequency of the apartment building
+ * More brothel names
+ * Generic shop building
  * Different coloured tents
  * Farm terrain should be less flat
+ * Split the random wall material option (random - normal types, random - all types)
+ * Add more random wall materials
+ * Allow people to specify the wall material block id
  * Move the guard tower to the resource world
+ * City themes
  * Move the city entrance to the resource world
+ * Check if the lighting bugs are still occuring
  * Improve the city entrance
  * More city emblems
  * More noticeboard messages
@@ -32,6 +41,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
    * Sign posts for directions
  * Fix the flags-catching-fire bug
  * Move more stuff to XML files
+ * More house chest item variations
  * Add NPC spawners for Ghostdancer's mod
  * Mineshaft features
   * Lava pools
@@ -40,6 +50,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Collapsed sections
   * Braces
   * Dungeons
+  * Ladders up/down
 
 == Possible ==
 
@@ -47,3 +58,5 @@ These things might be too ambitious or just not possible.
 
  * Better transition between the city and the natural terrain
  * Add a spike moat when the !MineCraft adventure update is released
+ * Venice mode
+ * Allow for exporting the city as a schematic, if this is added to Substrate
