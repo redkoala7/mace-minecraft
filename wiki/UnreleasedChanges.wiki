@@ -5,8 +5,8 @@ The next version will be V1.7 - The Improvement Iteration.
 
 == Done ==
 
- * Slightly change the location of resources - gold + diamonds are in the lowest third, lapis + redstone are in the lowest two thirds and coal + iron are found everywhere.
- * Apartment frequency is now "rare" rather than "average"
+ * Slightly changed the location of resources: gold + diamonds are in the lowest third, lapis + redstone are in the lowest two thirds and coal + iron are found everywhere.
+ * Apartment frequency is now "rare" rather than "average".
 
 == In Progress ==
 
