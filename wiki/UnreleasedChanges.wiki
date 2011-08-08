@@ -8,6 +8,10 @@ The next version will be V1.7 - The Improvement Iteration.
  * Slightly changed the location of resources: gold + diamonds are in the lowest third, lapis + redstone are in the lowest two thirds and coal + iron are found everywhere.
  * Apartment frequency is now "rare" rather than "average".
  * Outside fire lights will no longer set fire to the flags.
+ * Flowers and grass will now spawn in more places in the city.
+ * The mini farm is now enclosed to stop animals destroying it.
+ * Added some more combinations to the brothel names.
+ * Improved the house signs
 
 == In Progress ==
 
