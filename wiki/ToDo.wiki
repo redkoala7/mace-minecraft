@@ -23,11 +23,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Different street lights
  * Enclose the mini farm
  * Add a sign to the guards barracks, so people know what it is
- * Generate resources at the same starting level, but make them go down to bedrock
  * More flowers/grass inside the city
- * Reduce frequency of the apartment building
  * More brothel names
- * Generic shop building
  * Better house signs
  * Docks district
  * Different coloured tents
