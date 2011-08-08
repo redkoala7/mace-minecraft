@@ -23,6 +23,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Reduce frequency of the apartment building
  * More brothel names
  * Generic shop building
+ * Better house signs
  * Different coloured tents
  * Farm terrain should be less flat
  * Split the random wall material option (random - normal types, random - all types)
