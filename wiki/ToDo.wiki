@@ -25,6 +25,11 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Move the city entrance to the resource world
  * Improve the city entrance
  * More city emblems
+ * More noticeboard messages
+ * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
+ * Multiple cities
+   * Roads and rails to link them
+   * Sign posts for directions
  * Fix the flags-catching-fire bug
  * Move more stuff to XML files
  * Add NPC spawners for Ghostdancer's mod
@@ -40,6 +45,5 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
 These things might be too ambitious or just not possible.
 
- * Multiple cities
  * Better transition between the city and the natural terrain
  * Add a spike moat when the !MineCraft adventure update is released
