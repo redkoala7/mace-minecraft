@@ -17,6 +17,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Allow anyone to add new farm buildings
  * Add to FAQ: how to use with multiplayer servers
  * Different street lights
+ * Generate resources at the same starting level, but make them go down to bedrock
  * More flowers/grass inside the city
  * Different coloured tents
  * Farm terrain should be less flat
