@@ -8,3 +8,5 @@ The next version will be V1.7 - The Improvement Iteration.
 == In Progress ==
 
 == Planned ==
+
+See the [ToDo] list.
