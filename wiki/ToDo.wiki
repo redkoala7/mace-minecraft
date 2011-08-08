@@ -25,6 +25,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * More brothel names
  * Generic shop building
  * Better house signs
+ * Docks district
  * Different coloured tents
  * Farm terrain should be less flat
  * Split the random wall material option (random - normal types, random - all types)
