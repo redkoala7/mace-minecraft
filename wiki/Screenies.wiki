@@ -1,6 +1,6 @@
 #summary Progress over time
 
-Here's a screenshot from each version, from roughly the same location:
+Here's a screenshot from each version, with the most important addition listed:
 
 [http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_0_0.zip&can=2&q= V1.0] - Once upon a time...
 [http://iceyboard.no-ip.org/images/mace/v1_0.jpg http://iceyboard.no-ip.org/images/mace/v1_0_thumb.jpg]
@@ -20,5 +20,5 @@ Here's a screenshot from each version, from roughly the same location:
 [http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-v1_5_0.zip&can=2&q= V1.5] - Added a new bakery name!
 [http://iceyboard.no-ip.org/images/mace/v1_5.jpg http://iceyboard.no-ip.org/images/mace/v1_5_thumb.jpg]
 
-[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-code-v1_6_0.zip&can=2&q= V1.6] - Tents!
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-code-v1_6_0.zip&can=2&q= V1.6] - Chance of cobwebs increased by 2%!
 [http://iceyboard.no-ip.org/images/mace/v1_6.jpg http://iceyboard.no-ip.org/images/mace/v1_6_thumb.jpg]
