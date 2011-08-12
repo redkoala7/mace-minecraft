@@ -26,7 +26,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Different coloured tents
  * Farm terrain should be less flat
  * Split the random wall material option (random - normal types, random - all types)
- * Add more random wall materials
  * Allow people to specify the wall material block id
  * Move the guard tower to the resource world
  * City themes
@@ -39,7 +38,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Multiple cities
    * Roads and rails to link them
    * Sign posts for directions
- * Fix the flags-catching-fire bug
  * Move more stuff to XML files
  * More house chest item variations
  * Add NPC spawners for Ghostdancer's mod
