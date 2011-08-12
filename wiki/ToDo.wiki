@@ -10,15 +10,12 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * More buildings
   * Wizard's tower (unique)
   * Large park (unique)
-  * Windmill (farm building, unique)
   * Blacksmith (how would this be different to the crafting hut?)
  * L-shaped buildings
  * Mineshaft entrance
  * Create a rail system inside the city walls
  * Add an option to generate empty plots for a multiplayer server
  * Allow for farms to be orientated the other way
- * Stop hard-coding the farm buildings
- * Allow anyone to add new farm buildings
  * Add to FAQ: how to use with multiplayer servers
  * Different street lights
  * Add a sign to the guards barracks, so people know what it is
