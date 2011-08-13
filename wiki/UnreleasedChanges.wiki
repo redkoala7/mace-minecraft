@@ -1,7 +1,7 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-These are the changes that are done and will be released in version 1.7 - The Improvement Iteration.
+These are the changes for version 1.7 - The Improvement Iteration.
 
 == Done ==
 
