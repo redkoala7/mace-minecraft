@@ -19,6 +19,7 @@ The next version will be V1.7 - The Improvement Iteration.
  * Flowers and grass will now spawn in more places in the city.
  * The mini farm is now enclosed to stop animals destroying it.
  * Added some more combinations to the brothel names.
+ * Street signs are now on posts. Thanks to shad3w44 for this suggestion.
  * Improved the house signs.
  * Very small cities had an unrealistically large number of unique buildings, so I've disabled prioritising unique buildings on very small cities.
  * Added some more wall materials.
