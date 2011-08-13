@@ -8,6 +8,7 @@ The next version will be V1.7 - The Improvement Iteration.
  * Added a windmill to the farming buildings. It has the unique frequency.
  * Added a theatre. It has the unique frequency.
  * Added an igloo, which was created by coau14. It has the unique frequency.
+ * Added a blacksmith. It has rare frequency.
  * Slightly changed the location of resources: gold + diamonds are in the lowest third, lapis + redstone are in the lowest two thirds and coal + iron are found everywhere.
  * Apartment frequency is now "rare" rather than "average".
  * Outside fire lights will no longer set fire to the flags.
