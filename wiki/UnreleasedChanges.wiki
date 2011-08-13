@@ -13,8 +13,9 @@ The next version will be V1.7 - The Improvement Iteration.
  * Added some more combinations to the brothel names.
  * Improved the house signs.
  * Added some more wall materials.
- * The list of farm buildings is no longer hard-coded into Mace. It is taken from buildings.xml and uses all the frequency values. Farming buildings have a "farm" property. This means anyone can add new farming buildings.
- * Added a windmill to the farming buildings. Each city will have a maximum of one windmill.
+ * The list of farm buildings is no longer hard-coded into Mace. It is taken from buildings.xml and uses all the frequency values. Farm buildings have a "farm" property. This means anyone can add new farm buildings.
+ * Added a windmill to the farming buildings. It has the unique frequency.
+ * Added a theatre. It has the unique frequency.
 
 == In Progress ==
 
