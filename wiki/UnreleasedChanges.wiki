@@ -16,6 +16,7 @@ The next version will be V1.7 - The Improvement Iteration.
  * Added some more combinations to the brothel names.
  * Improved the house signs.
  * Added some more wall materials.
+ * Sponge in the resource world is turned into a random wool colour for each building. This is useful for randomly coloured carpets.
  * The list of farm buildings is no longer hard-coded into Mace. It is taken from buildings.xml and uses all the frequency values. Farm buildings have a "farm" property. This means anyone can add new farm buildings.
 
 == In Progress ==
