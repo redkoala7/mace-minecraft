@@ -5,6 +5,9 @@ The next version will be V1.7 - The Improvement Iteration.
 
 == Done ==
 
+ * Added a windmill to the farming buildings. It has the unique frequency.
+ * Added a theatre. It has the unique frequency.
+ * Added an igloo, which was created by coau14. It has the unique frequency.
  * Slightly changed the location of resources: gold + diamonds are in the lowest third, lapis + redstone are in the lowest two thirds and coal + iron are found everywhere.
  * Apartment frequency is now "rare" rather than "average".
  * Outside fire lights will no longer set fire to the flags.
@@ -14,8 +17,6 @@ The next version will be V1.7 - The Improvement Iteration.
  * Improved the house signs.
  * Added some more wall materials.
  * The list of farm buildings is no longer hard-coded into Mace. It is taken from buildings.xml and uses all the frequency values. Farm buildings have a "farm" property. This means anyone can add new farm buildings.
- * Added a windmill to the farming buildings. It has the unique frequency.
- * Added a theatre. It has the unique frequency.
 
 == In Progress ==
 
