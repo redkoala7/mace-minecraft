@@ -10,6 +10,7 @@ The next version will be V1.7 - The Improvement Iteration.
  * Added an igloo, which was created by coau14. It has the unique frequency.
  * Added a blacksmith. It has rare frequency.
  * Added a water well. It has rare frequency.
+ * Added two sandstone houses. They both have common frequency.
  * The mineshaft now has a proper entrance that will appear in a random location in the city.
  * Added four mineshaft entrances designs, all created by Ghostdancer. Mace will select one entrance to use in the city.
  * Slightly changed the location of resources: gold + diamonds are in the lowest third, lapis + redstone are in the lowest two thirds and coal + iron are found everywhere.
