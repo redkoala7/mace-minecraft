@@ -10,7 +10,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * More buildings
   * Wizard's tower (unique)
   * Large park (unique)
- * Mineshaft entrance
  * Create a rail system inside the city walls
  * Add an option to generate empty plots for a multiplayer server
  * Allow for farms to be orientated the other way
