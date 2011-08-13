@@ -9,6 +9,8 @@ The next version will be V1.7 - The Improvement Iteration.
  * Added a theatre. It has the unique frequency.
  * Added an igloo, which was created by coau14. It has the unique frequency.
  * Added a blacksmith. It has rare frequency.
+ * The mineshaft now has a proper entrance that will appear in a random location in the city.
+ * Added four mineshaft entrances, all created by Ghostdancer.
  * Slightly changed the location of resources: gold + diamonds are in the lowest third, lapis + redstone are in the lowest two thirds and coal + iron are found everywhere.
  * Apartment frequency is now "rare" rather than "average".
  * Outside fire lights will no longer set fire to the flags.
@@ -18,7 +20,7 @@ The next version will be V1.7 - The Improvement Iteration.
  * Improved the house signs.
  * Added some more wall materials.
  * Sponge in the resource world is turned into a random wool colour for each building. This is useful for randomly coloured carpets.
- * The list of farm buildings is no longer hard-coded into Mace. It is taken from buildings.xml and uses all the frequency values. Farm buildings have a "farm" property. This means anyone can add new farm buildings.
+ * The list of farm buildings and mineshaft entrances are taken from buildings.xml, which means anyone can add new buildings of these types. They can use all the frequency values.
 
 == In Progress ==
 
