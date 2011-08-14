@@ -24,7 +24,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * Very small cities had an unrealistically large number of unique buildings, so I've disabled prioritising unique buildings on very small cities.
  * Added some more wall materials.
  * Sponge in the resource world is turned into a random wool colour for each building. This is useful for randomly coloured carpets.
- * The list of farm buildings and mineshaft entrances are taken from buildings.xml, which means anyone can add new buildings of these types. They can use all the frequency values.
+ * The list of farm buildings and mineshaft entrances are taken from buildings.xml, which means anyone can add new buildings of these types. These buildings can use all the frequency values.
 
 == In Progress ==
 
