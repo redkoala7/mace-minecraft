@@ -17,6 +17,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Different street lights
  * Add a sign to the guards barracks, so people know what it is
  * Docks district
+ * Apply rotation code for rails to the entire city
  * Farm terrain should be less flat
  * Split the random wall material option (random - normal types, random - all types)
  * Allow people to specify the wall material block id
@@ -33,7 +34,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
    * Sign posts for directions
  * Move more stuff to XML files
  * More house chest item variations
- * Add NPC spawners for Ghostdancer's mod
  * Mineshaft features
   * Lava pools
   * Water pools
