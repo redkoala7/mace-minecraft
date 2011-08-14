@@ -1,4 +1,5 @@
 #summary Progress over time
+#labels Featured
 
 Here's a screenshot from each version, with the most important addition listed:
 
