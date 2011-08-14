@@ -29,6 +29,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
 == In Progress ==
 
  * Spawners for _Mobs for Mace_ by Ghostdancer.
+ * Exclude the mineshaft entrance when there's no mineshaft.
 
 == Planned ==
 
