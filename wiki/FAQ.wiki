@@ -21,6 +21,9 @@
 *When will the next version of Mace be released?*
 	I don't know. The amount of free time I have available is unpredictable, so it is hard for me to estimate when the next version will be done.
 
+*Are there any other city generators available for MineCraft?*
+	Yes indeed! Such as [http://www.minecraftforum.net/topic/171188-v173formivores-mods-city-wall-road-generator/ Formivore's city, wall & road generators] and [http://www.minecraftforum.net/topic/227822-173-millenaire-npc-village-114-indian-parchments-slovenian-translation/ Kinniken's Millénaire].
+
 *Which programming language is Mace written in?*
 	Mace is written in [http://en.wikipedia.org/wiki/C_Sharp_(programming_language) C#]. Some of the data files are written in [http://en.wikipedia.org/wiki/XML XML].
 
