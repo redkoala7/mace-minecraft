@@ -32,6 +32,5 @@ These are the changes for version 1.7 - The Improvement Iteration.
 
 == Planned ==
 
-See the [ToDo] list. High priority things for this update:
-
  * Mineshaft features
+ * See the [ToDo] list.
