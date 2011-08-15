@@ -33,5 +33,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
 
 == Planned ==
 
- * Mineshaft features
+ * Update to Substrate 0.7.
+ * Option to export city as schematic.
+ * Mineshaft features.
  * See the [ToDo] list.
