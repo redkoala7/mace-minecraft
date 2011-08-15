@@ -31,7 +31,6 @@ These are the changes for version 1.7 - The Improvement Iteration.
 == In Progress ==
 
  * Finish placing spawners in the resource world.
- * Exclude the mineshaft entrance when there's no mineshaft.
 
 == Planned ==
 
