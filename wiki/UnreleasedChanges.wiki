@@ -20,6 +20,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * The mini farm is now enclosed to stop animals destroying it.
  * Added some more combinations to the brothel names.
  * Street signs are now on posts. Thanks to shad3w44 for this suggestion.
+ * Updated to Substrate 0.7.
  * Improved the house signs.
  * Very small cities had an unrealistically large number of unique buildings, so I've disabled prioritising unique buildings on very small cities.
  * Added some more wall materials.
@@ -33,7 +34,6 @@ These are the changes for version 1.7 - The Improvement Iteration.
 
 == Planned ==
 
- * Update to Substrate 0.7.
- * Option to export city as schematic.
+ * Option to export the city as a schematic.
  * Mineshaft features.
  * See the [ToDo] list.
