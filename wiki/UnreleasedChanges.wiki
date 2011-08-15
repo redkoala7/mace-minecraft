@@ -5,6 +5,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
 
 == Done ==
 
+ * You can now tell Mace to include NPC spawners in the city, which are linked to Ghostdancer's Mobs for Mace.
  * Added a windmill to the farming buildings. It has the unique frequency.
  * Added a theatre. It has the unique frequency.
  * Added an igloo, which was created by coau14. It has the unique frequency.
@@ -29,7 +30,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
 
 == In Progress ==
 
- * Spawners for _Mobs for Mace_ by Ghostdancer.
+ * Finish placing spawners in the resource world.
  * Exclude the mineshaft entrance when there's no mineshaft.
 
 == Planned ==
