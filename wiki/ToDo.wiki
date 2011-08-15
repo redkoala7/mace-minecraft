@@ -49,4 +49,3 @@ These things might be too ambitious or just not possible.
  * Add a spike moat when the !MineCraft adventure update is released
  * Venice mode
  * Docks district
- * Allow for exporting the city as a schematic, if this is added to Substrate
