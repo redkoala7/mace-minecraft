@@ -21,6 +21,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Farm terrain should be less flat
  * Move the guard tower to the resource world
  * City themes
+ * Export the city as a schematic.
  * Move the city entrance to the resource world
  * Check if the lighting bugs are still occuring
  * Improve the city entrance
