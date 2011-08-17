@@ -10,7 +10,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * More buildings
   * Wizard's tower (unique)
   * Large park (unique)
- * Create a rail system inside the city walls
  * Add an option to generate empty plots for a multiplayer server
  * Allow for farms to be orientated the other way
  * Add to FAQ: how to use with multiplayer servers
@@ -18,6 +17,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Add a sign to the guards barracks, so people know what it is
  * Apply rotation code for rails to the entire city
  * Farm terrain should be less flat
+ * Make the code match a style guide
  * Move the guard tower to the resource world
  * City themes
  * Export the city as a schematic.
@@ -41,11 +41,15 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Dungeons
   * Ladders up/down
 
+== Maybe ==
+
+ * Venice mode
+ * Create a rail system inside the city walls
+
 == Possible ==
 
 These things might be too ambitious or just not possible.
 
  * Better transition between the city and the natural terrain
  * Add a spike moat when the !MineCraft adventure update is released
- * Venice mode
  * Docks district
