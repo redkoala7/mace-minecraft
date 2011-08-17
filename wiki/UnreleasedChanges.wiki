@@ -9,6 +9,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * Added a windmill to the farming buildings. It has the unique frequency.
  * Added a theatre. It has the unique frequency.
  * Added an igloo, which was created by coau14. It has the unique frequency.
+ * Added a bank, which is inspired by coau14's bank.
  * Added a blacksmith. It has rare frequency.
  * Added a water well. It has rare frequency.
  * Added two sandstone houses. They both have common frequency.
