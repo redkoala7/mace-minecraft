@@ -14,7 +14,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Allow for farms to be orientated the other way
  * Add to FAQ: how to use with multiplayer servers
  * Different street lights
- * Add a sign to the guards barracks, so people know what it is
  * Apply rotation code for rails to the entire city
  * Farm terrain should be less flat
  * Make the code match a style guide
