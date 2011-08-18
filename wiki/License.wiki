@@ -5,6 +5,6 @@ This information is available in other places, but I've decided to put it all he
 
 Mace is released under the [http://www.gnu.org/licenses/gpl.html GNU GPL V3].
 
-Mace uses unmodified versions of [http://code.google.com/p/substrate-minecraft/ Substrate], which are released under the [http://www.opensource.org/licenses/mit-license.php MIT License].
+Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate] SDK, which is released under the [http://www.opensource.org/licenses/mit-license.php MIT License].
 
-Substrate uses the [http://dotnetzip.codeplex.com/ DotNetZip Library], which is released under the [http://dotnetzip.codeplex.com/license Microsoft Public License].
+Substrate uses the [http://dotnetzip.codeplex.com/ DotNetZip] library, which is released under the [http://dotnetzip.codeplex.com/license Microsoft Public License].
