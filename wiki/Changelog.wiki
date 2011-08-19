@@ -21,7 +21,7 @@
  * Ores are generated underground.
  * Added a new frequency type: "unique". Each unique building will appear a maximum of once per city. Unique buildings must be at least 10 squares away from another unique building.
  * Added a cathedral, archery range, prison, pyramid and large fountain. These all have the "unique" frequency.
- * Added a castle, which was designed by [ http://www.youtube.com/user/TheRealMegaMiner TheMegaMiner]. The castle has the "unique" frequency value.
+ * Added a castle, which was designed by [http://www.youtube.com/user/TheRealMegaMiner TheMegaMiner]. The castle has the "unique" frequency value.
  * Added a simple house made of stone and bricks.
  * Added a tent building.
  * Added an apartment building. Thanks to redjay17 for this suggestion.
