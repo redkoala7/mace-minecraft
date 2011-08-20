@@ -24,6 +24,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * The mini farms are now enclosed to stop animals destroying them.
  * Added some more combinations to the brothel names.
  * Street signs are now on posts. Thanks to shad3w44 for this suggestion.
+ * House chests now have a slightly larger variety of items.
  * Updated to Substrate 0.7.
  * Improved the house signs.
  * Very small cities had an unrealistically large number of unique buildings, so I've disabled prioritising unique buildings on very small cities.
