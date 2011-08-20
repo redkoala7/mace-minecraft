@@ -19,6 +19,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * Apartment frequency has been switched to "rare" instead of "average".
  * Added a fire moat, which will appear 10% of the time. Thanks to coau14 for this suggestion.
  * Outside fire lights will no longer set fire to the flags.
+ * Made a lot of minor changes to the code to bring it more inline with C# standards. It's still got a long way to go though.
  * Flowers and grass will appear in more places in the city.
  * The mini farms are now enclosed to stop animals destroying them.
  * Added some more combinations to the brothel names.
