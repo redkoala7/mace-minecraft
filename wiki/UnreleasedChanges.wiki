@@ -33,6 +33,8 @@ These are the changes for version 1.7 - The Improvement Iteration.
 
 == In Progress ==
 
+ * Put the balloon above the mineshaft entrance (Ghostdancer)
+
 == Planned ==
 
  * Mineshaft features.
