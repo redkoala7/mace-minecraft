@@ -30,12 +30,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
    * Sign posts for directions
  * Move more stuff to XML files
  * Mineshaft features
-  * Lava pools
-  * Water pools
-  * Safe rooms
   * Collapsed sections
   * Braces
-  * Dungeons
   * Ladders up/down
 
 == Maybe ==
