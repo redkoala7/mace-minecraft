@@ -6,6 +6,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
 == Done ==
 
  * You can now tell Mace to include NPC spawners in the city, which which will use Ghostdancer's Mobs for Mace. Please see the Mobs for Mace thread for download instructions.
+ * Written in mineshaft features, which are things like lava pools, resting stations, dungeons...
  * Added a windmill to the farming buildings. It has the unique frequency.
  * Added a bank, which is inspired by coau14's bank. It has the unique frequency.
  * Added a theatre. It has the unique frequency.
@@ -32,12 +33,11 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * Added some more wall materials.
  * Buildings have little paths, which link to the roads when possible.
  * Sponge in the resource world is turned into a random wool colour for each building. This is useful for randomly coloured carpets.
- * The list of farm buildings and mineshaft entrances are taken from buildings.xml, which means anyone can add new buildings of these types. These buildings can use all the frequency values.
+ * The list of farm buildings, mineshaft sections and mineshaft entrances are taken from buildings.xml, which means anyone can add new buildings of these types. These buildings can use all the frequency values.
  * The rail rotation code saves more frequently, which should hopefully fix any remaining issues. It is applied to the whole city now, so any rails placed in resource buildings will be turned appropriately. It doesn't look at different elevations yet.
 
 == In Progress ==
 
 == Planned ==
 
- * Mineshaft features.
  * See the [ToDo] list.
