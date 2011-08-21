@@ -14,6 +14,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * Added two sandstone houses. They both have common frequency.
  * The mineshaft now has a proper entrance that will appear in a random location in the city.
  * Added four mineshaft entrance designs, all created by Ghostdancer. Mace will select one entrance to use in the city.
+ * The balloon will appear above the mineshaft entrance, which helps to locate it. Thanks to Ghostdancer for this suggestion.
  * Slightly changed the location of resources: gold + diamonds are in the lowest third, lapis + redstone are in the lowest two thirds and coal + iron are found everywhere.
  * In mineshaft chests the common blocks will now appear in larger amounts.
  * Apartment frequency has been switched to "rare" instead of "average".
