@@ -7,12 +7,13 @@ These are the changes for version 1.7 - The Improvement Iteration.
 
  * You can now tell Mace to include NPC spawners in the city, which which will use Ghostdancer's Mobs for Mace. Please see the Mobs for Mace thread for download instructions.
  * Written in mineshaft features, which are things like lava pools, resting stations, dungeons...
- * Added a windmill to the farming buildings. It has the unique frequency.
- * Added a bank, which is inspired by coau14's bank. It has the unique frequency.
- * Added a theatre. It has the unique frequency.
- * Added an igloo, which was created by coau14. It has the unique frequency.
- * Added several buildings with rare frequency: blacksmith, tailor and water well.
- * Added two sandstone houses. They both have common frequency.
+ * Added a windmill to the farming buildings (unique frequency).
+ * Added a bank, which is inspired by coau14's bank (unique frequency).
+ * Added a theatre (average frequency).
+ * Added an igloo, which was created by coau14 (unique frequency).
+ * Added a wool house with a hedge-garden (average frequency).
+ * Added a blacksmith, tailor and water well (all rare frequency).
+ * Added two sandstone houses (common frequency).
  * The mineshaft now has a proper entrance that will appear in a random location in the city.
  * Added four mineshaft entrance designs, all created by Ghostdancer. Mace will select one entrance to use in the city.
  * The balloon will appear above the mineshaft entrance, which helps to locate it. Thanks to Ghostdancer for this suggestion.
