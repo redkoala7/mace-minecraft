@@ -5,7 +5,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
 
 == Done ==
 
- * You can now tell Mace to include NPC spawners in the city, which which will use Ghostdancer's Mobs for Mace. Please see the Mobs for Mace thread for download instructions.
+ * You can now tell Mace to include NPC spawners in the city, which will use Ghostdancer's Mobs for Mace. Please see the Mobs for Mace thread for download instructions.
  * Written in mineshaft features, which are things like lava pools, resting stations, dungeons...
  * Added a windmill to the farming buildings (unique frequency).
  * Added a bank, which is inspired by coau14's bank (unique frequency).
