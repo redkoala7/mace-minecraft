@@ -20,7 +20,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * City themes
  * Export the city as a schematic.
  * Move the city entrance to the resource world
- * Check if the lighting bugs are still occuring
  * Improve the city entrance
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
  * Multiple cities
