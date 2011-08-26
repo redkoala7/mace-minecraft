@@ -27,11 +27,11 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * The mini farms are now enclosed to stop animals destroying them.
  * Added some more combinations to the brothel names.
  * Street signs are now on posts. Thanks to shad3w44 for this suggestion.
- * Mineshafts will no longer have gravel ceilings on the highest four levels and they will no longer have sand ceilings on the highest two levels. This stops the ceiling collapsing on you in the higher levels. Thank you to BrianSki for this idea.
+ * Mineshafts will no longer have gravel ceilings on the highest four levels and they will no longer have sand ceilings on the highest two levels. This stops the ceiling collapsing on you in the higher levels. Thank you to !BrianSki for this idea.
  * House chests now have a slightly larger variety of items.
  * Updated to Substrate 0.7.
  * Improved the house signs.
- * Mace will now randomly choose between the usual glowstone street lights and the new torch street lights. Thanks to BrianSki for this idea.
+ * Mace will now randomly choose between the usual glowstone street lights and the new torch street lights. Thanks to !BrianSki for this idea.
  * Very small cities had an unrealistically large number of unique buildings, so I've disabled prioritising unique buildings on very small cities.
  * Added some more wall materials.
  * Buildings have little paths, which link to the roads when possible.
