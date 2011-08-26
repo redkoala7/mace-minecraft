@@ -31,6 +31,7 @@ These are the changes for version 1.7 - The Improvement Iteration.
  * House chests now have a slightly larger variety of items.
  * Updated to Substrate 0.7.
  * Improved the house signs.
+ * Mace will now randomly choose between the usual glowstone street lights and the new torch street lights. Thanks to BrianSki for this idea.
  * Very small cities had an unrealistically large number of unique buildings, so I've disabled prioritising unique buildings on very small cities.
  * Added some more wall materials.
  * Buildings have little paths, which link to the roads when possible.
