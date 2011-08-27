@@ -15,10 +15,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Add to FAQ: how to use with multiplayer servers
  * Farm terrain should be less flat
  * Make the code match a style guide
- * Move the guard tower to the resource world
  * City themes
  * Export the city as a schematic.
- * Move the city entrance to the resource world
  * Improve the city entrance
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
  * Multiple cities
