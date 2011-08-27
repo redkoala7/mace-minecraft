@@ -32,6 +32,7 @@ Mineshaft
 
 Code / Config
 
+ * The code has been successfully tested in Mono 2.6 RC1 on Windows. If you run it in that version on a mac, please let me know what happens - good or bad! Including error messages is very useful to me.
  * Made a lot of minor changes to the code to bring it more inline with C# standards. It's still got a long way to go though.
  * Updated to Substrate 0.7.
  * Sponge in the resource world is turned into a random wool colour for each building. This is useful for randomly coloured carpets.
