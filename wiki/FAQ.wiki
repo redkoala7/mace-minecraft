@@ -114,6 +114,8 @@
 *Can I add new buildings for Mace to generate in the city?*
 	Yes. Please see [http://www.minecraftforum.net/topic/357201-mace-v150-random-city-generator/page__view__findpost__p__6854916 Ghostdancer's instructions] for all the details.
 
+	Alternatively, !SmashCuber has created a [http://www.youtube.com/watch?v=HQSFDYwsT3I&feature=channel_video_title video guide for adding buildings].
+
 *All Mace buildings are square, any plans to change that?*
 	Currently I don't have any plans to change this. Squares are a lot easier to deal with and rectangular/circular buildings can be created within squares, so I'm happy with the way it works.
 
@@ -134,6 +136,8 @@
 
 *Can I make my own city emblems?*
 	Yes! Please see [http://www.minecraftforum.net/topic/357201-mace-v150-random-city-generator/page__view__findpost__p__6347117 Ghostdancer's guide].
+
+	!SmashCuber has also made a [http://www.youtube.com/watch?v=EoT2LIa0tA8&feature=player_embedded video guide to creating emblems].
 
 == Distribution and Modifying ==
 
