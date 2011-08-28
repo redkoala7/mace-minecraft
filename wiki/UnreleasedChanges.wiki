@@ -49,6 +49,7 @@ Moat
 
 Minor Stuff
 
+ * City walls now go down to bedrock. Thanks to Commander Keen for this suggestion.
  * Apartment frequency has been switched to "very rare" instead of "average".
  * Flowers and grass will appear in more places in the city.
  * The mini farms are now enclosed to stop animals destroying them.
