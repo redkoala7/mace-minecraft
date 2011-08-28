@@ -19,6 +19,7 @@ Buildings
  * Added a blacksmith, tailor and water well (all rare frequency).
  * Added two sandstone houses (common frequency).
  * Added a wizard's tower (unique frequency).
+ * Added a large park (unique frequency).
 
 Mineshaft
 
