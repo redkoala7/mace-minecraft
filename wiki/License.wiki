@@ -8,3 +8,5 @@ Mace is released under the [http://www.gnu.org/licenses/gpl.html GNU GPL V3].
 Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate] SDK, which is released under the [http://www.opensource.org/licenses/mit-license.php MIT License].
 
 Substrate uses the [http://dotnetzip.codeplex.com/ DotNetZip] library, which is released under the [http://dotnetzip.codeplex.com/license Microsoft Public License].
+
+These are all open source licenses.
