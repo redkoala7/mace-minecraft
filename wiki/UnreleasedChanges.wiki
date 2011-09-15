@@ -2,3 +2,8 @@
 #labels Featured
 
 The aim for v1.8 is to have multiple cities and city themes. These two features are going to take a long time to write.
+
+There's also some things I'd like to do before v1.8:
+
+ * Add links to non-English videos about Mace to the Mace thread
+ * Provide details about submitting buildings
