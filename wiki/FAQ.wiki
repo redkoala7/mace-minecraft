@@ -103,7 +103,7 @@
 == Buildings ==
 
 *Can I submit a building to you?*
-	Yes. Thank you! Buildings are very welcome. Ideally they should be submitted as a schematic file that can be loaded into McEdit. It's best if the overall area of your schematic is roughly square. For example, you might have a rectangular building next to a rectangular garden, making it a square overall.
+	Yes. Thank you! Buildings are very welcome. Ideally they should be submitted as a schematic file that can be loaded into !McEdit. It's best if the overall area of your schematic is roughly square. For example, you might have a rectangular building next to a rectangular garden, making it a square overall.
 
 	Unfortunately I can't use all buildings that are submitted. They might not fit into a city theme or they might not be appropriate for Mace. Please don't be disappointed if I can't include your building.
 
