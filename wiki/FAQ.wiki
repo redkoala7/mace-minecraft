@@ -97,13 +97,17 @@
 *Will Mace be able to make multiple cities in one world?*
 	I would like to add this in the future, so watch this space...
 
-*All Mace cities are square, any plans to change that?*
-	There's a lot of code in the generator that relies on the city being square, so that's the best way for it to be right now. 
-
 *When a new feature is added to !MineCraft, will you add it to Mace?*
 	If I can find a good use for it, then I definitely will!
 
 == Buildings ==
+
+*Can I submit a building to you?*
+	Yes. Thank you! Buildings are very welcome. Ideally they should be submitted as a schematic file that can be loaded into McEdit. It's best if the overall area of your schematic is roughly square. For example, you might have a rectangular building next to a rectangular garden, making it a square overall.
+
+	Unfortunately I can't use all buildings that are submitted. They might not fit into a city theme or they might not be appropriate for Mace. Please don't be disappointed if I can't include your building.
+
+	To comply with forum regulations and to avoid any awkward situations, all contributed schematics must have a license. Any open source license is okay. You can also generate a [http://creativecommons.org/choose/ creative commons license]. To be compatible with Mace the license must allow for modifications.
 
 *Can I change how often a building appears?*
 	Yes. Go to the Resources folder, then open buildings.xml. Scroll down and look at the building names. Once you find the building, change the frequency value to "very common", "common", "average", "rare", "very rare", "unique" or "exclude". Excluded buildings will not appear on the map. Unique buildings appear a maximum of once per city.
