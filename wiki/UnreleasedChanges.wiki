@@ -5,13 +5,20 @@ This page lists the features that are expected in v1.8:
 
 == Done ==
 
-
+ * Nothing. Yay!
 
 == In Progress ==
 
  * Multiple cities
+ * City themes
+ * New interface
+ * Roads
 
 == Planned ==
 
- * City themes
- * New interface
+ * Configurable ground block
+ * Specified block types should allow for a data value
+ * Allowed farm types should be specified in the city themes
+ * Different city name files for each theme
+ * Raise the cactus moat
+ * Novv's buildings
