@@ -22,3 +22,6 @@ This page lists the features that are expected in v1.8:
  * Different city name files for each theme
  * Raise the cactus moat
  * Novv's buildings
+ * Allow for creative or survival worlds
+ * Spawn point code
+ * Fire-proof combinations
