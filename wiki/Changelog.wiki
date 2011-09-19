@@ -1,6 +1,10 @@
 #summary All the changes for every version
 #labels Featured
 
+= 1.7.2 =
+
+ * This release fixes the lighting bug with chests. Thanks to jaquadro for providing the fix.
+
 = 1.7.1 =
 
  * The bank now goes down to it's intended level. Thank you to shad3w44 for letting me know about that.
