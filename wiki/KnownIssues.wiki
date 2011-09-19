@@ -13,7 +13,7 @@ Nothing is perfect and Mace is no exception! Here's a list of bugs that I'm awar
   * This is out of my control.
 
  * The code may not work on OSX.
-  * If you get it working, please let me know.
+  * Please let me know about your experiences with running the code on OSX, whether they are good or bad.
 
  * Portal blocks are not rotated correctly 50% of the time.
-  * Minecraft doesn't allow them to be rotated when they aren't part of a portal. So nothing can be done about this.
+  * Minecraft doesn't allow them to be rotated when they aren't part of a portal. So unfortunately nothing can be done about this.
