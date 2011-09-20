@@ -13,7 +13,7 @@
 == Overview ==
 
 *What is Mace?*
-	Mace is a tool for !MineCraft, which creates a regular world with a random city at the spawn point. You can then use the city for exploring, expanding, destruction, creation, modification or whatever you would like.
+	Mace is a tool for !MineCraft, which creates a regular world with a random city at the spawn point. You can then use the city for exploration, expansion, destruction, creation, inspiration, modification...
 
 *When will Mace be finished?*
 	My aim with Mace is to randomly generate a complete city, so from that perspective it is done. However, there are many more features that I would like to add. Eventually I'll declare it as finished, then move on to something else.
@@ -58,7 +58,7 @@
 	This is currently not possible and I don't have any immediate plans to do this. However, it is possible to move a generated city into an existing world using a tool like [http://www.minecraftforum.net/topic/13807-mcedit-minecraft-world-editor-compatible-with-mc-beta-166/ McEdit].
 
 *Can I use a Mace world on my !MineCraft server?*
-	Yes. I haven't tried this myself, but several people have reported doing this successfully.
+	Yes, this is possible. I haven't tried this myself, but several people have reported doing this successfully.
 
 *Can Mace overwrite any of my existing worlds?*
 	No, so don't worry! Mace will keep generating random city names until it finds an unused one.
@@ -88,8 +88,10 @@
 *Can you include NPCs in Mace?*
 	Yes! Ghostdancer has created the [http://www.minecraftforum.net/topic/532831-173-mobs-for-mace-npc-mod/ Mobs for Mace] mod, which allows you to add NPCs to the city.
 
-*Is it possible to change the region that the city is in?*
-	Unfortunately the region data is decided by !MineCraft at run time, so it is not possible for Mace to change it.
+*Is it possible to change the biome that the city is in?*
+	Unfortunately the biome data is decided by !MineCraft at run time, so it is not possible for Mace to change it.
+
+	You could try changing the world seed though. If you know a certain world seed always generates the biome yoiu want at the spawn point, just use that.
 
 *Is it possible to specify the type of terrain around the city?*
 	In the future this might be possible, but I'm currently not focussing on terrain generation.
