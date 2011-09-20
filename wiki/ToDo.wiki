@@ -8,14 +8,18 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Add a boathouse when there's a water moat
  * More buildings
   * City hall (unique)
+  * Buildings for the Desert City theme
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
  * Allow for farms to be orientated the other way
  * Add to FAQ: how to use with multiplayer servers
  * Farm terrain should be less flat
+ * Replace farm doors with fences
  * Make the code match a style guide
- * City themes
  * Improve the city entrance
+ * Melon farms
+ * Pumpkin farms
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
+ * Buildings next to roads (farms, ruins, houses...)
  * Multiple cities
    * Roads and rails to link them
    * Sign posts for directions
