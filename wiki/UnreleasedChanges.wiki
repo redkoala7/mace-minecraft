@@ -6,6 +6,7 @@ This page lists the features that are expected in v1.8:
 == Done ==
 
  * Different city name files for each theme
+ * Specified block types allow for a data value
 
 == In Progress ==
 
@@ -19,9 +20,9 @@ This page lists the features that are expected in v1.8:
 
  * Use Ghostdancer's resource world
  * Ghostdancer's new mineshaft entrance
- * Specified block types should allow for a data value
  * Allowed farm types should be specified in the city themes
  * Raise the cactus moat
+ * Specifyable path block
  * Novv's buildings
  * Allow for creative or survival worlds
  * Spawn point code
