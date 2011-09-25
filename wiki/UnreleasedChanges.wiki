@@ -9,6 +9,7 @@ This page lists the features that are expected in v1.8:
  * Specified block types allow for a data value
  * There's now two cactus moats - one at normal level and the original submerged one
  * Added five new emblems, created by Ghostdancer. They are emblems of a creeper, a pickaxe, a sword, the crafters' guild and a tree.
+ * Lowered the fire and lava moats, to stop them setting fire to emblems
 
 == In Progress ==
 
