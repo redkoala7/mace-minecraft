@@ -8,6 +8,7 @@ This page lists the features that are expected in v1.8:
  * Different city name files for each theme
  * Specified block types allow for a data value
  * There's now two cactus moats - one at normal level and the original submerged one
+ * Added five new emblems, created by Ghostdancer. They are emblems of a creeper, a pickaxe, a sword, the crafters' guild and a tree.
 
 == In Progress ==
 
