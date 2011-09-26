@@ -114,6 +114,11 @@
 *Can I change how often a building appears?*
 	Yes. Go to the Resources folder, then open buildings.xml. Scroll down and look at the building names. Once you find the building, change the frequency value to "very common", "common", "average", "rare", "very rare", "unique" or "exclude". Excluded buildings will not appear on the map. Unique buildings appear a maximum of once per city.
 
+*Building X didn't appear in my city. Why is that?*
+	The unique buildings appear a maximum of once per city. There's a lot of unique buildings, so each city will contain a subset of them. Larger cities will contain more unique buildings.
+
+	On (very) small cities it might not be possible to show all of the buildings, simply because there isn't enough space to put them all in.
+
 *Can I modify the buildings that Mace puts in the city?*
 	Yes. Please see [http://www.minecraftforum.net/topic/357201-mace-v150-random-city-generator/page__view__findpost__p__6854916 Ghostdancer's instructions] for all the details.
 
