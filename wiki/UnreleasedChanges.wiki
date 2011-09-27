@@ -5,7 +5,7 @@ This page lists the features that are expected in v1.8:
 
 == Done ==
 
- * Buildings are now divided into three themes. They are Medieval (most of the existing buildings), Desert (the existing sandstone buildings) and Novv's Medieval buildings (all new!).
+ * Buildings are now divided into three themes. They are Medieval (most of the existing buildings), Desert (the existing sandstone buildings) and Novv's Medieval buildings (new to Mace!).
  * Different city name files for each theme
  * Specified block types allow for a data value
  * There's now two cactus moats - one at normal level and the original submerged one
