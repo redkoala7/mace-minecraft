@@ -17,6 +17,7 @@ This page lists the features that are expected in v1.8:
  * Gold ore on the ground (layer 63) of the resource world will be turned into the path block.
  * Flowers can be specified for each city theme (e.g. cacti and dead shrubs in the desert city)
  * Cities without farms will now have flowers on the empty area outside
+ * The doors on farms are now fence gates
 
 == In Progress ==
 
@@ -29,7 +30,6 @@ This page lists the features that are expected in v1.8:
  * Allowed farm types should be specified in the city themes
  * Allow for creative or survival worlds
  * Spawn point code
- * Gates on the fenced farms
  * Update progress bar
  * Fire-proof combinations
  * Fix flower spawning
