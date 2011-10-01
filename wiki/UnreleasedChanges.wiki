@@ -21,11 +21,9 @@ This page lists the features that are expected in v1.8:
 
  * Multiple cities
  * New interface
- * Roads
 
 == Planned ==
 
- * Use Ghostdancer's resource world
  * Ghostdancer's new mineshaft entrance
  * Allowed farm types should be specified in the city themes
  * Allow for creative or survival worlds
@@ -34,3 +32,7 @@ This page lists the features that are expected in v1.8:
  * Fire-proof combinations
  * Fix flower spawning
  * Cities without farms should have flowers spawning on the empty area outside
+
+== Maybe ==
+
+ * Roads (need to figure out a way for roads to not look awful)
