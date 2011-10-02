@@ -13,7 +13,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Allow for farms to be orientated the other way
  * Add to FAQ: how to use with multiplayer servers
  * Farm terrain should be less flat
- * Replace farm doors with fences
  * Make the code match a style guide
  * Improve the city entrance
  * Melon farms
