@@ -31,6 +31,7 @@ This page lists the features that are expected in v1.8:
  * Allow for creative or survival worlds
  * Spawn point code
  * Update progress bar
+ * Make the cactus moats a bit more random
  * Fire-proof combinations
  * Fix flower spawning
 
