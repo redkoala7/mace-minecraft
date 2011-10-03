@@ -7,6 +7,7 @@ This page lists the features that are expected in v1.8:
 
  * Buildings are now divided into three themes. They are Medieval (most of the existing buildings), Desert (the existing sandstone buildings) and Novv's Medieval buildings (new to Mace!).
  * Different city name files for each theme
+ * The world will now appear at the top of your Minecraft world list.
  * Specified block types allow for a data value
  * There's now two cactus moats - one at normal level and the original submerged one
  * Added five new emblems, created by Ghostdancer. They are emblems of a creeper, a pickaxe, a sword, the crafters' guild and a tree.
