@@ -19,6 +19,7 @@ This page lists the features that are expected in v1.8:
  * Flowers can be specified for each city theme (e.g. cacti and dead shrubs in the desert city)
  * Cities without farms will now have flowers on the empty area outside
  * The doors on farms are now fence gates
+ * You can select the world type.
 
 == In Progress ==
 
@@ -29,7 +30,8 @@ This page lists the features that are expected in v1.8:
 
  * Ghostdancer's new mineshaft entrance
  * Allowed farm types should be specified in the city themes
- * Allow for creative or survival worlds
+ * Novv's trees are too close, need to fix
+ * Novv's building underground areas are not appearing, need to fix
  * Spawn point code
  * Make the cactus moats a bit more random
  * Fire-proof combinations
@@ -38,4 +40,4 @@ This page lists the features that are expected in v1.8:
 == Maybe ==
 
  * Roads (need to figure out a way for roads to not look awful)
- * Warp file for the Single Player Commands mod, to reach each city
+ * Warp file for the Single Player Commands mod, to instantly warp to each city
