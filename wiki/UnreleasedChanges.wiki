@@ -35,6 +35,7 @@ This page lists the features that are expected in v1.8:
  * Spawn point code
  * Make the cactus moats a bit more random
  * Fire-proof combinations
+ * Different types of logging, with saving
  * Fix flower spawning
 
 == Maybe ==
