@@ -37,4 +37,4 @@ This page lists the features that are expected in v1.8:
 == Maybe ==
 
  * Roads (need to figure out a way for roads to not look awful)
- * Warp file for single player commands, to reach each city
+ * Warp file for the Single Player Commands mod, to reach each city
