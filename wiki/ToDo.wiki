@@ -15,6 +15,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Farm terrain should be less flat
  * Make the code match a style guide
  * Improve the city entrance
+ * Allowed farm types should be specified in the city themes
+ * Move more constants to the city theme files
  * Melon farms
  * Pumpkin farms
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
