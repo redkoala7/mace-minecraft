@@ -21,11 +21,13 @@ This page lists the features that are expected in v1.8:
  * The doors on farms are now fence gates
  * You can select the world type.
  * Randomly selected combinations are now fire-proof
+ * The world type can be creative, survival or hardcore.
+ * Multiple cities
+ * New interface
 
 == In Progress ==
 
- * Multiple cities
- * New interface
+ * Do the seven billion "todo"s in the code
 
 == Planned ==
 
@@ -35,8 +37,6 @@ This page lists the features that are expected in v1.8:
  * Spawn point code
  * Make the cactus moats a bit more random
  * Different types of logging, with saving
- * Fix flower spawning
- * Do the seven billion "todo"s in the code
 
 == Maybe ==
 
