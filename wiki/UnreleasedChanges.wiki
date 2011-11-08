@@ -20,6 +20,7 @@ This page lists the features that are expected in v1.8:
  * Cities without farms will now have flowers on the empty area outside
  * The doors on farms are now fence gates
  * You can select the world type.
+ * Randomly selected combinations are now fire-proof
 
 == In Progress ==
 
@@ -34,7 +35,6 @@ This page lists the features that are expected in v1.8:
  * Novv's building underground areas are not appearing, need to fix
  * Spawn point code
  * Make the cactus moats a bit more random
- * Fire-proof combinations
  * Different types of logging, with saving
  * Fix flower spawning
 
