@@ -37,6 +37,7 @@ This page lists the features that are expected in v1.8:
  * Make the cactus moats a bit more random
  * Different types of logging, with saving
  * Fix flower spawning
+ * Do the seven billion "todos" in the code
 
 == Maybe ==
 
