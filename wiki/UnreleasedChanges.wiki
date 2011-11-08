@@ -19,7 +19,6 @@ This page lists the features that are expected in v1.8:
  * Flowers can be specified for each city theme (e.g. cacti and dead shrubs in the desert city)
  * Cities without farms will now have flowers on the empty area outside
  * The doors on farms are now fence gates
- * You can select the world type.
  * Randomly selected combinations are now fire-proof
  * The world type can be creative, survival or hardcore.
  * Multiple cities
