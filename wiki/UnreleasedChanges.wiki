@@ -11,6 +11,7 @@ This page lists the features that are expected in v1.8:
  * Specified block types allow for a data value
  * There's now two cactus moats - one at normal level and the original submerged one
  * Added five new emblems, created by Ghostdancer. They are emblems of a creeper, a pickaxe, a sword, the crafters' guild and a tree.
+ * Added a sandstone creeper mine entrance, by Ghostdancer.
  * Lowered the fire and lava moats, to stop them setting fire to emblems
  * Each city theme can have a different ground block (e.g. sand in the desert city)
  * Redstone ore on the ground (layer 63) of the resource world will be turned into the city ground block.
@@ -23,6 +24,7 @@ This page lists the features that are expected in v1.8:
  * The world type can be creative, survival or hardcore.
  * Multiple cities
  * New interface
+ * The cactus moat is a bit more random.
 
 == In Progress ==
 
@@ -30,11 +32,8 @@ This page lists the features that are expected in v1.8:
 
 == Planned ==
 
- * Ghostdancer's new mineshaft entrance
  * Novv's trees are too close, need to fix
- * Novv's building underground areas are not appearing, need to fix
  * Spawn point code
- * Make the cactus moats a bit more random
  * Different types of logging, with saving
 
 == Maybe ==
