@@ -3,6 +3,9 @@
 
 Nothing is perfect and Mace is no exception! Here's a list of bugs that I'm aware of:
 
+ * Chests are orientated the wrong way.
+  * This will be fixed in the next version of Mace.
+
  * Paintings are black.
   * This is a bug in Minecraft, but it has been fixed now. Just upgrade your version of Minecraft and everything will work correctly.
 
