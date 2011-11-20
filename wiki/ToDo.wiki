@@ -29,6 +29,9 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Collapsed sections
   * Braces
   * Ladders up/down
+ * Maps
+  * City / World
+  * Wanted posters, bakery lists, book covers...
 
 == Maybe ==
 
@@ -42,3 +45,5 @@ These things might be too ambitious or just not possible.
  * Better transition between the city and the natural terrain
  * Add a spike moat when the !MineCraft adventure update is released
  * Docks district
+ * Roads
+ * Warp file for the single-player-commands mod
