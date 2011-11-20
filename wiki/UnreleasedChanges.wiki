@@ -35,8 +35,3 @@ This page lists the features that are expected in v1.8:
  * Novv's trees are too close, need to fix
  * Spawn point code
  * Different types of logging, with saving
-
-== Maybe ==
-
- * Roads (need to figure out a way for roads to not look awful)
- * Warp file for the Single Player Commands mod, to instantly warp to each city
