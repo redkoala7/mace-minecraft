@@ -3,6 +3,14 @@
 
 This page lists the features that are expected in v1.8:
 
+== Planned ==
+
+ * Control shortcuts
+ * Check natural terrain isn't conflicting with Mace buildings
+ * Novv's trees are too close, need to fix
+ * Spawn point code
+ * Different types of logging, with saving
+
 == Done ==
 
  * Buildings are now divided into three themes. They are Medieval (most of the existing buildings), Desert (the existing sandstone buildings) and Novv's Medieval buildings (new to Mace!).
@@ -25,11 +33,3 @@ This page lists the features that are expected in v1.8:
  * Multiple cities
  * New interface
  * The cactus moat is a bit more random.
-
-== Planned ==
-
- * Control shortcuts
- * Check natural terrain isn't conflicting with Mace buildings
- * Novv's trees are too close, need to fix
- * Spawn point code
- * Different types of logging, with saving
