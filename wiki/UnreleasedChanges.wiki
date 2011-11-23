@@ -26,8 +26,6 @@ This page lists the features that are expected in v1.8:
  * New interface
  * The cactus moat is a bit more random.
 
-== In Progress ==
-
 == Planned ==
 
  * Control shortcuts
