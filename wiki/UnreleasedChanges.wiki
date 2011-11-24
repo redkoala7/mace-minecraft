@@ -10,6 +10,7 @@ This page lists the features that are expected in v1.8:
  * Novv's trees are too close, need to fix
  * Spawn point code
  * Different types of logging, with saving
+ * TabStops
 
 == Done ==
 
