@@ -5,9 +5,7 @@ This page lists the features that are expected in v1.8:
 
 == Planned ==
 
- * Control shortcuts
  * Different types of logging, with saving
- * !TabStops
  * Rewrite "done" list to be more readable
  * Testing
 
