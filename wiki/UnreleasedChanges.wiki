@@ -5,7 +5,6 @@ This page lists the features that are expected in v1.8:
 
 == Planned ==
 
- * Different types of logging, with saving
  * Rewrite "done" list to be more readable
  * Testing
 
@@ -33,3 +32,4 @@ This page lists the features that are expected in v1.8:
  * Multiple cities
  * New interface
  * The cactus moat is a bit more random.
+ * You can now view the normal log (same as before) or the verbose log (includes lots of details)
