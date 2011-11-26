@@ -20,10 +20,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Melon farms
  * Pumpkin farms
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
- * Buildings next to roads (farms, ruins, houses...)
- * Multiple cities
-   * Roads and rails to link them
-   * Sign posts for directions
  * Move more stuff to XML files
  * Mineshaft features
   * Collapsed sections
@@ -45,5 +41,7 @@ These things might be too ambitious or just not possible.
  * Better transition between the city and the natural terrain
  * Add a spike moat when the !MineCraft adventure update is released
  * Docks district
- * Roads
+ * Roads/rails
+ * Buildings next to roads (farms, ruins, houses...)
+ * Sign posts
  * Warp file for the single-player-commands mod
