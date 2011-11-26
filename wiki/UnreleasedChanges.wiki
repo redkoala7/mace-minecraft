@@ -5,31 +5,27 @@ This page lists the features that are expected in v1.8:
 
 == Planned ==
 
- * Rewrite "done" list to be more readable
  * Testing
 
 == Done ==
 
- * Buildings are now divided into three themes. They are Medieval (most of the existing buildings), Desert (the existing sandstone buildings) and Novv's Medieval buildings (new to Mace!).
- * Different city name files for each theme
- * The world will now appear at the top of your Minecraft world list.
- * Specified block types allow for a data value
+*Major updates:*
+ * Multiple cities! Mace now generates multiple cities in the same world. You can specify the amount of cities that you would like.
+ * City themes! The theme determines the buildings and the possible emblems, moats, flowers, paths, city names, tower additions, farms...
+ * New interface! The new interface is focussed on customising the world.
+
+*Miner updates:*
+ * Added five new emblems created by Ghostdancer. They are emblems of a creeper, a pickaxe, a sword, a tree and the crafters' guild.
+ * Added a sandstone creeper mine entrance by Ghostdancer.
+ * Generated worlds will now appear at the top of your Minecraft world list.
  * There's now two cactus moats - one at normal level and the original submerged one
- * Added five new emblems, created by Ghostdancer. They are emblems of a creeper, a pickaxe, a sword, the crafters' guild and a tree.
- * Added a sandstone creeper mine entrance, by Ghostdancer.
  * Added the progress percentage to the window title.
  * Lowered the fire and lava moats, to stop them setting fire to emblems
- * Each city theme can have a different ground block (e.g. sand in the desert city)
- * Redstone ore on the ground (layer 63) of the resource world will be turned into the city ground block.
- * Path block can now be specified for each city theme.
- * Gold ore on the ground (layer 63) of the resource world will be turned into the path block.
- * Flowers can be specified for each city theme (e.g. cacti and dead shrubs in the desert city)
  * You can decide to spawn inside/outside a random city, or away from the generated cities.
- * Cities without farms will now have flowers on the empty area outside
- * The doors on farms are now fence gates
- * Randomly selected combinations are now fire-proof
+ * Cities without farms will now have flowers on the empty area outside.
+ * The doors on farms are now fence gates.
  * The world type can be creative, survival or hardcore.
- * Multiple cities
- * New interface
  * The cactus moat is a bit more random.
  * You can now view the normal log (same as before) or the verbose log (includes lots of details)
+ * Redstone ore on the ground (layer 63) of the resource world will be turned into the city ground block.
+ * Gold ore on the ground (layer 63) of the resource world will be turned into the path block.
