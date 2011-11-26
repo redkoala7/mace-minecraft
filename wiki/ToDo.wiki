@@ -18,6 +18,7 @@ The focus for Mace 1.9 will be the content.
  * Add to FAQ: how to use with multiplayer servers
  * Farm terrain should be less flat
  * Make the code match a style guide
+ * Better defined layout to the farms
  * Improve the city entrance
  * Allowed farm types should be specified in the city themes
  * Move more constants to the city theme files
