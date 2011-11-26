@@ -3,12 +3,16 @@
 
 For changes that are done, but not released yet, please see the UnreleasedChanges page.
 
+The focus for Mace 1.9 will be the content.
+
 == Planned ==
 
- * Add a boathouse when there's a water moat
+ * Theme generator (I'll do this when I'm happy with the structure of the theme files)
  * More buildings
   * City hall (unique)
   * Buildings for the Desert City theme
+  * ...
+ * Add a boathouse when there's a water moat
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
  * Allow for farms to be orientated the other way
  * Add to FAQ: how to use with multiplayer servers
