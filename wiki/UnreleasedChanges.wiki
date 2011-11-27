@@ -1,30 +1,4 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-This page lists the features that are expected in v1.8:
-
-== Done ==
-
-*Major updates:*
- * Multiple cities! Mace now generates multiple cities in the same world. You can specify the amount of cities that you would like.
- * City themes! The theme determines the buildings and the possible emblems, moats, flowers, paths, city names, tower additions, farms and more. Mace currently has three themes:
-   * Medieval buildings - Most of the buildings from the previous version
-   * Novv's Medieval Buildings - Used with permission. Thanks Novv!
-   * Desert buildings - Just a small number at the moment.
- * New interface! The new interface is focussed on customising the world.
-
-*Miner updates:*
- * Added five new emblems created by Ghostdancer. They are emblems of a creeper, a pickaxe, a sword, a tree and the crafters' guild.
- * Added a sandstone creeper mine entrance by Ghostdancer.
- * Generated worlds will now appear at the top of your Minecraft world list.
- * There's now two cactus moats - one at normal level and the original submerged one.
- * Added the progress percentage to the window title.
- * Lowered the fire and lava moats, to stop them setting fire to emblems.
- * You can decide to spawn inside/outside a random city, or away from the generated cities.
- * Cities without farms will now have flowers on the empty area outside.
- * The doors on farms are now fence gates.
- * The world type can be creative, survival or hardcore.
- * The cactus moat is a bit more random.
- * You can now view the normal log (same as before) or the verbose log (includes lots of details).
- * Redstone ore on the ground (layer 63) of the resource world will be turned into the city ground block.
- * Gold ore on the ground (layer 63) of the resource world will be turned into the path block.
+1.8 has just been released, so there are no unreleased changes yet.
