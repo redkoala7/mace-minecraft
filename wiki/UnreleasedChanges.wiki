@@ -3,10 +3,6 @@
 
 This page lists the features that are expected in v1.8:
 
-== Planned ==
-
- * Testing
-
 == Done ==
 
 *Major updates:*
