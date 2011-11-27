@@ -9,4 +9,6 @@ Mace uses the [http://code.google.com/p/substrate-minecraft/ Substrate] SDK, whi
 
 Substrate uses the [http://dotnetzip.codeplex.com/ DotNetZip] library, which is released under the [http://dotnetzip.codeplex.com/license Microsoft Public License].
 
+Mace uses buildings created by coau14. He has licensed these under the [http://www.gnu.org/licenses/gpl.html GNU GPL V3].
+
 These are all open source licenses.
