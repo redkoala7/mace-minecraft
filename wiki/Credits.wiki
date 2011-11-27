@@ -9,6 +9,8 @@ Thank you to everyone that have suggested ideas and given bug reports. They are 
 
 Thank you for the buildings from Ghostdancer (mineshaft entrances) and coau14 (igloo, compact house) and !TheMegaMiner (castle).
 
+Thank you to Ghostdancer for contributing five of the city emblems.
+
 Thank you to simo_415 for the [http://www.minecraftforum.net/topic/94310-173-single-player-commands-v210-2/ Single Player Commands] mod and thank you to codewarrior for [http://www.minecraftforum.net/topic/13807-mcedit-minecraft-world-editor-compatible-with-mc-beta-173/ MCEdit]. These have been extremely useful for making the buildings.
 
 Thank you to Simon and Lewis, because a significant portion of Mace was written whilst listening to [http://yogscast.wikia.com/wiki/The_YoGPoD The YoGPoD].
