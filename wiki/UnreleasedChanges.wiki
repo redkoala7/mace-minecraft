@@ -8,7 +8,7 @@ This page lists the features that are expected in v1.8:
 *Major updates:*
  * Multiple cities! Mace now generates multiple cities in the same world. You can specify the amount of cities that you would like.
  * City themes! The theme determines the buildings and the possible emblems, moats, flowers, paths, city names, tower additions, farms...
-   * Mace currently has three themes: they are medieval buildings (most of the buildings from the previous version, Novv's Medieval Buildings (thanks Novv!) and finally there is the desert city theme (just a small number of buildings so far).
+   * Mace currently has three themes: they are medieval buildings (most of the buildings from the previous version), Novv's Medieval Buildings (thanks Novv!) and finally there is the desert city theme (just a small number of buildings so far).
  * New interface! The new interface is focussed on customising the world.
 
 *Miner updates:*
