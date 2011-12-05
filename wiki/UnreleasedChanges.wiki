@@ -1,4 +1,6 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-1.8 has just been released, so there are no unreleased changes yet.
+These changes are done and will be in Mace 1.9:
+
+ * Flag patterns are now stored in files in the resource folder.
