@@ -9,6 +9,7 @@ The focus for Mace 1.9 will be the content.
 
  * Need rotation code for new blocks (Block 62, Mushroom blocks, stone brick stairs, brick stairs, and lilly pads)
  * Export schematic (when making one city)
+ * Save log to file
  * Torches on the city walls will heat up ice blocks - need to fix this
  * Theme generator (I'll do this when I'm happy with the structure of the theme files)
  * More buildings
@@ -17,16 +18,11 @@ The focus for Mace 1.9 will be the content.
   * ...
  * Add a boathouse when there's a water moat
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
- * Allow for farms to be orientated the other way
  * Add to FAQ: how to use with multiplayer servers
- * Farm terrain should be less flat
  * Make the code match a style guide
  * Better defined layout to the farms
  * Improve the city entrance
- * Allowed farm types should be specified in the city themes
  * Move more constants to the city theme files
- * Melon farms
- * Pumpkin farms
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
  * Move more stuff to XML files
  * Mineshaft features
@@ -36,6 +32,14 @@ The focus for Mace 1.9 will be the content.
  * Maps
   * City / World
   * Wanted posters, bakery lists, book covers...
+ * Farms
+  * Allow for farms to be orientated the other way
+  * Farm terrain should be less flat
+  * Allowed farm types should be specified in the city themes
+  * Melon farms
+  * Pumpkin farms
+  * Torches on farms
+  * Improved farm layout
 
 == Maybe ==
 
