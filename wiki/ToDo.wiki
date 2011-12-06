@@ -20,7 +20,6 @@ The focus for Mace 1.9 will be the content.
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
  * Add to FAQ: how to use with multiplayer servers
  * Make the code match a style guide
- * Better defined layout to the farms
  * Improve the city entrance
  * Move more constants to the city theme files
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
