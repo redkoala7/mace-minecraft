@@ -32,14 +32,6 @@ The focus for Mace 1.9 will be the content.
  * Maps
   * City / World
   * Wanted posters, bakery lists, book covers...
- * Farms
-  * Allow for farms to be orientated the other way
-  * Farm terrain should be less flat
-  * Allowed farm types should be specified in the city themes
-  * Melon farms
-  * Pumpkin farms
-  * Torches on farms
-  * Improved farm layout
 
 == Maybe ==
 
