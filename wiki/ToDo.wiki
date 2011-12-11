@@ -19,6 +19,7 @@ The focus for Mace 1.9 will be the content.
   * ...
  * Add a boathouse when there's a water moat
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
+ * Animal farms
  * Optionally allow for specifying the city x/z co-ordinates
  * Add to FAQ: how to use with multiplayer servers
  * Make the code match a style guide
