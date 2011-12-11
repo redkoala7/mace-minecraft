@@ -15,6 +15,7 @@ The focus for Mace 1.9 will be the content.
  * More buildings
   * City hall (unique)
   * Buildings for the Desert City theme
+  * Potion shop and crafting place
   * ...
  * Add a boathouse when there's a water moat
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
