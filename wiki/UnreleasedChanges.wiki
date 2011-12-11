@@ -13,7 +13,7 @@ These changes are done and will be in Mace 1.9:
 
 *Other*
 
- * Used some of the new blocks: window panes, stone bricks, iron bars...
+ * Lots of the new blocks are being used: window panes, stone bricks, iron bars, melons, pumpkins...
  * New buildings: Large ruins (medieval theme)
  * Improved buildings: Prison
 
