@@ -16,9 +16,9 @@ These changes are done and will be in Mace 1.9:
  * Used some of the new blocks: window panes, stone bricks, iron bars...
  * New buildings: Large ruins (medieval theme)
  * Improved buildings: Prison
- * Flag patterns are now stored in files in the resource folder.
 
 *Code*
 
  * Updated to Substrate 1.0.0
- * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters
+ * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons.
+ * Flag patterns are now stored in files in the resource folder.
