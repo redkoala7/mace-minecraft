@@ -13,4 +13,6 @@ These changes are done and will be in Mace 1.9:
 
 *Other*
 
+ * Used some of the new blocks: window panes, stone bricks, iron bars...
+ * New buildings: Large ruins (medieval theme)
  * Flag patterns are now stored in files in the resource folder.
