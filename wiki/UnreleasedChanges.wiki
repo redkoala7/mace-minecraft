@@ -17,3 +17,4 @@ These changes are done and will be in Mace 1.9:
  * New buildings: Large ruins (medieval theme)
  * Improved buildings: Prison
  * Flag patterns are now stored in files in the resource folder.
+ * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates
