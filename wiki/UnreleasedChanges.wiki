@@ -20,5 +20,5 @@ These changes are done and will be in Mace 1.9:
 *Code*
 
  * Updated to Substrate 1.0.0
- * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons.
+ * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons, detector rails, powered rails.
  * Flag patterns are now stored in files in the resource folder.
