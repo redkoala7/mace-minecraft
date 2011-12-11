@@ -19,3 +19,6 @@ Here is a list of bugs affecting Mace 1.8 when used with Minecraft 1.0.0
 
  * Portal blocks are not rotated correctly 50% of the time.
   * Minecraft doesn't allow them to be rotated when they aren't part of a portal. So unfortunately nothing can be done about this.
+
+ * Lily pads don't rotate.
+  * Minecraft determines the lily pad direction by location - it can't be changed. See the [http://www.minecraftwiki.net/wiki/Lily_Pad lily pad wiki page] for details.
