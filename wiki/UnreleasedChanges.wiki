@@ -13,8 +13,9 @@ These changes are done and will be in Mace 1.9:
 
 *Other*
 
- * New buildings: Large ruins (medieval theme), Shop (desert theme), Large house (desert theme).
+ * New buildings: Large ruins (medieval theme), Shop (desert theme), three houses (desert theme), compound (desert theme)
  * Lots of the new blocks are being used: window panes, stone bricks, iron bars, melons, pumpkins...
+ * Small improvements to a few existing buildings
 
 *Code*
 
