@@ -21,6 +21,7 @@ The focus for Mace 1.9 will be the content.
  * Optionally allow for specifying the city x/z co-ordinates
  * Add to FAQ: how to use with multiplayer servers
  * Make the code match a style guide
+ * Better paths (benches, flowers)
  * Improve the city entrance
  * Move more constants to the city theme files
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
