@@ -22,3 +22,14 @@ These changes are done and will be in Mace 1.9:
  * Updated to Substrate 1.0.0
  * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons, detector rails, powered rails, vines, huge mushrooms.
  * Flag patterns are now stored in files in the resource folder.
+
+.
+
+This is a list of items that I would like to include in 1.9:
+
+ * Export schematic (when making one city)
+ * Save log to file
+ * Torches on the city walls will heat up ice blocks - need to fix this
+ * Animal farms
+ * More desert buildings
+ * Move more constants to the city theme files
