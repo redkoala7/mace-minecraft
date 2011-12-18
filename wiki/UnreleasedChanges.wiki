@@ -19,8 +19,8 @@ These changes are done and will be in Mace 1.9:
 
 *Options*
 
- * Added an option to export schematics of each city.
- * Added buttons to save the logs to a file. The logs are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
+ * Added an option to export schematics of each city. These are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
+ * Added buttons to save the logs to a file. These are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
 
 *Code*
 
