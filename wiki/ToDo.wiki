@@ -7,7 +7,6 @@ The focus for Mace 1.9 will be the content.
 
 == Planned ==
 
- * Export schematic (when making one city)
  * Save log to file
  * Torches on the city walls will heat up ice blocks - need to fix this
  * Theme generator (I'll do this when I'm happy with the structure of the theme files)
