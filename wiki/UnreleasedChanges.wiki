@@ -4,7 +4,6 @@
 These changes are done and will be in Mace 1.9:
 
 *Farms*
-
  * Farms are now on one side of the city.
  * Removed the code-generated farms.
  * Added farm buildings: melon farms, pumpkin farms, wheat farms (large & small), cactus farms (large & small), orchards (oak, birch, spruce), sugar cane farms, animal farms.
@@ -12,19 +11,16 @@ These changes are done and will be in Mace 1.9:
  * Farms now have torches.
 
 *Buildings*
-
  * New buildings: Large ruins (medieval theme), Shop (desert theme), three houses (desert theme), compound (desert theme).
  * Lots of the new blocks are being used: window panes, stone bricks, iron bars, melons, pumpkins, slabs...
  * Small improvements to a few existing buildings.
 
 *Options*
-
  * Added an option to export schematics of each city. These are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
  * Added buttons to save the logs to a file. These are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
  * Added an option to the theme files: "torches_on_walkways". When switched on, this will make the torches on the walkways and guard towers.  It's switched on for all themes, but can be switched off if you'd like ice walls. If you are making ice walls, remember to turn off all the other options that make fire/torches.
 
 *Code*
-
  * Updated to Substrate 1.0.1.
  * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons, detector rails, powered rails, vines, huge mushrooms.
  * Flag patterns are now stored in files in the resource folder.
