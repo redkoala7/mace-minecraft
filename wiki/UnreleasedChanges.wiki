@@ -21,7 +21,7 @@ These changes are done and will be in Mace 1.9:
  * Added an option to the theme files: "torches_on_walkways". When switched on, this will make the torches on the walkways and guard towers.  It's switched on for all themes, but can be switched off if you'd like ice walls. If you are making ice walls, remember to turn off all the other options that make fire/torches.
 
 *Other*
-The ground underneath desert cities will now contain more sand and sandstone.
+ * The ground underneath desert cities will now contain more sand and sandstone.
 
 *Code*
  * Updated to Substrate 1.0.1.
