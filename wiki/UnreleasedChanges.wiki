@@ -7,19 +7,20 @@ These changes are done and will be in Mace 1.9:
 
  * Farms are now on one side of the city.
  * Removed the code-generated farms.
- * Added farm buildings: melon farms, pumpkin farms, wheat farms (large & small), cactus farms (large & small), orchards (oak, birch, spruce), sugar cane farms.
+ * Added farm buildings: melon farms, pumpkin farms, wheat farms (large & small), cactus farms (large & small), orchards (oak, birch, spruce), sugar cane farms, animal farms.
  * Improved the top of the mushroom farms.
  * Farms now have torches.
 
 *Other*
 
- * New buildings: Large ruins (medieval theme), Shop (desert theme), three houses (desert theme), compound (desert theme)
+ * New buildings: Large ruins (medieval theme), Shop (desert theme), three houses (desert theme), compound (desert theme).
  * Lots of the new blocks are being used: window panes, stone bricks, iron bars, melons, pumpkins, slabs...
- * Small improvements to a few existing buildings
+ * Small improvements to a few existing buildings.
+ * Added an option to export schematics of each city.
 
 *Code*
 
- * Updated to Substrate 1.0.0
+ * Updated to Substrate 1.0.0.
  * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons, detector rails, powered rails, vines, huge mushrooms.
  * Flag patterns are now stored in files in the resource folder.
 
@@ -27,9 +28,7 @@ These changes are done and will be in Mace 1.9:
 
 This is a list of items that I would like to include in 1.9:
 
- * Export schematic (when making one city)
  * Save log to file
  * Torches on the city walls will heat up ice blocks - need to fix this
- * Animal farms
  * More desert buildings
  * Move more constants to the city theme files
