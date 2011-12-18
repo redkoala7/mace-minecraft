@@ -17,6 +17,7 @@ These changes are done and will be in Mace 1.9:
  * Lots of the new blocks are being used: window panes, stone bricks, iron bars, melons, pumpkins, slabs...
  * Small improvements to a few existing buildings.
  * Added an option to export schematics of each city.
+ * Added buttons to save the logs to a file. The logs are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
 
 *Code*
 
@@ -28,7 +29,6 @@ These changes are done and will be in Mace 1.9:
 
 This is a list of items that I would like to include in 1.9:
 
- * Save log to file
  * Torches on the city walls will heat up ice blocks - need to fix this
  * More desert buildings
  * Move more constants to the city theme files
