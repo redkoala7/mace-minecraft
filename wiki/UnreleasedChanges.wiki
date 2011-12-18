@@ -11,11 +11,14 @@ These changes are done and will be in Mace 1.9:
  * Improved the top of the mushroom farms.
  * Farms now have torches.
 
-*Other*
+*Buildings*
 
  * New buildings: Large ruins (medieval theme), Shop (desert theme), three houses (desert theme), compound (desert theme).
  * Lots of the new blocks are being used: window panes, stone bricks, iron bars, melons, pumpkins, slabs...
  * Small improvements to a few existing buildings.
+
+*Options*
+
  * Added an option to export schematics of each city.
  * Added buttons to save the logs to a file. The logs are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
 
