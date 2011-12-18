@@ -20,7 +20,11 @@ These changes are done and will be in Mace 1.9:
  * Added buttons to save the logs to a file. These are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
  * Added an option to the theme files: "torches_on_walkways". When switched on, this will make the torches on the walkways and guard towers.  It's switched on for all themes, but can be switched off if you'd like ice walls. If you are making ice walls, remember to turn off all the other options that make fire/torches.
 
+*Other*
+The ground underneath desert cities will now contain more sand and sandstone.
+
 *Code*
  * Updated to Substrate 1.0.1.
  * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons, detector rails, powered rails, vines, huge mushrooms.
  * Flag patterns are now stored in files in the resource folder.
+ * Blocks that make up the underground are now specified in the theme files.
