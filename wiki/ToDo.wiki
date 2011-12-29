@@ -10,8 +10,8 @@ The focus for Mace 1.9 will be the content.
  * Theme generator (I'll do this when I'm happy with the structure of the theme files)
  * More buildings
   * City hall (unique)
-  * Potion shop and brewing place
   * ...
+ * Improve the existing buildings (less square!)
  * Add a boathouse when there's a water moat
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
  * Optionally allow for specifying the city x/z co-ordinates
