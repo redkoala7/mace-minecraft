@@ -11,7 +11,7 @@ These changes are done and will be in Mace 1.9:
  * Farms now have torches.
 
 *Buildings*
- * New buildings: Large ruins (medieval theme), Shop (desert theme), three houses (desert theme), compound (desert theme), gallows (medieval theme, unique), large market (medieval theme, unique).
+ * New buildings: Large ruins (medieval theme), Shop (desert theme), three houses (desert theme), compound (desert theme), gallows (medieval theme, unique), large market (medieval theme, unique), alchemist (medieval theme).
  * Lots of the new blocks are being used: window panes, stone bricks, iron bars, melons, pumpkins, slabs, fence gates...
  * Small improvements to a few existing buildings.
 
