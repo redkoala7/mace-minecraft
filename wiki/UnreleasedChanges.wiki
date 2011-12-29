@@ -6,7 +6,7 @@ These changes are done and will be in Mace 1.9:
 *Farms*
  * Farms are now on one side of the city.
  * Removed the code-generated farms.
- * Added farm buildings: melon farms, pumpkin farms, wheat farms (large & small), cactus farms (large & small), orchards (oak, birch, spruce), sugar cane farms, animal farms.
+ * Added farm buildings: melon farms, pumpkin farms, wheat farms (large & small), cactus farms (large & small), orchards (oak, birch, spruce), sugar cane farms, animal farms, large mushroom farms.
  * Improved the top of the mushroom farms.
  * Farms now have torches.
 
