@@ -27,6 +27,7 @@ These changes are done and will be in Mace 1.9:
  * Updated to Substrate 1.0.1.
  * Moved the city entrance to the resource world. This will make it easier to modify and to have different city entrances.
  * Changed the Minecraft folder location for Macs, so hopefully the Mace code will run on a Mac now. As usual I have no way of testing this, so fingers crossed.
+ * The building type tags (<mineshaft_section>, etc) in the theme files have all been combined into the <type> tag.
  * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons, detector rails, powered rails, vines, huge mushrooms.
  * Flag patterns are now stored in files in the resource folder.
  * Blocks that make up the underground are now specified in the theme files.
