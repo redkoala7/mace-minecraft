@@ -24,7 +24,7 @@ The focus for Mace 1.9 will be the content.
  * Maps
   * City / World
   * Wanted posters, bakery lists, book covers...
- * Added knights to the guard towers
+ * Add knights to the guard towers
 
 == Maybe ==
 
