@@ -8,9 +8,8 @@ The focus for Mace 1.9 will be the content.
 == Planned ==
 
  * Theme generator (I'll do this when I'm happy with the structure of the theme files)
- * More buildings (City hall, etc)
+ * More buildings (City hall, Graveyard, etc)
  * Improve the existing buildings (less square!)
- * Add a boathouse when there's a water moat
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
  * Optionally allow for specifying the city x/z co-ordinates
  * Add to FAQ: how to use with multiplayer servers
@@ -25,6 +24,7 @@ The focus for Mace 1.9 will be the content.
  * Maps
   * City / World
   * Wanted posters, bakery lists, book covers...
+ * Added knights to the guard towers
 
 == Maybe ==
 
@@ -36,9 +36,9 @@ The focus for Mace 1.9 will be the content.
 These things might be too ambitious or just not possible.
 
  * Better transition between the city and the natural terrain
- * Add a spike moat when the !MineCraft adventure update is released
  * Docks district
  * Roads/rails
- * Buildings next to roads (farms, ruins, houses...)
- * Sign posts
+   * Buildings next to roads (farms, ruins, houses...)
+   * Sign posts
  * Warp file for the single-player-commands mod
+ * Add a boathouse when there's a water moat
