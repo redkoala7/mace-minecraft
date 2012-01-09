@@ -31,6 +31,8 @@ These changes are done and will be in Mace 1.9:
  * The ground underneath desert cities will now contain more sand and sandstone.
  * Added random splash text, just like Minecraft!
  * Removed/added lots of the random text that makes up city/road names.
+ * Added a new path type: raised edges.
+ * Added more path block types.
 
 *Code*
  * Updated to Substrate 1.0.2.
