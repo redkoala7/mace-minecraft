@@ -13,7 +13,6 @@ The focus for Mace 1.9 will be the content.
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
  * Optionally allow for specifying the city x/z co-ordinates
  * Add to FAQ: how to use with multiplayer servers
- * Better paths (benches, flowers)
  * Move more constants to the city theme files
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
  * Mineshaft features
