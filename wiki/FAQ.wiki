@@ -70,7 +70,10 @@
 
 *I feel imbalanced with all this construction. Is there any way to bring some destruction to the city?*
 	Yes! Have a look at Commander Keen's tool, called [http://www.minecraftforum.net/topic/269176-teeth-of-time-ruin-your-world-v03-brawler/ Teeth of Time].
-		
+	
+*Can I use Mace with Tales of Kingdoms?*
+	Yes! Please look at [http://www.minecraftforum.net/topic/357201-mace-v19-random-cities-generator/page__view__findpost__p__11977877 Ghostdancer's guide].
+	
 == Problems ==
 
 *Are there any known issues with Mace?*
