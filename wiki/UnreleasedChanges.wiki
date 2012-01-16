@@ -20,7 +20,7 @@ These changes are done and will be in Mace 1.9:
  * Added Ghostdancer's NPCs to the new buildings.
  * NPCs will now be placed directly into the world, rather than appearing via spawners.
  * Added a new NPCs option: Minecraft Villagers. This will place the various Minecraft villagers into appropriate places in your cities. This is the default option.
- * There's currently no NPCs placed into Novv's Medieval Buildings, but I'll add them in the next update.
+ * There's currently no NPCs placed into Novv's Medieval Buildings, but I'll add them in a future update.
 
 *Options*
  * Added an option to export schematics of each city. These are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
@@ -35,7 +35,7 @@ These changes are done and will be in Mace 1.9:
  * Added more path block types.
 
 *Code*
- * Updated to Substrate 1.0.2.
+ * Updated to Substrate 1.0.3.
  * Moved the city entrance to the resource world. This will make it easier to modify and to have different city entrances.
  * Changed the Minecraft folder location for Macs, so hopefully the Mace code will run on a Mac now. As usual I have no way of testing this, so fingers crossed.
  * The building type tags (mineshaft_section, etc) in the theme files have all been combined into the type tag.
