@@ -1,45 +1,9 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-These changes are done and will be in Mace 1.9:
+Planned changes for v1.10:
 
-*Farms*
- * Farms are now on one side of the city.
- * Removed the code-generated farms.
- * Added farm buildings: melon farms, pumpkin farms, wheat farms (large & small), cactus farms (large & small), orchards (oak, birch, spruce), sugar cane farms, animal farms, large mushroom farms.
- * Improved the top of the mushroom farms.
- * Farms now have torches.
-
-*Buildings*
- * New buildings: Large ruins (medieval theme), Shop (desert theme), three houses (desert theme), compound (desert theme), gallows (medieval theme, unique), large market (medieval theme, unique), alchemist (medieval theme).
- * Lots of the new blocks are being used: window panes, stone bricks, iron bars, melons, pumpkins, slabs, fence gates...
- * Small improvements to a few existing buildings.
- * Added a different sky feature. Mace will randomly select one sky feature per medieval city.
-
-*NPCs*
- * Added Ghostdancer's NPCs to the new buildings.
- * NPCs will now be placed directly into the world, rather than appearing via spawners.
- * Added a new NPCs option: Minecraft Villagers. This will place the various Minecraft villagers into appropriate places in your cities. This is the default option.
- * There's currently no NPCs placed into Novv's Medieval Buildings, but I'll add them in a future update.
-
-*Options*
- * Added an option to export schematics of each city. These are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
- * Added buttons to save the logs to a file. These are saved in the world directory. I don't want to make it more complicated than that, because it would make compatibility with Linux/OSX harder.
- * Added an option to the theme files: "torches_on_walkways". When switched on, this will make the torches on the walkways and guard towers.  It's switched on for all themes, but can be switched off if you'd like ice walls. If you are making ice walls, remember to turn off all the other options that make fire/torches.
-
-*Other*
- * The ground underneath desert cities will now contain more sand and sandstone.
- * Added random splash text, just like Minecraft!
- * Removed/added lots of the random text that makes up city/road names.
- * Added a new path type: raised edges.
- * Added more path block types.
-
-*Code*
- * Updated to Substrate 1.0.3.
- * Moved the city entrance to the resource world. This will make it easier to modify and to have different city entrances.
- * Changed the Minecraft folder location for Macs, so hopefully the Mace code will run on a Mac now. As usual I have no way of testing this, so fingers crossed.
- * The building type tags (mineshaft_section, etc) in the theme files have all been combined into the type tag.
- * Added rotation code for: brick stairs, nether brick stairs, stone brick stairs, fence gates, burning furnaces, open trapdoors, redstone repeaters, levers, pistons, detector rails, powered rails, vines, huge mushrooms.
- * Flag patterns are now stored in files in the resource folder.
- * Blocks that make up the underground are now specified in the theme files.
- * Each theme can now have multiple possible sky features. Mace will select a random one for each city.
+  * Update screenshots of Mace.
+  * Move buildings to more logical places in the resource world.
+  * Make sure I'm happy with the XML file structure/identifiers.
+  * Write a theme generator.
