@@ -15,6 +15,8 @@ The focus for Mace 1.9 will be the content.
  * Add to FAQ: how to use with multiplayer servers
  * Move more constants to the city theme files
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
+ * Put a large mushroom on the mushroom farm
+ * Move the guardtowers to the resource world
  * Mineshaft features
   * Collapsed sections
   * Braces
@@ -41,3 +43,4 @@ These things might be too ambitious or just not possible.
    * Sign posts
  * Warp file for the single-player-commands mod
  * Add a boathouse when there's a water moat
+ * Move the walls to the resource world
