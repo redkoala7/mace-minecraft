@@ -7,3 +7,7 @@ Planned changes for v1.10:
   * Move buildings to more logical places in the resource world.
   * Make sure I'm happy with the XML file structure/identifiers.
   * Write a theme generator.
+
+Changes that are done:
+  * Put a real mushroom on top of the mushroom farm. Thanks to coau14 for this suggestion.
+  * Moved a few buildings into the correct column in the resource world.
