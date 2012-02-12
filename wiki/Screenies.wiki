@@ -23,3 +23,9 @@ Here's a screenshot from each version, with the most important addition listed:
 
 [http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-code-v1_6_0.zip&can=2&q= V1.6] - Chance of cobwebs increased by 2%!
 [http://iceyboard.no-ip.org/images/mace/v1_6.jpg http://iceyboard.no-ip.org/images/mace/v1_6_thumb.jpg]
+
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-code-v1_7_0.zip&can=2&q= V1.7] - Changed the apartment frequency from rare to very rare! [http://iceyboard.no-ip.org/images/mace/v1_7.jpg http://iceyboard.no-ip.org/images/mace/v1_7_thumb.jpg]
+
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-code-v1_8_0.zip&can=2&q= V1.8] - Changed doors on farms to be fence doors! [http://iceyboard.no-ip.org/images/mace/v1_8.jpg http://iceyboard.no-ip.org/images/mace/v1_8_thumb.jpg]
+
+[http://code.google.com/p/mace-minecraft/downloads/detail?name=mace-code-v1_9_0.zip&can=2&q= V1.9] - Now with significantly more snow! [http://iceyboard.no-ip.org/images/mace/v1_9.jpg http://iceyboard.no-ip.org/images/mace/v1_9_thumb.jpg]
