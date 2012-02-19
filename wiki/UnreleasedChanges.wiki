@@ -1,13 +1,18 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-Planned changes for v1.10:
+I am currently writing v1.10. The main focus of this update will be the Theme Generator.
 
-  * Update screenshots of Mace.
-  * Move buildings to more logical places in the resource world.
+=== To Do ===
+
+  * Add a fence around the bedrock moat.
+
+=== In Progress ===
+
   * Make sure I'm happy with the XML file structure/identifiers.
   * Write a theme generator.
 
-Changes that are done:
+=== Done ===
   * Put a real mushroom on top of the mushroom farm. Thanks to coau14 for this suggestion.
-  * Moved a few buildings into the correct column in the resource world.
+  * Update screenshots of Mace.
+  * Move buildings to more logical places in the resource world.
