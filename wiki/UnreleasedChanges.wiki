@@ -16,3 +16,4 @@ I am currently writing v1.10. The main focus of this update will be the Theme Ge
   * Put a real mushroom on top of the mushroom farm. Thanks to coau14 for this suggestion.
   * Updated screenshots of Mace.
   * Moved buildings to more logical places in the resource world.
+  * Added some more combinations to the desert city names.
