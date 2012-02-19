@@ -14,5 +14,5 @@ I am currently writing v1.10. The main focus of this update will be the Theme Ge
 
 === Done ===
   * Put a real mushroom on top of the mushroom farm. Thanks to coau14 for this suggestion.
-  * Update screenshots of Mace.
-  * Move buildings to more logical places in the resource world.
+  * Updated screenshots of Mace.
+  * Moved buildings to more logical places in the resource world.
