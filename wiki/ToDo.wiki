@@ -5,7 +5,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
 
 == Planned ==
 
- * Theme generator (I'll do this when I'm happy with the structure of the theme files)
  * More buildings (City hall, Graveyard, etc)
  * Improve the existing buildings (less square!)
  * Add an option to generate empty plots for a multiplayer server (make this a theme?)
@@ -13,7 +12,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Add to FAQ: how to use with multiplayer servers
  * Move more constants to the city theme files
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
- * Move the guardtowers to the resource world
+ * Move the guard tower to the resource world
  * Mineshaft features
   * Collapsed sections
   * Braces
@@ -23,6 +22,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * City / World
   * Wanted posters, bakery lists, book covers...
  * Add knights to the guard towers
+ * Add villagers to the paths
 
 == Maybe ==
 
