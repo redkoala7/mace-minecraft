@@ -13,8 +13,8 @@ I am currently writing v1.10. The main focus of this update will be the Theme Ge
 
   * Make sure I'm happy with the XML file structure/identifiers.
   * Write a theme generator.
-     * Interface: 80% done
-     * Validating user selections: 80% done
+     * Interface: 90% done
+     * Validating user selections: 90% done
      * Writing theme file: 0% done
      * Testing: 0% done
 
