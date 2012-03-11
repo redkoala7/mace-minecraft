@@ -15,6 +15,7 @@ I am currently writing v1.10. The main focus of this update will be the Theme Ge
   * Write a theme generator.
      * Interface: 100% done
      * Validating user selections: 90% done
+        * Check building frequencies
      * Writing theme file: 100% done
      * Testing: 0% done
 
