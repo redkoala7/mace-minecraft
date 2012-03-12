@@ -60,7 +60,7 @@
 	This is currently not possible and I don't have any immediate plans to do this. However, it is possible to move a generated city into an existing world using a tool like [http://www.minecraftforum.net/topic/13807-mcedit-minecraft-world-editor-compatible-with-mc-beta-166/ McEdit].
 
 *Can I use a Mace world on my !MineCraft server?*
-	Yes, this is possible. I haven't tried this myself, but several people have reported doing this successfully.
+	Yes, this is possible. Smash_Cuber has created a video guide, called [http://www.youtube.com/watch?v=NZGxl-6RtkU How to use Mace in SMP].
 
 *Can Mace overwrite any of my existing worlds?*
 	No, so don't worry! Mace will keep generating random city names until it finds an unused one.
