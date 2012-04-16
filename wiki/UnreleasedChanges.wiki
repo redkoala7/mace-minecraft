@@ -5,7 +5,6 @@ I am currently writing v1.10. The main focus of this update will be the Theme Ge
 
 === To Do ===
 
-  * Add a fence around the bedrock moat.
   * Need some way to control the amount of valuable resources.
   * Need some way to limit the amount of mineshaft levels.
 
@@ -19,6 +18,7 @@ I am currently writing v1.10. The main focus of this update will be the Theme Ge
      * Testing: 0% done
 
 === Done ===
+  * Add a fence around the bedrock moat.
   * Put a real mushroom on top of the mushroom farm. Thanks to coau14 for this suggestion.
   * Updated screenshots of Mace.
   * Moved buildings to more logical places in the resource world.
