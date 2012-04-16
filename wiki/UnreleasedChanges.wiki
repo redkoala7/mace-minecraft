@@ -5,18 +5,16 @@ I am currently writing v1.10. The main focus of this update will be the Theme Ge
 
 === To Do ===
 
-  * Need some way to control the amount of valuable resources.
-
 === In Progress ===
 
   * Make sure I'm happy with the XML file structure/identifiers.
-  * Write a theme generator.
-     * Interface: 100% done
-     * Validating user selections: 100% done
-     * Writing theme file: 100% done
-     * Testing: 0% done
+  * Theme generator: testing
 
 === Done ===
+  * Theme generator: interface
+  * Theme generator: validation
+  * Theme generator: writing theme file
+  * The amount of underground ores generated can now be controlled from the main window.
   * Add a fence around the bedrock moat.
   * Put a real mushroom on top of the mushroom farm. Thanks to coau14 for this suggestion.
   * Updated screenshots of Mace.
