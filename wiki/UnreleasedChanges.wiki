@@ -1,26 +1,4 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-I am currently writing v1.10. The main focus of this update will be the Theme Generator.
-
-=== To Do ===
-
-  * Nothing!
-
-=== In Progress ===
-
-  * Make sure I'm happy with the XML file structure/identifiers.
-  * Theme generator: testing
-
-=== Done ===
-  * Theme generator: interface
-  * Theme generator: validation
-  * Theme generator: writing theme file
-  * The amount of underground ores generated can now be controlled from the main window.
-  * Add a fence around the bedrock moat.
-  * Put a real mushroom on top of the mushroom farm. Thanks to coau14 for this suggestion.
-  * Updated screenshots of Mace.
-  * Moved buildings to more logical places in the resource world.
-  * Added some more combinations to the desert city names.
-  * Added some more combinations to the world names.
-  * You can now control which levels of the mineshaft will appear. Edit the end of the mineshaft.xml file to do this.
+Nothing yet!
