@@ -3,7 +3,7 @@
 
 For changes that are done, but not released yet, please see the UnreleasedChanges page.
 
-== Specific ==
+== Planned ==
 
  * Empty plots
   * These would only be selectable when creating a custom theme
