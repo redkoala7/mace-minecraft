@@ -16,6 +16,10 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Add villagers to the paths
  * Anvil support
   * This can be done when Substrate works with the Anvil map format
+  * Check double doors
+  * Check NPCs
+  * Check upside-down stairs
+  * Check chest rotations
 
 == Vague ==
 
