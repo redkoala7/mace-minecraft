@@ -20,10 +20,8 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Check NPCs
   * Check upside-down stairs
   * Check chest rotations
-
-== Vague ==
-
  * More buildings
+   * coau14's buildings
    * City hall
    * Graveyard
  * More city entrances
