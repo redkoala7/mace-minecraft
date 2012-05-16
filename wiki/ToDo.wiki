@@ -21,7 +21,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Check NPCs
   * Check upside-down stairs
   * Check chest rotations
- * Time warning when generated more than five/ten cities
+ * Time warning when generating more than five/ten cities
  * NPC xml file
  * More buildings
    * coau14's buildings
