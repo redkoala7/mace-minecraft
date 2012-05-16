@@ -30,6 +30,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
    * Nether portal
  * More city entrances
  * Improvements to existing buildings
+ * Reduce the value of treasure found in random chests
  * Move more constants to the theme files
 
 == Maybe ==
