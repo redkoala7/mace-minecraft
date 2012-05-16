@@ -12,6 +12,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Fix the progress bar
  * Mineshaft features
   * Collapsed sections
+  * Traps (fire dispenser, etc)
  * Add knights to the guard towers
  * Add villagers to the paths
  * Anvil support
@@ -20,10 +21,13 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Check NPCs
   * Check upside-down stairs
   * Check chest rotations
+ * Time warning when generated more than five/ten cities
  * More buildings
    * coau14's buildings
    * City hall
    * Graveyard
+   * Airship dock
+   * Nether portal
  * More city entrances
  * Improvements to existing buildings
  * Move more constants to the theme files
