@@ -3,41 +3,35 @@
 
 For changes that are done, but not released yet, please see the UnreleasedChanges page.
 
-== Planned ==
+== Specific ==
 
- * More buildings (City hall, Graveyard, etc)
- * Improve the existing buildings (less square!)
- * Add an option to generate empty plots for a multiplayer server (make this a theme?)
- * Optionally allow for specifying the city x/z co-ordinates
- * Add to FAQ: how to use with multiplayer servers
- * Move more constants to the city theme files
- * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
- * Move the guard tower to the resource world
+ * Empty plots
+  * These would only be selectable when creating a custom theme
+  * These are useful for multiplayer
+  * These are useful for people who want to build straight away
+ * Fix the progress bar
  * Mineshaft features
   * Collapsed sections
-  * Braces
-  * Ladders up/down
-  * Larger mineshaft sections
- * Maps
-  * City / World
-  * Wanted posters, bakery lists, book covers...
  * Add knights to the guard towers
  * Add villagers to the paths
+ * Anvil support
+  * This can be done when Substrate works with the Anvil map format
+
+== Vague ==
+
+ * More buildings
+   * City hall
+   * Graveyard
+ * More city entrances
+ * Improvements to existing buildings
+ * Move more constants to the theme files
 
 == Maybe ==
 
- * Venice mode
- * Create a rail system inside the city walls
-
-== Possible ==
-
-These things might be too ambitious or just not possible.
-
- * Better transition between the city and the natural terrain
- * Docks district
- * Roads/rails
-   * Buildings next to roads (farms, ruins, houses...)
-   * Sign posts
- * Warp file for the single-player-commands mod
- * Add a boathouse when there's a water moat
- * Move the walls to the resource world
+ * Allow for specifying the city co-ordinates
+  * Why is this useful?
+ * Move the guard tower to the resource world
+ * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
+ * Maps
+  * City / World
+  * Wanted posters, bakery lists, book covers...
