@@ -12,6 +12,8 @@ In Progress
 
 Planned
 
+ * Door rotation code
+ * Other rotation code
  * Handle dispensers
  * Investigate better distribution of building frequencies
  * Replace SplitContainer with a different control
