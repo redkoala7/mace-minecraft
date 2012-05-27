@@ -1,5 +1,14 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
+Done
+
  * Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
  * Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
+
+Planned
+
+ * Handle dispensers
+ * Investigate better distribution of building frequencies
+ * Replace SplitContainer with a different control
+ * Check buggy spawning of NPCs in Anvil
