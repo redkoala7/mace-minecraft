@@ -1,4 +1,4 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-Nothing yet!
+ * Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
