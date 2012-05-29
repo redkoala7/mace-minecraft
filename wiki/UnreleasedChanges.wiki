@@ -13,8 +13,11 @@ In Progress
 Planned
 
  * Door rotation code
+ * Copy over items in furnaces and brewing stands
+ * Option to eliminate the main streets
  * Other rotation code
  * Handle dispensers
  * Investigate better distribution of building frequencies
  * Replace SplitContainer with a different control
  * Check buggy spawning of NPCs in Anvil
+ * New city entrance - pistons?
