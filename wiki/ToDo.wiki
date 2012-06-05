@@ -3,6 +3,8 @@
 
 For changes that are done, but not released yet, please see the UnreleasedChanges page.
 
+== Possible Features ==
+
  * Empty plots
   * These would only be selectable when creating a custom theme
   * These are useful for multiplayer
@@ -31,9 +33,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Improvements to existing buildings
  * Reduce the value of treasure found in random chests
  * Move more constants to the theme files
-
-== Maybe ==
-
  * Allow for specifying the city co-ordinates
   * Why is this useful?
  * Move the guard tower to the resource world
