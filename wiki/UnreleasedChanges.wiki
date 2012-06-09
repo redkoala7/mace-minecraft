@@ -10,11 +10,11 @@ Done
  * Double doors are no longer broken.
  * Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
  * Items in brewing stands in the resource world are now copied to the output world. (Items in furnaces were already being copied over.)
+ * Inverted stairs in the resource world are correctly handled when imported.
 
 Planned
 
  * Option to eliminate the main streets
- * Other rotation code
  * Handle dispensers
  * Investigate better distribution of building frequencies
  * Replace SplitContainer with a different control
