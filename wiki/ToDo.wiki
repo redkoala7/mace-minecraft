@@ -10,7 +10,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Fix the progress bar
  * Mineshaft features
   * Collapsed sections
-  * Traps (fire dispenser, etc)
  * Add knights to the guard towers
  * Add villagers to the paths
  * Anvil support
