@@ -8,10 +8,11 @@ Done
  * Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
  * Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
  * Double doors are no longer broken.
+ * Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
+ * Items in brewing stands in the resource world are now copied to the output world. (Items in furnaces were already being copied over.)
 
 Planned
 
- * Copy over items in furnaces and brewing stands
  * Option to eliminate the main streets
  * Other rotation code
  * Handle dispensers
