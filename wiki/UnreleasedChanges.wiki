@@ -3,16 +3,14 @@
 
 Done
 
+ * Output worlds are in Anvil format.
+ * The resource world has been converted to Anvil format.
  * Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
  * Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
-
-In Progress
-
- * Upgrading to Anvil
+ * Double doors are no longer broken.
 
 Planned
 
- * Door rotation code
  * Copy over items in furnaces and brewing stands
  * Option to eliminate the main streets
  * Other rotation code
