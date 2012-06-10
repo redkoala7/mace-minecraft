@@ -16,10 +16,10 @@ Done
  * Custom themes can now have empty plots. These are useful if you want to start building straight away.
  * Added two more city entrances.
  * Reduced the value of treasure found in houses.
+ * The main streets can now be turned off in the theme generator. Themes generated in v1.10 will assume that main streets are wanted.
 
 Planned
 
- * Option to eliminate the main streets
  * Investigate better distribution of building frequencies
  * Replace SplitContainer with a different control
  * Check buggy spawning of NPCs in Anvil
