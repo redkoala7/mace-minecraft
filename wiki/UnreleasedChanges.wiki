@@ -14,6 +14,7 @@ Done
  * Added a trap to the mineshaft.
  * Custom themes can now have empty plots. These are useful if you want to start building straight away.
  * Added two more city entrances.
+ * Reduced the value of treasure found in houses.
 
 Planned
 
@@ -21,4 +22,3 @@ Planned
  * Investigate better distribution of building frequencies
  * Replace SplitContainer with a different control
  * Check buggy spawning of NPCs in Anvil
- * New city entrance - pistons?
