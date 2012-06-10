@@ -3,10 +3,11 @@
 
 Done
 
- * Output worlds are in Anvil format.
- * The resource world has been converted to Anvil format.
  * Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
  * Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
+ * Fixed a bug when using the desert adjectives/nouns in custom themes. Thank you to Mitchell_R for letting me know about this.
+ * Output worlds are in Anvil format.
+ * The resource world has been converted to Anvil format.
  * Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
  * Items in brewing stands and dispensers in the resource world are now copied to the output world. Items in furnaces were already being copied over.
  * Inverted stairs in the resource world are correctly handled when imported. Inverted half-slabs were already working.
