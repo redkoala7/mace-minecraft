@@ -1,8 +1,6 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-Done
-
  * Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
  * Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
  * Fixed a bug when using the desert adjectives/nouns in custom themes. Thank you to Mitchell_R for letting me know about this.
@@ -20,3 +18,4 @@ Done
  * The type of wood planks and logs are randomised for each building.
  * Removed the !SplitContainer control, so hopefully it will work on Linux and OSX again. Please let me know either way.
  * Fixed the progress bar going above 100%.
+ * Added guards to the top of the walls. If Minecraft Villagers are selected, this will be iron golems. If Ghostdancer's NPCs are selected, this will be knights.
