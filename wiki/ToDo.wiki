@@ -3,7 +3,6 @@
 
 For changes that are done, but not released yet, please see the UnreleasedChanges page.
 
- * Fix the progress bar
  * Mineshaft features
   * Collapsed sections
  * Add knights to the guard towers
