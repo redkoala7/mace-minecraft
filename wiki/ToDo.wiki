@@ -26,3 +26,5 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * City / World
   * Wanted posters, bakery lists, book covers...
  * Adventure mode
+ * Investigate better distribution of building frequencies
+ * Check buggy spawning of NPCs in Anvil
