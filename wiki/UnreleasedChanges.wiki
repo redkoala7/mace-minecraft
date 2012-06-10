@@ -19,3 +19,4 @@ Done
  * The main streets can now be turned off in the theme generator. Themes generated in v1.10 will assume that main streets are wanted.
  * The type of wood planks and logs are randomised for each building.
  * Removed the !SplitContainer control, so hopefully it will work on Linux and OSX again. Please let me know either way.
+ * Fixed the progress bar going above 100%.
