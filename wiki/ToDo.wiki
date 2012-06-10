@@ -12,12 +12,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
   * Collapsed sections
  * Add knights to the guard towers
  * Add villagers to the paths
- * Anvil support
-  * This can be done when Substrate works with the Anvil map format
-  * Check double doors
-  * Check NPCs
-  * Check upside-down stairs
-  * Check chest rotations
  * Time warning when generating more than five/ten cities
  * NPC xml file
  * More buildings
@@ -26,9 +20,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
    * Graveyard
    * Airship dock
    * Nether portal
- * More city entrances
  * Improvements to existing buildings
- * Reduce the value of treasure found in random chests
  * Move more constants to the theme files
  * Allow for specifying the city co-ordinates
   * Why is this useful?
