@@ -1,6 +1,36 @@
 #summary All the changes for every version
 #labels Featured
 
+= 1.11 =
+
+ * + Added two more city entrances.
+ * + Added guards to the top of the walls. If Minecraft Villagers are selected, this will be iron golems. If Ghostdancer's NPCs are selected, this will be knights.
+ * + Added cobweb moat. Thanks to coau14 for this suggestion.
+ * + Added ankh emblem. Thanks for coau14 for this suggestion.
+ * + Added empty plots, which are selectable in custom themes. These are useful if you want to start building straight away.
+ * + Added a trap to the mineshaft.
+ * + Added villagers to the main streets.
+
+ * > Output worlds are in Anvil format.
+ * > The resource world has been converted to Anvil format.
+ * > Inverted stairs in the resource world are correctly handled when imported. Inverted half-slabs were already working.
+ * > Items in brewing stands and dispensers in the resource world are now copied to the output world. Items in furnaces were already being copied over.
+ * > Updated the door data to Anvil format. This means doors will be rotated correctly again.
+ * > Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
+ * > Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
+ * > Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
+ * > A time warning will appear when generating ten or more cities.
+ * > Fixed a bug when using the desert adjectives/nouns in custom themes. Thank you to Mitchell_R for letting me know about this.
+ * > Fixed animals not spawning in the barn. Thank you to coau14 for letting me know about this.
+ * > Reduced the value of treasure found in houses.
+ * > The type of wood planks and logs are randomised for each building.
+ * > Ice walls no longer have torches on the walkways, moats that would melt them and lights on the side of the walls. Thanks to Jaceon for suggesting this.
+ * > You can now cancel world generation. Thanks to Jaceon for suggesting this.
+ * > Fixed the progress bar going above 100%.
+ * > Building frequency distribution can be edited. Open the theme file and look for the frequency items in the options. Example syntax would be "10 8 5 2 1" without the quotes. Where 10 is very common buildings and 1 is very rare buildings . The numbers can add up to anything. Farm buildings are "20 16 12 8 4". Everything else is "9 8 7 6 5".
+
+ * - Removed the !SplitContainer control, so hopefully it will work on Linux and OSX again. Please let me know either way.
+
 = 1.10 =
 
   * Theme generator! Click the "New..." button and then change as many options as you want.
