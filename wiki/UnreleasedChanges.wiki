@@ -7,6 +7,7 @@
  * + Added ankh emblem. Thanks for coau14 for this suggestion.
  * + Added empty plots, which are selectable in custom themes. These are useful if you want to start building straight away.
  * + Added a trap to the mineshaft.
+ * + Added villagers to the main streets.
 
  * > Output worlds are in Anvil format.
  * > The resource world has been converted to Anvil format.
