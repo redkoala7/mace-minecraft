@@ -26,3 +26,7 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Adventure mode
  * Investigate better distribution of building frequencies
  * Check buggy spawning of NPCs in Anvil
+ * Rectangular buildings
+ * Player schematics for buildings
+ * Cancel world generation
+ * Expensive/normal items in chests. As appropriate for buildings. Switch in Mace to override.
