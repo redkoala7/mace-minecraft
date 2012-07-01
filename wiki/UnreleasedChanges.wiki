@@ -17,7 +17,6 @@
  * Added two more city entrances.
  * Added cobweb moat. Thanks to coau14 for this suggestion.
  * Added ankh emblem. Thanks for coau14 for this suggestion.
-
  * Reduced the value of treasure found in houses.
  * The main streets can now be turned off in the theme generator. Themes generated in v1.10 will assume that main streets are wanted.
  * The type of wood planks and logs are randomised for each building.
