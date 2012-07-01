@@ -16,6 +16,7 @@
  * > Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
  * > Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
  * > Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
+ * > A time warning will appear when generating ten or more cities.
  * > Fixed a bug when using the desert adjectives/nouns in custom themes. Thank you to Mitchell_R for letting me know about this.
  * > Fixed animals not spawning in the barn. Thank you to coau14 for letting me know about this.
  * > Reduced the value of treasure found in houses.
