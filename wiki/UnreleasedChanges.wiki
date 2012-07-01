@@ -25,5 +25,6 @@
  * > Ice walls no longer have torches on the walkways, moats that would melt them and lights on the side of the walls. Thanks to Jaceon for suggesting this.
  * > You can now cancel world generation. Thanks to Jaceon for suggesting this.
  * > Fixed the progress bar going above 100%.
+ * > Building frequency distribution can be edited. Open the theme file and look for the frequency items in the options. Example syntax would be "10 8 5 2 1" without the quotes. Where 10 is very common buildings and 1 is very rare buildings . The numbers can add up to anything. Farm buildings are "20 16 12 8 4". Everything else is "9 8 7 6 5".
 
  * - Removed the !SplitContainer control, so hopefully it will work on Linux and OSX again. Please let me know either way.
