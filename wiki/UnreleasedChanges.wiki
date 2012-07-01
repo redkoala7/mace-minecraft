@@ -1,27 +1,29 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
- + Added two more city entrances.
- + Added guards to the top of the walls. If Minecraft Villagers are selected, this will be iron golems. If Ghostdancer's NPCs are selected, this will be knights.
- + Added cobweb moat. Thanks to coau14 for this suggestion.
- + Added ankh emblem. Thanks for coau14 for this suggestion.
- + Added empty plots, which are selectable in custom themes. These are useful if you want to start building straight away.
- + Added a trap to the mineshaft.
+<pre>
++ Added two more city entrances.
++ Added guards to the top of the walls. If Minecraft Villagers are selected, this will be iron golems. If Ghostdancer's NPCs are selected, this will be knights.
++ Added cobweb moat. Thanks to coau14 for this suggestion.
++ Added ankh emblem. Thanks for coau14 for this suggestion.
++ Added empty plots, which are selectable in custom themes. These are useful if you want to start building straight away.
++ Added a trap to the mineshaft.
 
- * Output worlds are in Anvil format.
- * The resource world has been converted to Anvil format.
- * Inverted stairs in the resource world are correctly handled when imported. Inverted half-slabs were already working.
- * Items in brewing stands and dispensers in the resource world are now copied to the output world. Items in furnaces were already being copied over.
- * Updated the door data to Anvil format. This means doors will be rotated correctly again.
- * Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
- * Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
- * Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
- * Fixed a bug when using the desert adjectives/nouns in custom themes. Thank you to Mitchell_R for letting me know about this.
- * Fixed animals not spawning in the barn. Thank you to coau14 for letting me know about this.
- * Reduced the value of treasure found in houses.
- * The type of wood planks and logs are randomised for each building.
- * Ice walls no longer have torches on the walkways, moats that would melt them and lights on the side of the walls. Thanks to Jaceon for suggesting this.
- * You can now cancel world generation. Thanks to Jaceon for suggesting this.
- * Fixed the progress bar going above 100%.
+* Output worlds are in Anvil format.
+* The resource world has been converted to Anvil format.
+* Inverted stairs in the resource world are correctly handled when imported. Inverted half-slabs were already working.
+* Items in brewing stands and dispensers in the resource world are now copied to the output world. Items in furnaces were already being copied over.
+* Updated the door data to Anvil format. This means doors will be rotated correctly again.
+* Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
+* Fixed a bug in the city entrance validation code for custom themes. Thank you to empyreanunseen for letting me know about this.
+* Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
+* Fixed a bug when using the desert adjectives/nouns in custom themes. Thank you to Mitchell_R for letting me know about this.
+* Fixed animals not spawning in the barn. Thank you to coau14 for letting me know about this.
+* Reduced the value of treasure found in houses.
+* The type of wood planks and logs are randomised for each building.
+* Ice walls no longer have torches on the walkways, moats that would melt them and lights on the side of the walls. Thanks to Jaceon for suggesting this.
+* You can now cancel world generation. Thanks to Jaceon for suggesting this.
+* Fixed the progress bar going above 100%.
 
- - Removed the !SplitContainer control, so hopefully it will work on Linux and OSX again. Please let me know either way.
+- Removed the !SplitContainer control, so hopefully it will work on Linux and OSX again. Please let me know either way.
+</pre>
