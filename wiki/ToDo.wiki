@@ -6,7 +6,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
  * Mineshaft features
   * Collapsed sections
  * Add villagers to the paths
- * Time warning when generating more than five/ten cities
  * NPC xml file
  * More buildings
    * coau14's buildings
