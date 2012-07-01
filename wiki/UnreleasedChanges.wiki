@@ -5,6 +5,7 @@
  * Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
  * Fixed a bug when using the desert adjectives/nouns in custom themes. Thank you to Mitchell_R for letting me know about this.
  * Fixed animals not spawning in the barn. Thank you to coau14 for letting me know about this.
+ * Ice walls no longer have torches on the walkways, moats that would melt them and lights on the side of the walls. Thanks to Jaceon for suggesting this.
  * Output worlds are in Anvil format.
  * The resource world has been converted to Anvil format.
  * Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
@@ -14,6 +15,9 @@
  * Added a trap to the mineshaft.
  * Custom themes can now have empty plots. These are useful if you want to start building straight away.
  * Added two more city entrances.
+ * Added cobweb moat. Thanks to coau14 for this suggestion.
+ * Added ankh emblem. Thanks for coau14 for this suggestion.
+
  * Reduced the value of treasure found in houses.
  * The main streets can now be turned off in the theme generator. Themes generated in v1.10 will assume that main streets are wanted.
  * The type of wood planks and logs are randomised for each building.
