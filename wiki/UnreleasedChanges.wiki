@@ -5,11 +5,6 @@
  * Fixed a bug with various plant types in custom themes. Thank you to coau14 for letting me know about this.
  * Fixed a bug when using the desert adjectives/nouns in custom themes. Thank you to Mitchell_R for letting me know about this.
  * Fixed animals not spawning in the barn. Thank you to coau14 for letting me know about this.
- * Ice walls no longer have torches on the walkways, moats that would melt them and lights on the side of the walls. Thanks to Jaceon for suggesting this.
- * Added cobweb moat. Thanks to coau14 for this suggestion.
- * Added ankh emblem. Thanks for coau14 for this suggestion.
- * You can now cancel world generation. Thanks to Jaceon for suggesting this.
-
  * Output worlds are in Anvil format.
  * The resource world has been converted to Anvil format.
  * Desert cities are set to be in the desert biome. This means they will no longer get rain or snow.
@@ -22,6 +17,10 @@
  * Reduced the value of treasure found in houses.
  * The main streets can now be turned off in the theme generator. Themes generated in v1.10 will assume that main streets are wanted.
  * The type of wood planks and logs are randomised for each building.
+ * Ice walls no longer have torches on the walkways, moats that would melt them and lights on the side of the walls. Thanks to Jaceon for suggesting this.
+ * Added cobweb moat. Thanks to coau14 for this suggestion.
+ * Added ankh emblem. Thanks for coau14 for this suggestion.
+ * You can now cancel world generation. Thanks to Jaceon for suggesting this.
  * Removed the !SplitContainer control, so hopefully it will work on Linux and OSX again. Please let me know either way.
  * Fixed the progress bar going above 100%.
  * Added guards to the top of the walls. If Minecraft Villagers are selected, this will be iron golems. If Ghostdancer's NPCs are selected, this will be knights.
