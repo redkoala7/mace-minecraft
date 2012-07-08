@@ -1,5 +1,5 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
- * + Collapsed mineshaft sectios
+ * + Collapsed mineshaft sections
  * > Fixed a bug that caused Mace to die horribly when building frequencies were changed in custom themes. Thanks to drmule for letting me know about this.
