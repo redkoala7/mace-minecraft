@@ -1,6 +1,11 @@
 #summary All the changes for every version
 #labels Featured
 
+= 1.11.1 =
+
+ * + Collapsed mineshaft sections.
+ * > Fixed a bug that caused Mace to die horribly when building frequencies were changed in custom themes. Thanks to drmule for letting me know about this.
+
 = 1.11 =
 
  * + Added two more city entrances.
