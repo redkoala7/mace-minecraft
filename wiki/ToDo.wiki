@@ -3,8 +3,6 @@
 
 For changes that are done, but not released yet, please see the UnreleasedChanges page.
 
- * Mineshaft features
-  * Collapsed sections
  * NPC xml file
  * More buildings
    * coau14's buildings
@@ -14,8 +12,6 @@ For changes that are done, but not released yet, please see the UnreleasedChange
    * Nether portal
  * Improvements to existing buildings
  * Move more constants to the theme files
- * Allow for specifying the city co-ordinates
-  * Why is this useful?
  * Move the guard tower to the resource world
  * Link the noticeboard messages to the city buildings (maybe put in the buildings.xml file?)
  * Maps
