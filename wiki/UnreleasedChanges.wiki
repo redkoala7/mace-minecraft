@@ -1,4 +1,5 @@
 #summary I use this page to keep track of changes in between versions
 #labels Featured
 
-Nothing!
+* > Changed the save location for OSX. I have no way to test it, so please let me know if it works (or doesn't). Thank you to weatgtasg for helping me with this.
+* - Removed wood randomisation. 
