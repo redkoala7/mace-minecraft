@@ -3,9 +3,7 @@
 
 For changes that are done, but not released yet, please see the UnreleasedChanges page.
 
- * Fix chest rotation.
  * Customisable random wood.
- * Option in theme files to not randomize wood. Needed for buildings with trees.
  * Option to stop districts being split up, so that massive buildings can be placed by the generator. This is for drmule.
  * NPC xml file
  * More buildings
